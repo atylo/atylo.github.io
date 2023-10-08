@@ -1,7 +1,7 @@
 {
   "identifier": "com.atylorepo.source",
   "name": "Atylo's Repo",
-  "iconURL": "https://avatars.githubusercontent.com/u/18141838?v=4",
+  "iconURL": "https://i.imgur.com/8mhNRDS.png",
   "headerURL": "https://i.imgur.com/3qxtpnr.png",
   "news": [],
   "userInfo": {},
@@ -52,6 +52,7 @@
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/08/Chat-AI-Ask-Anything.jpeg",
       "localizedDescription": "Chat AI Ask Anything app",
       "name": "Chat AI++",
+	     "category": "Tweaked Apps",
       "screenshotURLs": [
         ""
       ],
