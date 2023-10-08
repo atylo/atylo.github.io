@@ -1,7 +1,7 @@
 {
   "identifier": "com.atylorepo.source",
   "name": "Atylo's Repo",
-  "iconURL": "https://avatars.githubusercontent.com/u/18141838?v=4",
+  "iconURL": "https://i.imgur.com/8mhNRDS.png",
   "headerURL": "https://i.imgur.com/3qxtpnr.png",
   "news": [],
   "userInfo": {},
@@ -100,6 +100,62 @@
       "version": "18.39.1",
       "versionDate": "2023-10-02T14:00:00-07:00",
       "versionDescription": "Current YouTube IPA: v18.39.1\nCurrent uYou Version: v3.0.1\nCurrent App Compatibility: iOS/iPadOS 14.0 or later (may have issues with iOS 17)\n    Updated YouTube from v18.38.2 to v18.39.1\n    Updated YTNoModernUI\n        Hints is no longer Rounded\n    Updated OLED and OLD Dark Theme\n        Added some improvements to the themes\n    Improved other stuff\n"
+    },
+	    {
+      "beta": false,
+      "bundleIdentifier": "com.codevn.unidream",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia804601.us.archive.org/4/items/uni-dream-4.1.1-le-ti/UniDream%2B%2B_4.1.1_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/02/UniDream-AI.jpeg",
+      "localizedDescription": "Upload photos of yourself, create your own AI art generated avatars for free. UniDream is an AI art generator that provides text to art, AI profile avatar creator, and animated images or videos. Enter a prompt, pick an art style and watch Uni Dream turn your idea into life and generate art in seconds.\n\nHere are the amazing features:\n\n-AI Dream Art & AI Drawing\n\nSimply describe your idea: “AI Art”, ”Alien Continent”, “Rainbow Unicorn” or anything else you can imagine, choose a style you want, click Create and wait a few seconds, you will be able to see your own Metaverse. Share your pictures with others or use it as wallpaper art, so that others can see your whimsy. Uni Dream uses AI model to create ai art. Our goal is to be one of the best AI Art Generator.\n\n– AI Avatar Creator\n\nTake your profile pics to the next level using AI avatar maker! Upload photos to generate profile avatars in various styles, scenes, and different gender. Fantasy AI Avatar can generate exclusive pics for you.\n\n– More Art Models in One app\n\nUni Dream app uses the model trained on stable diffusion. You can choose what you like! You can convert yourself and your pets into anime in a flash.\n\n– Professional Photo and Video Editor\n\nNow Uni Dream offers many editing options. Easily animate Images and videos! You can generate fantasy art with just a few steps. Turn your selfies, photos of pets, and photos of friends into playful cartoon videos. It’s a fun and easy tool for transforming regular photos into real cartoon videos.",
+      "name": "UniDream Pro++",
+	  "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "create your own AI art generated avatars",
+      "tintColor": "222544",
+      "version": "4.1.1",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+	    {
+      "beta": false,
+      "bundleIdentifier": "com.codevn.clarityai",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia600505.us.archive.org/16/items/photo-of-clarity-1.8.8-le-ti/Photo%20Of%20Clarity_1.8.8_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/08/Photo-Of-Clarity-AI-Enhancer.jpeg",
+      "localizedDescription": "Welcome to Photo Of Clarity, where we specialize in enhancing photos to make them clearer and more vibrant using cutting-edge AI technology. We excel at handling old, stained, damaged, low-resolution, or blurry portrait or landscape photos.\n\n* Perfect Results: Through deep learning and AI visual technology, we continuously optimize our AI models to enhance the quality of your photos.\n\n* Portrait Enhancement: For portrait photos, we utilize AI inference models to reconstruct facial details.\n\n* Colorization: We bring back the colors to grayscale or black-and-white photos, restoring their original vibrancy.\n\n* User-friendly Interface: Simply import your photos and get enhanced images with just a few clicks.\n\n* Privacy Protection: We provide a local processing mode, ensuring that all your photos are processed locally without being uploaded to our servers, protecting your privacy.\n\n* No Ads, No VIP: We are committed to providing a clean and streamlined user experience, which means no annoying ads or additional charges.\n\nWhether you want to preserve precious memories, share beautiful moments, or enhance old photos to make them clearer, Photo Of Clarity is the perfect choice for you. Download now to make your photos clearer and more vibrant!",
+      "name": "Photo Of Clarity++",
+	  "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Photo Of Clarity – AI Enhancer",
+      "tintColor": "222544",
+      "version": "1.8.8",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },    {
+      "beta": false,
+      "bundleIdentifier": "com.codevn.airglow",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia600508.us.archive.org/30/items/air-brush-5.7.0-le-ti/AirGlow%2B%2B_1.0.5_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/08/AirGlow.jpeg",
+      "localizedDescription": "AirGlow transforms your video in an unbelievable experience that you can share everywhere! Tell your stories with your own personal touch! All in real time!\n\nUse AirGlow to:\n\n– Create magical videos to share\n\n– Add any kind of filter for a perfect moment\n\n– Share perfect stories\n\nWhat you can find in AirGlow?\n\n– RETOUCH VIDEOS\n\n* Perfect smile with whiten feature\n\n* Expand or slim any facial feature\n\n* Plump up lips\n\n* Remove dark circles\n\n* Smooth and glowing skin\n\n* Contouring taken to the next level of perfection\n\n– SO MANY FILTERS!\n\nThe most incredible filters for all your amazing moments\n\n* Earthy filter\n\n* Modern filter\n\n* Blush filter and so much more\n\nYou can choose a filter a day and add that perfect missing part to the stories you want to tell! All real time!",
+      "name": "AirGlow Pro++",
+	  "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Create magical videos to share",
+      "tintColor": "222544",
+      "version": "1.0.5",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
     }
   ]
 }
