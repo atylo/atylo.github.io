@@ -14,7 +14,7 @@
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/08/Loopsie-Deforum-AI-Art.jpeg",
       "localizedDescription": "Turn every pic into an incredible 3D photo! Choose from dozens of unique 3D stickers: butterflies, bubbles, sparkles, snow, and many more.\n\nWe update new effects or presets every week!\n\nLoopsie lets you create stunning photo edits with stickers, special effects, filters and theme presets! Our animation allows you to create 3D Photos, D3D Camera like videos and much more. All-in-one app without any professional equipment. Just a bit of creativity and your photos will come to life with a stunning cinematic effect!\n\nOur motion photo effects make your short videos unique and let your content stand out from other photos and videos. Forget those old photo filters and photo editor, welcome our new breathtaking video loops.\n\n— Anime Effect —\n\nMake your photo viral by turning yourself into an anime character with our advanced AI technology. It only requires one tap and a few seconds of processing, you will be able to export a 100% cartoon-like portrait!\n\n— Popular Presets & Special Effects —\n\nAnime, Legends, Vertigo, Motion blur\n\nButterfly, Neon, Sparkle, Cloud, Vaporware, vhs, Indie\n\n— 3D Photo —\n\nAdd a new dimension to your photos.\n\nYou can use our integrated 3D camera or create a 3D photo starting from a normal photo.\n\nYou can choose between a vintage effect like a D3D camera, or a standard high quality 3D picture. Loopsie mimics many movement, from the classic 360 wiggle, to a vertical fast movement.\n\n— Advanced Technologies —\n\nMachine Learning Based Depth Prediction:\n\nWe built a Neural Network that accurately predicts the depth of every photo.\n\nAugmented Reality Stickers:\n\nLoopsie enriches the picture with 3D augmented reality stickers.\n\nAdvanced 3D Scene Reconstruction:\n\nWe developed a unique algorithm to fill the missing part of the 3D scene\n\n3D Segmentation:\n\nThe neural network we developed will segment the subjects from the scene for a more dimensional view.",
       "name": "Loopsie Pro++",
-	  "category": "Tweaked Apps",
+      "category": "Tweaked Apps",
       "screenshotURLs": [
         ""
       ],
@@ -33,7 +33,7 @@
       "iconURL": "https://codevn.net/wp-content/uploads/2023/01/1673432536-96d6f2e7e1f705a.png",
       "localizedDescription": "Who knows",
       "name": "CodeVNdotnet",
-	  "category": "Unknown",
+      "category": "Unknown",
       "screenshotURLs": [
         ""
       ],
@@ -52,7 +52,7 @@
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/08/Chat-AI-Ask-Anything.jpeg",
       "localizedDescription": "Chat AI Ask Anything app",
       "name": "Chat AI++",
-	  "category": "Tweaked Apps",
+      "category": "Tweaked Apps",
       "screenshotURLs": [
         ""
       ],
@@ -71,7 +71,7 @@
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/06/Dreamerland.jpeg",
       "localizedDescription": "Unleash your creativity with Dreamerland! Create stunning AI generated art in any style you can imagine. Download now and inspire others with your unique creations!\n\nThe All-in-one AI art generation tool! Let your imagination run wild as you create beautiful, unique and captivating pieces of art with the help of our advanced AI algorithms.\n\nWhether you’re an artist, designer, or simply looking for a new creative outlet, Dreamerland is the perfect tool for you. With its intuitive interface and powerful AI engine, you’ll be able to create stunning pieces of art with just a few taps.\n\nFrom anime to realistic, Dreamerland has got you covered. Choose from a vast library of styles and themes, or create your own custom style with ease. The possibilities are endless, and the results are truly breathtaking.\n\nSo why wait? Download Dreamerland today and unleash your inner artist!\n\n– No skill needed\n\nDreamerland is designed to be easy and accessible for everyone, regardless of your artistic skills or experience. Whether you’re a professional artist or have never created art before, you can use Dreamerland to generate beautiful, one-of-a-kind pieces. With no skill required, you can unleash your imagination and create stunning art with ease!\n\n– Explore more than 100+ styles\n\nWith Dreamerland, you’ll have access to a vast library of styles and themes, allowing you to generate art in a wide range of styles. Whether you prefer anime, abstract, realistic, or something in-between, there’s a style for everyone! With over 100 styles to choose from, the possibilities for your art are endless.\n\n– Unleash your creativity\n\nLet your imagination run wild and create art that’s truly unique and personal. With Dreamerland, you’ll have the power to generate art in any style you can imagine. Whether you’re looking to create a piece for your work or just for fun, Dreamerland is the perfect generator for you!\n\n– Share your creations with the world\n\nShow off your art to the world and share it with your friends and community. Dreamerland makes it easy to share your creations on social media, or save them to your device for later. Impress your friends and inspire others with your unique and personal art, created by Dreamerland!\n\n– How does it Work?\n\n1. Input the dream you think of\n\n2. Choose a style or theme you want\n\n3. Let AI create the art\n\n4. Save and share it to the world.",
       "name": "Dreamerland Pro++",
-	  "category": "Tweaked Apps",
+      "category": "Tweaked Apps",
       "screenshotURLs": [
         ""
       ],
@@ -82,15 +82,15 @@
       "versionDate": "2023-05-24T14:00:00-07:00",
       "versionDescription": ""
     },
-	    {
+    {
       "beta": false,
       "bundleIdentifier": "com.miro.uyouplusextra",
       "developerName": "MiRO",
       "downloadURL": "https://github.com/arichorn/uYouPlusExtra/releases/download/v18.39.1-3.0.1/uYouPlusExtra_18.39.1_3.0.1.ipa",
       "iconURL": "https://user-images.githubusercontent.com/78001398/271790092-006e81cc-715a-4fbc-aff6-15832e2da8c4.png",
-      "localizedDescription": "Updated version of uYou, with uYouPlus and Extra to work in 2023",
+      "localizedDescription": "Updated version of uYou, with uYouPlus and Extra to work in 2023. Current YouTube IPA: v18.39.1\nCurrent uYou Version: v3.0.1\nCurrent App Compatibility: iOS/iPadOS 14.0 or later (may have issues with iOS 17)\n    Updated YouTube from v18.38.2 to v18.39.1\n    Updated YTNoModernUI\n        Hints is no longer Rounded\n    Updated OLED and OLD Dark Theme\n        Added some improvements to the themes\n    Improved other stuff\n",
       "name": "uYouPlusExtra",
-	  "category": "Tweaked Apps",
+      "category": "Tweaked Apps",
       "screenshotURLs": [
         ""
       ],
@@ -101,7 +101,7 @@
       "versionDate": "2023-10-02T14:00:00-07:00",
       "versionDescription": "Current YouTube IPA: v18.39.1\nCurrent uYou Version: v3.0.1\nCurrent App Compatibility: iOS/iPadOS 14.0 or later (may have issues with iOS 17)\n    Updated YouTube from v18.38.2 to v18.39.1\n    Updated YTNoModernUI\n        Hints is no longer Rounded\n    Updated OLED and OLD Dark Theme\n        Added some improvements to the themes\n    Improved other stuff\n"
     },
-	    {
+    {
       "beta": false,
       "bundleIdentifier": "com.codevn.unidream",
       "developerName": "CodeVN",
@@ -109,7 +109,7 @@
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/02/UniDream-AI.jpeg",
       "localizedDescription": "Upload photos of yourself, create your own AI art generated avatars for free. UniDream is an AI art generator that provides text to art, AI profile avatar creator, and animated images or videos. Enter a prompt, pick an art style and watch Uni Dream turn your idea into life and generate art in seconds.\n\nHere are the amazing features:\n\n-AI Dream Art & AI Drawing\n\nSimply describe your idea: “AI Art”, ”Alien Continent”, “Rainbow Unicorn” or anything else you can imagine, choose a style you want, click Create and wait a few seconds, you will be able to see your own Metaverse. Share your pictures with others or use it as wallpaper art, so that others can see your whimsy. Uni Dream uses AI model to create ai art. Our goal is to be one of the best AI Art Generator.\n\n– AI Avatar Creator\n\nTake your profile pics to the next level using AI avatar maker! Upload photos to generate profile avatars in various styles, scenes, and different gender. Fantasy AI Avatar can generate exclusive pics for you.\n\n– More Art Models in One app\n\nUni Dream app uses the model trained on stable diffusion. You can choose what you like! You can convert yourself and your pets into anime in a flash.\n\n– Professional Photo and Video Editor\n\nNow Uni Dream offers many editing options. Easily animate Images and videos! You can generate fantasy art with just a few steps. Turn your selfies, photos of pets, and photos of friends into playful cartoon videos. It’s a fun and easy tool for transforming regular photos into real cartoon videos.",
       "name": "UniDream Pro++",
-	  "category": "Tweaked Apps",
+      "category": "Tweaked Apps",
       "screenshotURLs": [
         ""
       ],
@@ -120,7 +120,7 @@
       "versionDate": "2023-05-24T14:00:00-07:00",
       "versionDescription": ""
     },
-	    {
+    {
       "beta": false,
       "bundleIdentifier": "com.codevn.clarityai",
       "developerName": "CodeVN",
@@ -128,7 +128,7 @@
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/08/Photo-Of-Clarity-AI-Enhancer.jpeg",
       "localizedDescription": "Welcome to Photo Of Clarity, where we specialize in enhancing photos to make them clearer and more vibrant using cutting-edge AI technology. We excel at handling old, stained, damaged, low-resolution, or blurry portrait or landscape photos.\n\n* Perfect Results: Through deep learning and AI visual technology, we continuously optimize our AI models to enhance the quality of your photos.\n\n* Portrait Enhancement: For portrait photos, we utilize AI inference models to reconstruct facial details.\n\n* Colorization: We bring back the colors to grayscale or black-and-white photos, restoring their original vibrancy.\n\n* User-friendly Interface: Simply import your photos and get enhanced images with just a few clicks.\n\n* Privacy Protection: We provide a local processing mode, ensuring that all your photos are processed locally without being uploaded to our servers, protecting your privacy.\n\n* No Ads, No VIP: We are committed to providing a clean and streamlined user experience, which means no annoying ads or additional charges.\n\nWhether you want to preserve precious memories, share beautiful moments, or enhance old photos to make them clearer, Photo Of Clarity is the perfect choice for you. Download now to make your photos clearer and more vibrant!",
       "name": "Photo Of Clarity++",
-	  "category": "Tweaked Apps",
+      "category": "Tweaked Apps",
       "screenshotURLs": [
         ""
       ],
@@ -138,7 +138,8 @@
       "version": "1.8.8",
       "versionDate": "2023-05-24T14:00:00-07:00",
       "versionDescription": ""
-    },    {
+    },
+    {
       "beta": false,
       "bundleIdentifier": "com.codevn.airglow",
       "developerName": "CodeVN",
@@ -146,7 +147,7 @@
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/08/AirGlow.jpeg",
       "localizedDescription": "AirGlow transforms your video in an unbelievable experience that you can share everywhere! Tell your stories with your own personal touch! All in real time!\n\nUse AirGlow to:\n\n– Create magical videos to share\n\n– Add any kind of filter for a perfect moment\n\n– Share perfect stories\n\nWhat you can find in AirGlow?\n\n– RETOUCH VIDEOS\n\n* Perfect smile with whiten feature\n\n* Expand or slim any facial feature\n\n* Plump up lips\n\n* Remove dark circles\n\n* Smooth and glowing skin\n\n* Contouring taken to the next level of perfection\n\n– SO MANY FILTERS!\n\nThe most incredible filters for all your amazing moments\n\n* Earthy filter\n\n* Modern filter\n\n* Blush filter and so much more\n\nYou can choose a filter a day and add that perfect missing part to the stories you want to tell! All real time!",
       "name": "AirGlow Pro++",
-	  "category": "Tweaked Apps",
+      "category": "Tweaked Apps",
       "screenshotURLs": [
         ""
       ],
@@ -156,6 +157,219 @@
       "version": "1.0.5",
       "versionDate": "2023-05-24T14:00:00-07:00",
       "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.codevn.epik",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia802704.us.archive.org/30/items/epik-4.1.1-le-ti/EPIK%2B%2B_4.1.1_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/07/EPIK.jpeg",
+      "localizedDescription": "Professional photo edit with advanced editing tools.\n\n[ Main features ]\n\n● Professional editing features\n\nFor color : HSL, Curves, Split tone, Lux, Grain, Vignette\n\nFor perfection : Crop, Rotate, Mirror, Flip, Perspective\n\n● Perfect portraits\n\nRetouch to remove blemishes, natural Face, trendy Makeup\n\nTouch up, Body, Paint, Hair color, Relight, Mosaic, AI Skin, AI Hairstyle, Reflection\n\n● Artistic photo styling\n\nTrendy Effects, Stickers, Text, Brush, Time stamp, Draw shapes, Spot Color\n\n[ Creative tools ]\n\n● Templates updated weekly\n\nUse customizable templates for easy editing\n\n● Unique style made by you\n\nAdd photos, create stickers using Cutout, use Brushes in your own way, and Create my own filter that is unique\n\n● Background, Color frame, Border, AI filter, AI Expression\n\n[ For you ]\n\n● Find plenty of premium features for that perfect photo!\n\nCutout, Remove, Selective, Patch, Relight, Mosaic, Layout, Batch Edit, Collage, Enhance",
+      "name": "EPIK Pro++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "EPIK Pro",
+      "tintColor": "222544",
+      "version": "4.1.1",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.codevn.genie",
+      "developerName": "CodeVN",
+      "downloadURL": "https://download.starfiles.co/5Urqzy5Swbs9",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/07/Genie.jpeg",
+      "localizedDescription": "Genie is a revolutionary AI chatbot powered by ChatGPT & GPT-4, GPT-3.\n\nDiscover the new way of communication and productivity with ChatGPT, a cutting-edge AI-powered chatbot designed to revolutionize the way you interact, learn, and achieve your goals. Powered by OpenAI’s advanced technology, Genie is here to become your ultimate personal assistant, friend, and conversational partner, all in one easy-to-use app.",
+      "name": "Genie++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "",
+      "tintColor": "222544",
+      "version": "5.2.1",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.codevn.prisma",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia802705.us.archive.org/5/items/prisma-4.7.9-le-ti/Prisma%2B%2B_4.7.9_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/07/Prisma.jpeg",
+      "localizedDescription": "You don’t need to be an experienced photo editor to turn photos into captivating digital art. Why? Because there’s Prisma for it! With the Prisma photo editor, it’s easy to unleash the artist within and go from average photo to mesmerizing edit in seconds!\n\nRecognized as the App of the Year in 2016 Prisma has a constantly growing community of over 120 million users all over the world. Prisma provides a lot of features both for general and selfie photo editing. Download Prisma and let AI technology convert your photos into an artistic piece!\n\nFEATURES\n\nEXTENSIVE LIBRARY OF STYLES\n\nMore than 500 various styles are waiting for you to be tried out in Prisma’s library. New styles are going live on a daily basis for you to spruce up your creativity. You can also try Portrait styles that are specially designed for making captivating selfies.\n\nTOP-NOTCH FUNCTIONALITY\n\n•Among the best selection of Prisma’s tools to customize your photo, it’s worth mentioning the Portrait Segmentation feature. The essential tool for selfies is set to not only add the style to the whole image but also be applied either to the person or the background separately.\n\n•Another way to enhance your photos without putting too much effort into the editing process is using vivid frames that will complement absolutely any of your photos.\n\n•And the icing on the cake — Prisma’s feature for background editing. With this tool, you can replace the background of any selfie you want! You can select the background from the colorful templates, or choose any other from your phone’s gallery.",
+      "name": "Prisma++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Turn photos into art",
+      "tintColor": "222544",
+      "version": "4.7.9",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.codevn.policescanner",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia902601.us.archive.org/1/items/police-scanner-1.5-le-ti/Police%20Scanner%2B%2B_1.5_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/06/Police-Scanner.jpeg",
+      "localizedDescription": "Police Scanner App lets you discover everything from live police radio, breaking news, fire alarms, terrorism to crimes that are happening nearby. It is the world’s largest source of online scanner streaming service. Stay up to date with your local news, public safety, traffic, as well as major live events in real time.\n\nJoin millions of people who use our services to keep informed of everything that is happening around nearby. Browse through thousands of live feeds from all over the world. Filter scanners by county, state or country with just a few taps.\n\n \n\nFEATURES:\n\n– Dedicated sections for local, top 100 and custom feeds.\n\n– Breaking news alerts to get real time updates.\n\n– GPS tracking to locate the nearest scanners around you.\n\n– Personalised field designed to store your favourite stations at one place.\n\n– Background audio streaming option to ease your multitasking experience.\n\n– Automatic reconnections during any disrupted broadcast.\n\n– Popularity meter to see the popularity for each feed.\n\n– See the real time listener number count.\n\n– Enjoy absolutely ad-free user experience.",
+      "name": "Police Scanner++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Police Scanner",
+      "tintColor": "222544",
+      "version": "1.5",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.codevn.mimo",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia802707.us.archive.org/31/items/mimo-6.11.0-le-ti/Mimo%2B%2B_6.11.0_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/05/Mimo.jpeg",
+      "localizedDescription": "To make the coding experience more accessible, intuitive, and user-friendly, we introduce new learning paths (JavaScript and HTML), path UI redesign, and rebranding!\n\n \n\nLearning to code has never been so easy!\n\n \n\nAdvance your career, build apps and websites, or even become a developer. Mimo makes learning to code and diving into computer science as intuitive and easy as possible so that everyone can learn to code – the skill of the century, step-by-step.\n\n \n\nYou will learn to code in Python, JavaScript, HTML through practice, with bite-size coding lessons, by writing code and running it in our mobile code editor that works like an IDE and lets you run your code, interact with Mimo’s coding community, create projects, learn multiple programming languages, and do much more at your own pace! With Mimo, you can fit coding into a busy daily schedule, whenever you have a few minutes to spare.\n\n \n\nUsed by millions of learners, Mimo is just about the most accessible and effective way to learn to code in Python, JavaScript, HTML, SQL, and more. Our programming courses and lessons are suitable for everyone, even with little or no prior coding experience.\n\n \n\nMimo helps you learn the most popular programming languages like HTML, JavaScript, CSS, Python, SQL, and reach your coding goals:\n\n• Start the PYTHON path and begin your coding journey with an in-demand and all-purpose language. Learn Python with 2,600+ bite-size exercises, 53+ Concepts, and 32+ Projects that will unlock as you keep expanding your skills.\n\n• By choosing the WEB DEVELOPMENT path, you’ll dive into building websites with HTML, CSS, and JavaScript. Start your Web Development journey with 13,000+ bite-size exercises, 87+ Concepts, and 62+ Projects.\n\n• With the SQL curriculum, you’ll dive into data science and learn to analyze data with SQL\n\n \n\nWith Mimo you can:\n\n• Solve bite-size programming exercises that fit into your daily routine\n\n• Run code and build a portfolio of projects in Python, JavaScript, HTML\n\n• Learn programming at your own pace\n\n• Practice with coding challenges\n\n• Get a certificate to showcase your coding skills\n\n• Join a community of millions of coders",
+      "name": "Mimo++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Mimo",
+      "tintColor": "222544",
+      "version": "6.11.0",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.codevn.picmushroom",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia800504.us.archive.org/16/items/picture-mushroom-2.10.6-le-ti/Picture%20Mushroom%2B%2B_2.10.6_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/02/Picture-Mushroom-Fungi-finder.jpeg",
+      "localizedDescription": "Are you looking for a quick and accurate mushroom identifier? The Picture Mushroom app is right for you!\n\nSimply take or upload a picture of a mushroom, and the Picture Mushroom app will tell you what it is in seconds. The app will offer you several similar species to choose from, and you can find the most exact one by comparing the images. In the scanning result, you can learn lots of useful info including mushroom names, habitats, ways of identifying, and so on. This app will also warn you of some toxic mushrooms so that you can stay away from them to keep safe.\n\nMoreover, the app has many articles about mushrooms, like ways of identifying mushrooms,mushroom-related stories, and more. With the Picture Mushroom app, you can learn the most trending topics in the field.\n\nAdditionally, the app allows you to track your foraging sites for your next picking reference. It will recommend some seasonal mushrooms according to your location, and show the distribution map so that you can know what kind of mushrooms to pick and where to find them. You can also manage and share your identified mushroom with the in-app collection.\n\nWhether you like to collect, study, or teach mushrooms, or just want to learn more about the world of mushrooms, Picture Mushroom is the right tool for beginners and advanced mushroom users.\n\n \n\nKey Features:\n\n– Fast and accurate ID of numerous species of mushrooms, fungi, and the like\n\n– Full mushroom encyclopedia including all the info you need to know about mushrooms like name, habitat, identification method, toxicity, and more\n\n– High-quality articles for you to know the trending topics in the field of mushroom\n\n– Finely designed and user-friendly interface which allows you to easily identify, learn and share mushrooms\n\n– Keep track of your foraging site for your next picking reference\n\n– Recommend seasonal mushrooms of your place and show a mushroom distribution map\n\n– Easily keep track of the mushrooms you’ve identified in your collection, and share your findings with your friends",
+      "name": "Picture Mushroom++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Picture Mushroom recognise schrooms",
+      "tintColor": "222544",
+      "version": "2.10.6",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.codevn.picbird",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia801600.us.archive.org/30/items/picture-bird-2.11.9-le-ti/PictureBird%2B%2B_2.11.9_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/02/Picture-Bird-Birds-Identifier.jpeg",
+      "localizedDescription": "Picture Bird is a useful and smart bird identifier app that can recognize any bird species by photo or sound. Simply take/upload a picture of a bird or record a bird’s sound, and you can get everything you want to know about it.\n\nKey Features:\n\nAccurate Bird ID:\n\nWith machine deep learning technology in pictures and sound recognition, the Picture Bird app can identify up to 10,000+ bird species with incredible accuracy. Users can either upload a bird picture or record a bird song or call, and the app will compare it with training sets of millions of photos or sounds in the database and provide the most exact match.\n\nBirding Camera:\n\nAre you still using a heavy camera to photograph birds? A phone app can do this now! Focus your phone camera on a bird, zoom in on the bird to find the best position and the app will automatically sharpen the picture. The Picture Bird app lets you have the most pleasing bird sightseeing experience.\n\nBird Feeding:\n\nDo you want to attract birds to your backyard, or do you want to help birds in need on winter days? Picture Bird can help! Use the filters, and choose your food type and feeder, you will get to know what birds you can attract and how to feed them.\n\nDetailed Bird Info:\n\nFull encyclopedia of bird info. In your identified results, you can get detailed bird info including bird appearance, sound, habitat, distribution, feeding habits, etc. The Picture Insect app also provides high-quality articles on bird ID, attracting tips, birding hints, bird sightings, and more.\n\nUnique Collections:\n\nSave your observations with the in-app collection function and easily manage your findings. Share your happiness with friends with unique bird cards.\n\nWhether you are curious about the name of a bird you met, eager to learn bird-feeding tips, or want to educate your children, Picture Bird will help you in the easiest and most effective way.",
+      "name": "Picture Bird++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Picture Bird recognise birds",
+      "tintColor": "222544",
+      "version": "2.11.9",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.codevn.animatix",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia804706.us.archive.org/3/items/animatix-1.4.3-le-ti/Animatix_1.4.3_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/01/Animatix.png",
+      "localizedDescription": "Animatix turns your photos into captivating animations and cartoons. It uses real-world animation techniques to breathe life into your still photos, adding motion that makes their edges and color come alive. Choose from 24 animation styles, then make your animations pop with any of Animatix’s many unique cartoon, comic, sketch and art effects. Fine-tune your results to get the perfect look and share your creations as GIFs, videos, or Live Photos.\n\n \n\n• Choose from 24 different animation styles\n\n• Make your animations pop with various cartoon, comic, sketch and art effects\n\n• Fine-tune your animations for the perfect look\n\n• Create GIFs, videos, and Live Photos from your animations\n\n• Turn off animation to save expressive still photos\n\n• Share directly to Facebook, Instagram, and more",
+      "name": "Animatix",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Turn your photos into captivating animations and cartoons",
+      "tintColor": "222544",
+      "version": "1.4.3",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "name": "AltStore (Alpha)",
+      "bundleIdentifier": "com.rileytestut.AltStore.Alpha",
+      "developerName": "Riley Testut",
+      "subtitle": "An alternative App Store for iOS.",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "tintColor": "018084",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "versions": [
+        {
+          "version": "2.0a1",
+          "date": "2023-03-27T12:00:00-05:00",
+          "localizedDescription": "This alpha includes the initial version of About pages for sources.",
+          "downloadURL": "https://f000.backblazeb2.com/file/altstore/sources/alpha/altstore/2_0_a1.ipa",
+          "size": 5626076,
+          "sha256": "a87ef7b2a413f234985afa048f77baf7911825ddda1a8b3610fecdd2c3093272",
+          "minOSVersion": "12.2"
+        },
+        {
+          "name": "AltStore (Beta)",
+          "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+          "developerName": "Riley Testut",
+          "subtitle": "An alternative App Store for iOS.",
+          "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
+          "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+          "tintColor": "018084",
+          "screenshotURLs": [
+            "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+            "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+            "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+          ],
+          "versions": [
+            {
+              "version": "2.0b4",
+              "date": "2023-09-15T13:30:00-05:00",
+              "localizedDescription": "• Updates Home Screen widget names & descriptions\n• Fixed returning empty dialog from Refresh Apps shortcut\n\nPREVIOUS BETA\n\n\"Active Apps\" Widget (iOS 17+)\n• View remaining days for ALL active apps from Home Screen\n• Refresh apps directly from home screen by tapping countdown timers\n\nShortcuts\n• Converted existing \"Refresh All Apps\" shortcut into App Shortcut\n• Available by default in \"App Shortcuts\" section of Shortcuts app\n• Displays accurate progress when refreshing apps via Shortcuts app\n\nWidgets\n• Updated existing home screen widget to support refreshing apps by tapping countdown (iOS 17+)\n\nBug Fixes\n• Fixed AltJIT on iOS 17*\n\n*Requires AltServer 1.7rc (macOS) from latest Patreon post",
+              "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_0_b4.ipa",
+              "size": 5950900,
+              "sha256": "5f2546be957509532675f4827185d8ec071eaf3a6a5785dc01efcc1e0c88890d",
+              "minOSVersion": "14.0"
+            }
+          ],
+          "appPermissions": {
+            "entitlements": [],
+            "privacy": [
+              {
+                "name": "LocalNetwork",
+                "usageDescription": "AltStore uses the local network to find and communicate with AltServer."
+              }
+            ]
+          },
+          "beta": false,
+          "appID": "com.rileytestut.AltStore.Beta"
+        }
+      ]
     }
   ]
 }
