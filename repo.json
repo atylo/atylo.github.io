@@ -507,6 +507,24 @@
       "screenshotURLs": [
         ""
       ]
+    },
+    {
+      "name": "Misaka",
+      "category": "Stores",
+      "bundleIdentifier": "com.misaka.misaka",
+      "developerName": "Rin",
+      "subtitle": "Semi-Jailbroken apps and tweaks store",
+      "localizedDescription": "Misaka is a recently developed package manager for iOS devices that does not require jailbreaking. It is based on the MacDirtyCow vulnerability and is compatible with iOS versions 16.0–16.1.2 and 15.0–15.7.1, and all devices that use A9 to A16 chips. Once installed, you can browse through a catalog of MacDirtyCow or kfd-compatible add-ons much like you can search for jailbreak tweaks on jailbroken handset running Cydia, Sileo, Zebra, or some other package manager app.",
+      "iconURL": "https://cdn.discordapp.com/icons/1074625970029477919/13cbff53e29ec498a759c66aafc21eb8.png",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/DqlcVnYffbgA4A",
+      "size": 5950900,
+      "version": "2.5.1",
+      "versionDate": "2023-10-02",
+      "versionDescription": "",
+      "tintColor": "",
+      "screenshotURLs": [
+        ""
+      ]
     }
   ]
 }
