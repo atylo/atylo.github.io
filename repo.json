@@ -462,7 +462,7 @@
       "subtitle": "Elevate",
       "localizedDescription": "Elevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\n \n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequently use Elevate.\nFEATURES\n\n \n\n• 40+ Brain Training Games: Improve your critical cognitive skills like focus, memory, processing, math, precision, and comprehension with 40+ brain training games.\n\n• Performance Tracking: Measure your performance against yourself and others. Weekly reports highlight your key accomplishments and opportunities.\n\n• Personalized Workouts: Customize your daily training focus and choose between 3 and 5 games. Get personalized daily workouts that include the skills you need most.\n\n• Adaptive Progression: Train your brain with adaptive difficulty progression that ensures your experience is challenging.\n\n• Workout Calendar: Track your streaks and stay motivated with Elevate’s workout calendar.\n\n• Elevate Dash on Apple Watch: Play 4 additional mini-games and review your performance on your Apple Watch with Elevate Dash.\n\n• And more!\n\n \n\nWHY YOU NEED ELEVATE\n\n \n\n• Express yourself more effectively in writing. Write with clarity, persuasiveness, and concision.\n\n• Improve your spelling and punctuation. Avoid common writing pitfalls.\n\n• Become a better reader. Read everyday materials faster and with greater understanding.\n\n• Expand your vocabulary.\n\n• Quickly and easily solve everyday math problems. Get better at comparing prices, splitting bills, and calculating discounts and markups.\n\n• Speak more effectively. Become more articulate and better at communicating tone and meaning.",
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/10/Elevate.jpeg",
-      "downloadURL": "",
+      "downloadURL": "https://www.dropbox.com/scl/fi/pqa8xz6g84t4mqsbiihnj/Elevate-_5.89.1_LeTi.ipa?rlkey=n26tr07hqk1xnvqjbd2bcun4w&dl=1",
       "size": 5950900,
       "version": "5.89.1",
       "versionDate": "2022-10-07",
@@ -480,7 +480,7 @@
       "subtitle": "Video Grabber",
       "localizedDescription": "Video Grabber application grabs direct links to videos played from any website. Simply use the web browser inside the app to open any video and you will get a direct link to it.\n\n \n\nYou can use Video Grabber on you iPhone together with Video Grabber app for Apple TV. Launch Video Grabber application on both iPhone and Apple TV and every video that you play from any website on your iPhone will also automatically play on your Apple TV. After starting the video on Apple TV you can close the iPhone application or even turn off your phone and still watch your video on Apple TV.",
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/09/Video-Grabber.png",
-      "downloadURL": "",
+      "downloadURL": "https://www.dropbox.com/scl/fi/wz9y0fql2gqhv5s4ke6t3/VideoGrabber_1.0.8_LeTi.ipa?rlkey=pm58go97i01upy6u18zmgwc08&dl=1",
       "size": 5950900,
       "version": "1.0.8",
       "versionDate": "2022-09-27",
@@ -503,6 +503,42 @@
       "version": "6.8.0",
       "versionDate": "2022-03-08",
       "versionDescription": "",
+      "tintColor": "",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "GBOX",
+      "category": "Stores",
+      "bundleIdentifier": "com.atylo.gbox",
+      "developerName": "GBOX",
+      "subtitle": "an App store and signer",
+      "localizedDescription": "If you jailbreak your iOS device, you won't have to worry about app revokes or signing IPA files. However, if you prefer a non-jailbroken environment, you can use GBox for iOS, which is a reliable on-device re-sign tool for iOS. This app allows you to install IPA files without needing a PC, making it a convenient option for users who want to sideload apps. The most recent GBox IPA update brings support for iOS 17. GBox (GBox Run) is a powerful on-device IPA signing tool that empowers iOS users to sideload jailbreak tools, apps, games, console emulators, and tweaked apps on their iPhone or iPad, without requiring a computer. With GBox Run for iOS, you can easily import your own signing certificates or purchase globally available ones to sign and install IPA files.\n\nThis tool works on both jailbroken and non-jailbroken devices. GBox iOS is an alternative to Cydia Impactor that works directly on your iPhone, supporting iOS versions 10 through the latest iOS 17 release. Once GBox IPA for iOS is installed, the app will be available from your Home Screen, allowing you to install almost all IPA files, including those over 500 MB in size.\n\nGBox iOS eliminates the need to use a computer, making the IPA installation process more convenient and streamlined. Moreover, GBox can import your own IPA files from any app, or access sources with links to popular jailbreak tools like XinaA15, unc0ver, Odyssey, and various console emulators such as Delta, RetroArch, Happy Chick, DolphiniOS, PPSSPP, and iNDS.\n\nTwo iPhone screens showing the GBox IPA installer app interface.\n\nThis feature provides an efficient way to manage and access your IPA files and jailbreak tools all in one location, eliminating the need to navigate through multiple sources or applications. The app also includes a list of popular iOS games, and all files are available for self-signing. However, it should be noted that without a purchased certificate, you won't be able to install IPA files.\n\nGBox iOS enables users to easily create their own sources, with download links to popular IPA files for quick and easy access. The app also includes a download manager that allows you to quickly download any IPA packages by providing a URL to the file and a web server useful to transfer IPA files between devices. GBox also works on iOS 15 XinaA15 and Palera1n jailbreaks.\n\nAdditionally, GBox supports Anti-Revoke tweaks, which allows you to install apps and games by disabling certificate revokes check on your jailbroken device, providing a secure experience.\n\nBy default, GBox iOS installs a globally available enterprise certificate to sign IPA files. However, as these certificates are commonly used by pirated third-party App Stores, they are often revoked by Apple, making them impossible to use. Typically, these free certificates only work for a few days. Purchased certificates can last for a couple of weeks or months.\n\nTwo iPhone screens showing Gbox IPA installation options and app Settings pane.\n\nGBox uses a p12 certificate and mobileprovision file to install IPA files on your iPhone. To ensure that the certificate is valid, GBox includes a certification management system, which is available through the Settings pane. To access this feature, you must install the UDID profile.\n\nFrom the Cert Management page, you can view all installed certificates, check their current status, delete and export certificates, purchase working private certificates, and import and use your own certificates to sign and install IPAs. This feature allows you to manage and maintain your certificates, ensuring that you can install and use IPA files with minimal interruption.\n\nRecently, GBox has been integrated with Appdb.to, the largest and oldest IPA database. From now on, you can install apps with GBox certificates easily. Simply visit the website configuration page and select “Import from GBox”. GBox TS is now available, offering the ability to install IPA files permanently without revokes on iOS 14 through iOS 15.4.1. This version of GBox can be easily installed on your iPhone directly from Safari's mobile browser. With this feature, you can enjoy your favorite apps and tweaks without worrying about them getting revoked.",
+      "iconURL": "https://gbox.run/Public/resources/icon256.png",
+      "downloadURL": "https://www.dropbox.com/scl/fi/m6rfo4gs56mnbz0yz2ir2/GBox_v4.5.2.ipa?rlkey=6w74cdlqseo5c2l0dbxbltm8z&dl=1",
+      "size": 5950900,
+      "version": "4.5.2",
+      "versionDate": "2023-09-19",
+      "versionDescription": "",
+      "tintColor": "",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "Misaka",
+      "category": "Stores",
+      "bundleIdentifier": "com.misaka.misaka",
+      "developerName": "Rin",
+      "subtitle": "Semi-Jailbroken apps and tweaks store",
+      "localizedDescription": "Misaka is a recently developed package manager for iOS devices that does not require jailbreaking. It is based on the MacDirtyCow vulnerability and is compatible with iOS versions 16.0–16.1.2 and 15.0–15.7.1, and all devices that use A9 to A16 chips. Once installed, you can browse through a catalog of MacDirtyCow or kfd-compatible add-ons much like you can search for jailbreak tweaks on jailbroken handset running Cydia, Sileo, Zebra, or some other package manager app.",
+      "iconURL": "https://cdn.discordapp.com/icons/1074625970029477919/13cbff53e29ec498a759c66aafc21eb8.png",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/DqlcVnYffbgA4A",
+      "size": 5950900,
+      "version": "2.5.1",
+      "versionDate": "2023-10-02",
+      "versionDescription": ""
       "tintColor": "",
       "screenshotURLs": [
         ""
