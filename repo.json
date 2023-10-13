@@ -543,6 +543,24 @@
       "screenshotURLs": [
         ""
       ]
+    },
+    {
+      "name": "LazarusJailed",
+      "category": "Tweak",
+      "bundleIdentifier": "com.lazarus.jailed",
+      "developerName": "Ignition\n Team",
+      "subtitle": "Anti-revoke app",
+      "localizedDescription": "",
+      "iconURL": "",
+      "downloadURL": "https://github.com/useignition/LazarusJailed/releases/download/v1.1.2/LazarusJailed.ipa",
+      "size": 5950900,
+      "version": "1.0.2",
+      "versionDate": "2019-08-07",
+      "versionDescription": "",
+      "tintColor": "",
+      "screenshotURLs": [
+        ""
+      ]
     }
   ]
 }
