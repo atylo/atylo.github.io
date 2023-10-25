@@ -25,24 +25,6 @@
       "versionDescription": ""
     },
     {
-      "bundleIdentifier": "com.codevn.dotnet",
-      "developerName": "CodeVN",
-      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/QDGIrmuD1BcwmA",
-      "iconURL": "https://codevn.net/wp-content/uploads/2023/01/1673432536-96d6f2e7e1f705a.png",
-      "localizedDescription": "Who knows",
-      "name": "CodeVNdotnet",
-      "category": "Unknown",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 150000000,
-      "subtitle": "Some CodeVN app",
-      "tintColor": "222544",
-      "version": "1.0",
-      "versionDate": "2023-05-24T14:00:00-07:00",
-      "versionDescription": ""
-    },
-    {
       "bundleIdentifier": "com.codevn.chatai",
       "developerName": "CodeVN",
       "downloadURL": "https://ia600509.us.archive.org/6/items/chat-ai-1.9-le-ti/CHAT%20AI%2B%2B_1.9_LeTi.ipa",
@@ -599,7 +581,7 @@
       "screenshotURLs": [
         ""
       ]
-	},
+    },
     {
       "name": "Airt - AI Art Generator",
       "category": "Tweaked Apps",
