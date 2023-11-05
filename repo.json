@@ -671,6 +671,42 @@
       "screenshotURLs": [
         ""
       ]
+    },
+    {
+  "name": "AI Art Generator Wonder Dream",
+  "category": "AI",
+  "bundleIdentifier": "com.vuxuan.aiart",
+  "developerName": "AppTesters",
+  "subtitle": "",
+  "localizedDescription": "Create unique artwork with artificial intelligence, by entering text unleash your creativity with AI Art Generator Wonder Dream, bring your dreams back to life in seconds.\n\nFirst, type whatever is on your mind right now. - Dream, Skyline, Fire & Water, Wonderland or Robot or whatever else you are imagining and hit create!\n\nWithin minutes! Enjoy how AI Art Generator Wonder Dream uses the power of Artificial intelligence to transform your ideas into a wonderful painting.\n\nShare your art with your family, and friends save your painting so that you can view it later.",
+  "iconURL": "https://static.appdb.to/images/cydia-1900001171-icon-1681482431.png",
+  "downloadURL": "https://download.starfiles.co/UWzvUA7hfihl",
+  "size": 5950900,
+  "version": "1.3.2",
+  "versionDate": "2022-10-16",
+  "versionDescription": "",
+  "tintColor": "",
+  "screenshotURLs": [
+    ""
+     ]
+   },
+   {
+      "name": "AI Dreamer",
+      "category": "AI",
+      "bundleIdentifier": "gs.dreamer.aidreamer",
+      "developerName": "spin",
+      "subtitle": "",
+      "localizedDescription": "AI Dreamer lets you create mesmerizing art with words!\n\n1. Type in what you would like to generate, optionally add style and artist inspiration\n2. Wait less than 3 seconds while AI Dreamer is drawing your visualization\n3. Enjoy your creation and share it with your friends!\n\nAI Dreamer's potential is limitless and can help you visualize literally EVERYTHING. \n\nYou can create your own wallpaper, artwork for your side-project, funny portrait of your pet or even add a style to your selfie!\n\nFun Fact: App icon was generated with the following prompt: '3D pastel art'",
+      "iconURL": "https://static.appdb.to/images/cydia-1900001059-icon-1672698882.png",
+      "downloadURL": "https://download.starfiles.co/NN5ol8MHIqse",
+      "size": 5950900,
+      "version": "6.1",
+      "versionDate": "2022-10-14",
+      "versionDescription": "",
+      "tintColor": "",
+      "screenshotURLs": [
+        ""
+      ]
     }
   ]
 }
