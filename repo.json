@@ -617,6 +617,60 @@
       "screenshotURLs": [
         ""
       ]
+    },
+    {
+      "name": "iSTB",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.istb",
+      "developerName": "CodeVN",
+      "subtitle": "Watch IPTV and TV",
+      "localizedDescription": "iSTB allows you to watch IPTV from MAC address based providers which use Stalker Middleware, providers using the Xtream Codes API and M3U playlists.\n\n \n\n**Please use the iSTB Lite app to check if your provider is supported**\n\n**Some providers are not supported**\n\n \n\nFeatures:\n\n– Add/remove unlimited portals\n\n– Connect to multiple portals at once with profile groups\n\n– Search genres by name\n\n– Search channels by name\n\n– Add channels to a favorites list\n\n– Full electronic programming guide or EPG (dependent on your provider)\n\n– View VOD content (dependent on your provider)\n\n– Catch up on past programs (dependent on your provider)\n\n– Watch VOD with subtitles from OpenSubtitles\n\n– Resuming of VOD and catch up content\n\n– Watch multiple streams at once with Multi View (dependent on your provider)\n\n– Dark theme\n\n– And more!\n\n \n\nPlease note:\n\n– This app works with MAC address & Xtream Codes based IPTV providers and M3U playlists only. Download the iSTB Lite app on iOS to check if your provider is supported.\n\n– You will need a valid subscription with an IPTV provider to watch content. This app does not offer any video or audio content itself.\n\n– All content is provided by your IPTV provider. If you have any questions or problems regarding the content or your subscription, please contact your IPTV provider directly.\n\n– You will need an active internet connection to watch content. Data charges may apply. Please check with your internet provider directly.",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/10/iSTB.png",
+      "downloadURL": "https://ia601801.us.archive.org/4/items/iSTB_1.25.2_LeTi/iSTB_1.25.2_LeTi.ipa",
+      "size": 5950900,
+      "version": "1.25.2",
+      "versionDate": "2023-10-04",
+      "versionDescription": "",
+      "tintColor": "",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "Avatan++",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.avatan",
+      "developerName": "CodeVN",
+      "subtitle": "",
+      "localizedDescription": "Avatan is a social photo editor.\n\nIt enables people to edit photos interacting with each other, while using their own processing elements.\n\nAll the elements are created and added by users to the social network integrated with the photo editor.\n\n \n\nEFFECTS\n\nYou have the opportunity to create and save your own, customized effects.\n\nTo create effects, you can use various tools and resources.\n\n \n\nRESOURCES\n\nYou can add and use 4 various resources when editing images:\n\n* Stickers\n\n* Textures\n\n* Frames\n\n* Backgrounds\n\n \n\nRETOUCHING\n\nMoreover, the photo editor features embedded functions for all the necessary types of face retouching and body shape adjustment. This makes it possible to always easily eliminate any imperfections with high quality.\n\n \n\nYou can save your favorite effects and resources to apply them later while editing your new photos. Due to these multiple options, your edited photos will always be of high quality and special style. Every second an enormous number of users add new effects and resources for editing images on a variety of themes, replenishing their collections. Thus, the range of opportunities offered by the photo editor is constantly growing. The intuitive and convenient interface makes it possible to implement complex processing in simple steps. The entire process is a pure joy.",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/10/Avatan-Premium.jpeg",
+      "downloadURL": "https://ia600506.us.archive.org/2/items/avatan-5.22-le-ti/Avatan%2B%2B_5.22_LeTi.ipa",
+      "size": 5950900,
+      "version": "5.22",
+      "versionDate": "2023-10-04",
+      "versionDescription": "",
+      "tintColor": "",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "BodyFilter++",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.bodyfilter",
+      "developerName": "CodeVN",
+      "subtitle": "lose weight",
+      "localizedDescription": "BodyFilter is the perfect body editor that allows you to lose weight, increase volume, improve curves, all in one app!\n\n \n\nWith its powerful body editing and retouching features, ideal look is realized within a few clicks.\n\n \n\nBODYFILTERS\n\n·Choose from over 20 top filters\n\n·Each filter is unique\n\n·We are constantly working to improve them.\n\n \n\nRESHAPE\n\n·Reshape your body and facial structure\n\n·Refine a specific area of the selfie, for example, arms or facial features\n\n·Bloat your breast, enlarge muscles and facial features",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/12/BodyFilter.jpeg",
+      "downloadURL": "https://ia800509.us.archive.org/2/items/body-filter-1.0.4-le-ti_202310/BodyFilter%2B%2B_1.0.4_LeTi.ipa",
+      "size": 5950900,
+      "version": "1.0.4",
+      "versionDate": "2023-10-04",
+      "versionDescription": "",
+      "tintColor": "",
+      "screenshotURLs": [
+        ""
+      ]
     }
   ]
 }
