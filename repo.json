@@ -707,6 +707,24 @@
       "screenshotURLs": [
         ""
       ]
+    },
+    {
+      "name": "RetroArch",
+      "category": "Emulators",
+      "bundleIdentifier": "libretro.retroarch",
+      "developerName": "Libretro",
+      "subtitle": "RetroArch",
+      "localizedDescription": "RetroArch",
+      "iconURL": "https://tweak-box.com/wp-content/uploads/2019/04/retro-arch-logo-200px.png",
+      "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
+      "size": 5950900,
+      "version": "1.16.0",
+      "versionDate": "2023-10-10",
+      "versionDescription": ""
+      "tintColor": "",
+      "screenshotURLs": [
+        ""
+      ]
     }
   ]
 }
