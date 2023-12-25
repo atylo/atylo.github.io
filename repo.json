@@ -152,8 +152,8 @@
     },
     {
       "bundleIdentifier": "co.appnation.geniechat",
-      "developerName": "Sideloadly",
-      "downloadURL": "https://download.starfiles.co/5Urqzy5Swbs9",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia601806.us.archive.org/3/items/genie-5.4.0-le-ti/Genie%2B%2B_5.4.0_LeTi.ipa",
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/07/Genie.jpeg",
       "localizedDescription": "Genie is a revolutionary AI chatbot powered by ChatGPT & GPT-4, GPT-3.\n\nDiscover the new way of communication and productivity with ChatGPT, a cutting-edge AI-powered chatbot designed to revolutionize the way you interact, learn, and achieve your goals. Powered by OpenAI’s advanced technology, Genie is here to become your ultimate personal assistant, friend, and conversational partner, all in one easy-to-use app.",
       "name": "Genie++",
@@ -164,8 +164,8 @@
       "size": 150000000,
       "subtitle": "",
       "tintColor": "222544",
-      "version": "5.2.1",
-      "versionDate": "2023-05-24T14:00:00-07:00",
+      "version": "5.4.0",
+      "versionDate": "2023-12-25",
       "versionDescription": ""
     },
     {
@@ -500,10 +500,10 @@
       "subtitle": "Semi-Jailbroken tweaks store",
       "localizedDescription": "Misaka is a recently developed package manager for iOS devices that does not require jailbreaking. It is based on the MacDirtyCow vulnerability and is compatible with iOS versions 16.0–16.1.2 and 15.0–15.7.1, and all devices that use A9 to A16 chips. Once installed, you can browse through a catalog of MacDirtyCow or kfd-compatible add-ons much like you can search for jailbreak tweaks on jailbroken handset running Cydia, Sileo, Zebra, or some other package manager app.",
       "iconURL": "https://cdn.discordapp.com/icons/1074625970029477919/13cbff53e29ec498a759c66aafc21eb8.png",
-      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/DqlcVnYffbgA4A",
+      "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/3.3.7/misaka-v3.3.7.ipa",
       "size": 5950900,
-      "version": "2.5.1",
-      "versionDate": "2023-10-02",
+      "version": "3.3.7",
+      "versionDate": "2023-12-18",
       "versionDescription": "",
       "tintColor": "",
       "screenshotURLs": [
@@ -720,6 +720,78 @@
       "size": 5950900,
       "version": "1.16.0",
       "versionDate": "2023-10-10",
+      "versionDescription": "",
+      "tintColor": "",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "Pal - AI Chat",
+      "category": "AI",
+      "bundleIdentifier": "com.appilous.Chatbot",
+      "developerName": "appilous",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/vHo3Eay.png",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/v_JBg0mBT6g0BQ",
+      "size": 5950900,
+      "version": "1.0.10",
+      "versionDate": "2023-12-25",
+      "versionDescription": "",
+      "tintColor": "",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "ChatGenius Unlimited",
+      "category": "AI",
+      "bundleIdentifier": "com.codevn.chatgenius",
+      "developerName": "CodeVN",
+      "subtitle": "",
+      "localizedDescription": "Introducing ChatGenius, the ultimate AI-powered companion for your iOS device, powered by OpenAI. This app offers a multitude of features, all designed to make your daily life easier. ChatGenius is the pinnacle of AI innovation, bringing you the highest quality of artificial intelligence through the powerful GPT-4 model.\n\nChatGenius is powered by the ChatGPT API, providing you with the ability to chat with the most advanced bots, DaVinci in the unlimited version, and Curie in the basic version. Whether you need advice, information, or just a friendly conversation, these bots, fueled by GPT-4, are always there for you.\n\nUnleash your creativity with the built-in poetry generation feature, whether you’re a passionate writer or just looking for some inspiration. Overcoming writer’s block has never been easier; with a single tap, the app can generate post ideas for your social media platforms such as Instagram, Twitter, and more.\n\nWith a dedicated interface for research, ChatGenius makes it easy to find the information you need. It even explains complex concepts in an understandable manner, all thanks to the technology powered by OpenAI.\n\nFor developers, the app includes a feature to generate code in any language, making it the perfect companion for coding tasks. The smart editing tool, powered by the ChatGPT API, lets you easily modify your text and code based on your instructions.\n\nChatGenius comes equipped with a speech-to-text feature built on top of Apple’s Speech framework, making it easy for you to input text using your voice. With full VoiceOver support and a text-to-speech feature, the app is accessible to everyone. It also supports both dark and light modes for your convenience.\n\nIn essence, ChatGenius, powered by GPT-4, is a must-have for anyone seeking an AI-powered companion. With its array of features, this app will make your life more productive and enjoyable.\n\nDownload ChatGenius today and experience the power of ChatGPT api on your device.\n\nP.S. This app description was generated with one tap in our app, showcasing the capabilities of the ChatGPT API in action!",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/11/ChatGenius.jpeg",
+      "downloadURL": "https://ia601204.us.archive.org/34/items/chat-genius-2.252-le-ti/ChatGenius%2B%2B_2.252_LeTi.ipa",
+      "size": 5950900,
+      "version": "2.252",
+      "versionDate": "2023-12-25",
+      "versionDescription": "",
+      "tintColor": "",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "DPixel Store AI",
+      "category": "AI",
+      "bundleIdentifier": "com.DPixel.Store.AI",
+      "developerName": "DPixel",
+      "subtitle": "",
+      "localizedDescription": "Untested DPixel AI app",
+      "iconURL": "https://i.ibb.co/6gqTYF4/dpixelst2-photoaidcom-cropped.png",
+      "downloadURL": "https://ia601609.us.archive.org/29/items/aiart-generator-2.0-2.0.2-le-ti/AIArtGenerator2.0_2.0.2_LeTi.ipa",
+      "size": 5950900,
+      "version": "1.2.8",
+      "versionDate": "2023-12-25",
+      "versionDescription": "",
+      "tintColor": "",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "AI ARTA: Art & Photo Generator",
+      "category": "AI",
+      "bundleIdentifier": "com.aiby.aiart",
+      "developerName": "Unknown",
+      "subtitle": "",
+      "localizedDescription": "Old AI art generator. May not work now",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/ai-arta-art-ampamp-photo-generator-poster.png",
+      "downloadURL": "https://omtk.xyz/IPA/AI-Arta.ipa",
+      "size": 5950900,
+      "version": "2.8",
+      "versionDate": "2023-12-25",
       "versionDescription": "",
       "tintColor": "",
       "screenshotURLs": [
