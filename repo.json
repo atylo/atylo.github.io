@@ -797,6 +797,22 @@
       "screenshotURLs": [
         ""
       ]
-    }
+    },
+        {
+            "name": "Chai",
+            "category": "AI",
+            "bundleID": "com.beauchamp.Messenger.external",
+            "bundleIdentifier": "com.beauchamp.Messenger.external",
+            "version": "20231109.0.0",
+            "versionDate": "2023-11-21",
+            "fullDate": "20231121124759",
+            "size": 45295085,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/21-11-2023/Chai_20231109.0.0_UnlimitedChats_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/21-11-2023/Chai_20231109.0.0_UnlimitedChats_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with UnlimitedChats",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.beauchamp.Messenger.external.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.beauchamp.Messenger.external.png"
+        }
   ]
 }
