@@ -813,6 +813,24 @@
             "localizedDescription": "Injected with UnlimitedChats",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.beauchamp.Messenger.external.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.beauchamp.Messenger.external.png"
-        }
+        },
+    {
+      "name": "VueTube",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.Frontesque.vuetube",
+      "developerName": "Frontesque",
+      "subtitle": "",
+      "localizedDescription": "AN alternative to Youtube, still in unstable",
+      "iconURL": "https://avatars.githubusercontent.com/u/105111547?s=48&v=4",
+      "downloadURL": "https://github.com/VueTubeApp/VueTube/releases/download/0.3/VueTube-Unstable-iOS-Canary-Equivalent-June-22-2022.ipa",
+      "size": 5950900,
+      "version": "0.3",
+      "versionDate": "2022-06-22",
+      "versionDescription": "",
+      "tintColor": "",
+      "screenshotURLs": [
+        ""
+      ]
+    }
   ]
 }
