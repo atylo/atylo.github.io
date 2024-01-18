@@ -81,7 +81,7 @@
     {
       "bundleIdentifier": "com.codevn.unidream",
       "developerName": "CodeVN",
-      "downloadURL": "https://ia801208.us.archive.org/4/items/uni-dream-4.8.2-le-ti/UniDream%2B%2B_4.8.2_LeTi.ipa",
+      "downloadURL": "https://ia601304.us.archive.org/35/items/uni-dream-4.9.3-le-ti/UniDream%2B%2B_4.9.3_LeTi.ipa",
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/02/UniDream-AI.jpeg",
       "localizedDescription": "Upload photos of yourself, create your own AI art generated avatars for free. UniDream is an AI art generator that provides text to art, AI profile avatar creator, and animated images or videos. Enter a prompt, pick an art style and watch Uni Dream turn your idea into life and generate art in seconds.\n\nHere are the amazing features:\n\n-AI Dream Art & AI Drawing\n\nSimply describe your idea: “AI Art”, ”Alien Continent”, “Rainbow Unicorn” or anything else you can imagine, choose a style you want, click Create and wait a few seconds, you will be able to see your own Metaverse. Share your pictures with others or use it as wallpaper art, so that others can see your whimsy. Uni Dream uses AI model to create ai art. Our goal is to be one of the best AI Art Generator.\n\n– AI Avatar Creator\n\nTake your profile pics to the next level using AI avatar maker! Upload photos to generate profile avatars in various styles, scenes, and different gender. Fantasy AI Avatar can generate exclusive pics for you.\n\n– More Art Models in One app\n\nUni Dream app uses the model trained on stable diffusion. You can choose what you like! You can convert yourself and your pets into anime in a flash.\n\n– Professional Photo and Video Editor\n\nNow Uni Dream offers many editing options. Easily animate Images and videos! You can generate fantasy art with just a few steps. Turn your selfies, photos of pets, and photos of friends into playful cartoon videos. It’s a fun and easy tool for transforming regular photos into real cartoon videos.",
       "name": "UniDream++",
@@ -92,8 +92,8 @@
       "size": 150000000,
       "subtitle": "create your own AI art generated avatars",
       "tintColor": "222544",
-      "version": "4.8.2",
-      "versionDate": "2023-12-25",
+      "version": "4.9.3",
+      "versionDate": "2024-01-18",
       "versionDescription": ""
     },
     {
@@ -551,13 +551,13 @@
       "category": "Tweaked Apps",
       "bundleIdentifier": "com.nufa.app",
       "developerName": "DPixel",
-      "subtitle": "Laggy AI art genetator, free version",
-      "localizedDescription": "Laggy AI art genetator, free version",
+      "subtitle": "Laggy AI art genetator, DPixel modified free version",
+      "localizedDescription": "Laggy AI art genetator, DPixel modified free version",
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/nufa-body-photo-editor-300x300.png",
       "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/Rz4TNzrwwyZCxw",
       "size": 5950900,
       "version": "3.6.0",
-      "versionDate": "",
+      "versionDate": "2023-10-04",
       "versionDescription": "",
       "tintColor": "",
       "screenshotURLs": [
@@ -575,7 +575,7 @@
       "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/QcjFaZf4sdk9iA",
       "size": 5950900,
       "version": "1.1.1",
-      "versionDate": "",
+      "versionDate": "2023-10-04",
       "versionDescription": "",
       "tintColor": "",
       "screenshotURLs": [
@@ -593,7 +593,7 @@
       "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/ZhZjVWFrXcd2Jw",
       "size": 5950900,
       "version": "2.1.1",
-      "versionDate": "",
+      "versionDate": "2023-10-04",
       "versionDescription": "",
       "tintColor": "",
       "screenshotURLs": [
@@ -611,24 +611,6 @@
       "downloadURL": "https://ia601609.us.archive.org/29/items/aiart-generator-2.0-2.0.2-le-ti/AIArtGenerator2.0_2.0.2_LeTi.ipa",
       "size": 5950900,
       "version": "2.0.2",
-      "versionDate": "",
-      "versionDescription": "",
-      "tintColor": "",
-      "screenshotURLs": [
-        ""
-      ]
-    },
-    {
-      "name": "iSTB",
-      "category": "Tweaked Apps",
-      "bundleIdentifier": "com.codevn.istb",
-      "developerName": "CodeVN",
-      "subtitle": "Watch IPTV and TV",
-      "localizedDescription": "iSTB allows you to watch IPTV from MAC address based providers which use Stalker Middleware, providers using the Xtream Codes API and M3U playlists.\n\n \n\n**Please use the iSTB Lite app to check if your provider is supported**\n\n**Some providers are not supported**\n\n \n\nFeatures:\n\n– Add/remove unlimited portals\n\n– Connect to multiple portals at once with profile groups\n\n– Search genres by name\n\n– Search channels by name\n\n– Add channels to a favorites list\n\n– Full electronic programming guide or EPG (dependent on your provider)\n\n– View VOD content (dependent on your provider)\n\n– Catch up on past programs (dependent on your provider)\n\n– Watch VOD with subtitles from OpenSubtitles\n\n– Resuming of VOD and catch up content\n\n– Watch multiple streams at once with Multi View (dependent on your provider)\n\n– Dark theme\n\n– And more!\n\n \n\nPlease note:\n\n– This app works with MAC address & Xtream Codes based IPTV providers and M3U playlists only. Download the iSTB Lite app on iOS to check if your provider is supported.\n\n– You will need a valid subscription with an IPTV provider to watch content. This app does not offer any video or audio content itself.\n\n– All content is provided by your IPTV provider. If you have any questions or problems regarding the content or your subscription, please contact your IPTV provider directly.\n\n– You will need an active internet connection to watch content. Data charges may apply. Please check with your internet provider directly.",
-      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/10/iSTB.png",
-      "downloadURL": "https://ia601801.us.archive.org/4/items/iSTB_1.25.2_LeTi/iSTB_1.25.2_LeTi.ipa",
-      "size": 5950900,
-      "version": "1.25.2",
       "versionDate": "2023-10-04",
       "versionDescription": "",
       "tintColor": "",
@@ -691,7 +673,7 @@
      ]
    },
    {
-      "name": "AI Dreamer",
+      "name": "AI Dreamer++",
       "category": "AI",
       "bundleIdentifier": "gs.dreamer.aidreamer",
       "developerName": "spin",
@@ -727,25 +709,7 @@
       ]
     },
     {
-      "name": "Pal - AI Chat",
-      "category": "AI",
-      "bundleIdentifier": "com.appilous.Chatbot",
-      "developerName": "appilous",
-      "subtitle": "",
-      "localizedDescription": "",
-      "iconURL": "https://i.imgur.com/vHo3Eay.png",
-      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/v_JBg0mBT6g0BQ",
-      "size": 5950900,
-      "version": "1.0.10",
-      "versionDate": "2023-12-25",
-      "versionDescription": "",
-      "tintColor": "",
-      "screenshotURLs": [
-        ""
-      ]
-    },
-    {
-      "name": "ChatGenius Unlimited",
+      "name": "ChatGenius++",
       "category": "AI",
       "bundleIdentifier": "com.codevn.chatgenius",
       "developerName": "CodeVN",
@@ -755,24 +719,6 @@
       "downloadURL": "https://ia601204.us.archive.org/34/items/chat-genius-2.252-le-ti/ChatGenius%2B%2B_2.252_LeTi.ipa",
       "size": 5950900,
       "version": "2.252",
-      "versionDate": "2023-12-25",
-      "versionDescription": "",
-      "tintColor": "",
-      "screenshotURLs": [
-        ""
-      ]
-    },
-    {
-      "name": "DPixel Store AI",
-      "category": "AI",
-      "bundleIdentifier": "com.DPixel.Store.AI",
-      "developerName": "DPixel",
-      "subtitle": "",
-      "localizedDescription": "Untested DPixel AI app",
-      "iconURL": "https://i.ibb.co/6gqTYF4/dpixelst2-photoaidcom-cropped.png",
-      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/CgIRFk7JCdd9rg",
-      "size": 5950900,
-      "version": "1.2.8",
       "versionDate": "2023-12-25",
       "versionDescription": "",
       "tintColor": "",
