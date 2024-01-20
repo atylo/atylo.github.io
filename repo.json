@@ -1,6 +1,7 @@
 {
-  "identifier": "com.atylorepo.source",
   "name": "Atylo's Repo",
+  "identifier": "com.atylorepo.source",
+  "sourceURL": "https://raw.githubusercontent.com/atylo/mtest-scarlet-repo/main/repo.json",
   "iconURL": "https://i.imgur.com/8mhNRDS.png",
   "headerURL": "https://i.imgur.com/3qxtpnr.png",
   "news": [],
