@@ -499,13 +499,13 @@
       "bundleIdentifier": "com.misaka.misaka",
       "developerName": "Rin",
       "subtitle": "Semi-Jailbroken tweaks store",
-      "localizedDescription": "Misaka is a recently developed package manager for iOS devices that does not require jailbreaking. It is based on the MacDirtyCow vulnerability and is compatible with iOS versions 16.0–16.1.2 and 15.0–15.7.1, and all devices that use A9 to A16 chips. Once installed, you can browse through a catalog of MacDirtyCow or kfd-compatible add-ons much like you can search for jailbreak tweaks on jailbroken handset running Cydia, Sileo, Zebra, or some other package manager app.",
+      "localizedDescription": "The purpose of  Misaka is to give iPhone users the ability to customise their phones without a jailbreak. It is based on the MacDirtyCow, KFD (including recent puaf_landa) vulnerabilites and is compatible with iOS versions 15.0–15.7.1, 15.7.2 - 15.8.1, 16.0 - 16.1.2, and 16.2 - 16.6.1 and all devices that use A9 to A16 chips. Once installed, you can browse through a catalog of MacDirtyCow or kfd-compatible add-ons much like you can search for jailbreak tweaks on jailbroken handset running Cydia, Sileo, Zebra, or some other package manager app. Trollstore can be installed with it as well.",
       "iconURL": "https://i.imgur.com/3aGJJ6M.png",
-      "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/3.4.1/misaka-v3.4.1.ipa",
+      "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/8.2.4/misaka-v8.2.4.ipa",
       "size": 5950900,
-      "version": "3.4.1",
-      "versionDate": "2024-01-12",
-      "versionDescription": "",
+      "version": "8.2.4",
+      "versionDate": "2024-01-19",
+      "versionDescription": "Supported iOS 15.7.2 - 15.8.1",
       "tintColor": "663399",
       "screenshotURLs": [
         ""
