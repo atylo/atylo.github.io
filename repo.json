@@ -2,43 +2,804 @@
   "name": "Atylo's Repo",
   "identifier": "com.atylorepo.source",
   "sourceURL": "https://atylo.github.io/repo.json",
+  "sourceIconURL": "https://i.imgur.com/8mhNRDS.png",
+  "iconURL": "https://i.imgur.com/8mhNRDS.png",
+  "headerURL": "https://i.imgur.com/3qxtpnr.png",
+  "news": [],
+  "userInfo": {},
   "apps": [
     {
-      "name": "Yattee",
-      "bundleIdentifier": "stream.yattee.app",
-      "developerName": "Yattee",
-      "subtitle": "Alternative YouTube frontend",
-      "version": "1.3.5",
-      "versionDate": "2022-08-17",
-      "versionDescription": "- Fixed reported crash\n- Fixed issue where \"Add to Playlist\" window cannot be closed when there is no playlists",
-      "downloadURL": "https://github.com/yattee/yattee/releases/download/v1.3.5/Yattee-1.3.5-iOS.ipa",
-      "localizedDescription": "Alternative YouTube frontent for iOS, tvOS and macOS built with Invidious and Piped.\nFeatures:\n- Native user interface built with SwiftUI\n- Multiple instances and accounts, fast switching\n- SponsorBlock, configurable categories to skip\n- Player queue and history\n- Fullscreen playback, Picture in Picture and AirPlay support\n- Stream quality selection\n- Favorites: customizable section of channels, playlists, trending, searches and other views",
-      "iconURL": "https://r.yattee.stream/icons/yattee-300-rectangle.png",
-      "tintColor": "21335C",
-      "size": 2522502,
+      "bundleIdentifier": "com.codevn.loopsie",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia801204.us.archive.org/9/items/loopsie-7.17.1-le-ti/Loopsie%2B%2B_7.17.1_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/08/Loopsie-Deforum-AI-Art.jpeg",
+      "localizedDescription": "Turn every pic into an incredible 3D photo! Choose from dozens of unique 3D stickers: butterflies, bubbles, sparkles, snow, and many more.\n\nWe update new effects or presets every week!\n\nLoopsie lets you create stunning photo edits with stickers, special effects, filters and theme presets! Our animation allows you to create 3D Photos, D3D Camera like videos and much more. All-in-one app without any professional equipment. Just a bit of creativity and your photos will come to life with a stunning cinematic effect!\n\nOur motion photo effects make your short videos unique and let your content stand out from other photos and videos. Forget those old photo filters and photo editor, welcome our new breathtaking video loops.\n\n— Anime Effect —\n\nMake your photo viral by turning yourself into an anime character with our advanced AI technology. It only requires one tap and a few seconds of processing, you will be able to export a 100% cartoon-like portrait!\n\n— Popular Presets & Special Effects —\n\nAnime, Legends, Vertigo, Motion blur\n\nButterfly, Neon, Sparkle, Cloud, Vaporware, vhs, Indie\n\n— 3D Photo —\n\nAdd a new dimension to your photos.\n\nYou can use our integrated 3D camera or create a 3D photo starting from a normal photo.\n\nYou can choose between a vintage effect like a D3D camera, or a standard high quality 3D picture. Loopsie mimics many movement, from the classic 360 wiggle, to a vertical fast movement.\n\n— Advanced Technologies —\n\nMachine Learning Based Depth Prediction:\n\nWe built a Neural Network that accurately predicts the depth of every photo.\n\nAugmented Reality Stickers:\n\nLoopsie enriches the picture with 3D augmented reality stickers.\n\nAdvanced 3D Scene Reconstruction:\n\nWe developed a unique algorithm to fill the missing part of the 3D scene\n\n3D Segmentation:\n\nThe neural network we developed will segment the subjects from the scene for a more dimensional view.",
+      "name": "Loopsie++",
+      "category": "AI",
       "screenshotURLs": [
-        "https://r.yattee.stream/screenshots/iOS/trending.png",
-        "https://r.yattee.stream/screenshots/iOS/player.png",
-        "https://r.yattee.stream/screenshots/iOS/search-suggestions.png"
+        ""
+      ],
+      "size": 123000000,
+      "subtitle": "Loopsie++",
+      "tintColor": "663399",
+      "version": "7.17.1",
+      "versionDate": "2023-12-25",
+      "versionDescription": ""
+    },
+    {
+      "bundleIdentifier": "com.codevn.chatai",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia600509.us.archive.org/6/items/chat-ai-1.9-le-ti/CHAT%20AI%2B%2B_1.9_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/08/Chat-AI-Ask-Anything.jpeg",
+      "localizedDescription": "Chat AI Ask Anything app",
+      "name": "Chat AI++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Chat AI Ask Anything app",
+      "tintColor": "663399",
+      "version": "1.9",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "bundleIdentifier": "com.codevn.Dreamerland",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia800501.us.archive.org/26/items/dreamerland-1.14.2-le-ti/Dreamerland%2B%2B_1.14.2_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/06/Dreamerland.jpeg",
+      "localizedDescription": "Unleash your creativity with Dreamerland! Create stunning AI generated art in any style you can imagine. Download now and inspire others with your unique creations!\n\nThe All-in-one AI art generation tool! Let your imagination run wild as you create beautiful, unique and captivating pieces of art with the help of our advanced AI algorithms.\n\nWhether you’re an artist, designer, or simply looking for a new creative outlet, Dreamerland is the perfect tool for you. With its intuitive interface and powerful AI engine, you’ll be able to create stunning pieces of art with just a few taps.\n\nFrom anime to realistic, Dreamerland has got you covered. Choose from a vast library of styles and themes, or create your own custom style with ease. The possibilities are endless, and the results are truly breathtaking.\n\nSo why wait? Download Dreamerland today and unleash your inner artist!\n\n– No skill needed\n\nDreamerland is designed to be easy and accessible for everyone, regardless of your artistic skills or experience. Whether you’re a professional artist or have never created art before, you can use Dreamerland to generate beautiful, one-of-a-kind pieces. With no skill required, you can unleash your imagination and create stunning art with ease!\n\n– Explore more than 100+ styles\n\nWith Dreamerland, you’ll have access to a vast library of styles and themes, allowing you to generate art in a wide range of styles. Whether you prefer anime, abstract, realistic, or something in-between, there’s a style for everyone! With over 100 styles to choose from, the possibilities for your art are endless.\n\n– Unleash your creativity\n\nLet your imagination run wild and create art that’s truly unique and personal. With Dreamerland, you’ll have the power to generate art in any style you can imagine. Whether you’re looking to create a piece for your work or just for fun, Dreamerland is the perfect generator for you!\n\n– Share your creations with the world\n\nShow off your art to the world and share it with your friends and community. Dreamerland makes it easy to share your creations on social media, or save them to your device for later. Impress your friends and inspire others with your unique and personal art, created by Dreamerland!\n\n– How does it Work?\n\n1. Input the dream you think of\n\n2. Choose a style or theme you want\n\n3. Let AI create the art\n\n4. Save and share it to the world.",
+      "name": "Dreamerland++",
+      "category": "AI",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": " Create stunning AI generated art",
+      "tintColor": "663399",
+      "version": "1.14.2",
+      "versionDate": "2023-12-25",
+      "versionDescription": ""
+    },
+    {
+      "bundleIdentifier": "com.miro.uyouplusextra",
+      "developerName": "MiRO",
+      "downloadURL": "https://github.com/arichornlover/uYouEnhanced/releases/download/v19.02.1-3.0.1/uYouEnhanced_19.02.1_3.0.1.ipa",
+      "iconURL": "https://user-images.githubusercontent.com/78001398/271790092-006e81cc-715a-4fbc-aff6-15832e2da8c4.png",
+      "localizedDescription": "Updated version of uYou, with uYouPlus and Extra to work in 2023. Current YouTube IPA: v19.02.1\nCurrent uYou Version: v3.0.1\n",
+      "name": "YouEnhanced",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "YouEnhanced",
+      "tintColor": "663399",
+      "version": "19.02.1",
+      "versionDate": "2024-01-18",
+      "versionDescription": ""
+    },
+    {
+      "bundleIdentifier": "com.codevn.unidream",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia601304.us.archive.org/35/items/uni-dream-4.9.3-le-ti/UniDream%2B%2B_4.9.3_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/02/UniDream-AI.jpeg",
+      "localizedDescription": "Upload photos of yourself, create your own AI art generated avatars for free. UniDream is an AI art generator that provides text to art, AI profile avatar creator, and animated images or videos. Enter a prompt, pick an art style and watch Uni Dream turn your idea into life and generate art in seconds.\n\nHere are the amazing features:\n\n-AI Dream Art & AI Drawing\n\nSimply describe your idea: “AI Art”, ”Alien Continent”, “Rainbow Unicorn” or anything else you can imagine, choose a style you want, click Create and wait a few seconds, you will be able to see your own Metaverse. Share your pictures with others or use it as wallpaper art, so that others can see your whimsy. Uni Dream uses AI model to create ai art. Our goal is to be one of the best AI Art Generator.\n\n– AI Avatar Creator\n\nTake your profile pics to the next level using AI avatar maker! Upload photos to generate profile avatars in various styles, scenes, and different gender. Fantasy AI Avatar can generate exclusive pics for you.\n\n– More Art Models in One app\n\nUni Dream app uses the model trained on stable diffusion. You can choose what you like! You can convert yourself and your pets into anime in a flash.\n\n– Professional Photo and Video Editor\n\nNow Uni Dream offers many editing options. Easily animate Images and videos! You can generate fantasy art with just a few steps. Turn your selfies, photos of pets, and photos of friends into playful cartoon videos. It’s a fun and easy tool for transforming regular photos into real cartoon videos.",
+      "name": "UniDream++",
+      "category": "AI",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "create your own AI art generated avatars",
+      "tintColor": "663399",
+      "version": "4.9.3",
+      "versionDate": "2024-01-18",
+      "versionDescription": ""
+    },
+    {
+      "bundleIdentifier": "com.codevn.clarityai",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia600505.us.archive.org/16/items/photo-of-clarity-1.8.8-le-ti/Photo%20Of%20Clarity_1.8.8_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/08/Photo-Of-Clarity-AI-Enhancer.jpeg",
+      "localizedDescription": "Welcome to Photo Of Clarity, where we specialize in enhancing photos to make them clearer and more vibrant using cutting-edge AI technology. We excel at handling old, stained, damaged, low-resolution, or blurry portrait or landscape photos.\n\n* Perfect Results: Through deep learning and AI visual technology, we continuously optimize our AI models to enhance the quality of your photos.\n\n* Portrait Enhancement: For portrait photos, we utilize AI inference models to reconstruct facial details.\n\n* Colorization: We bring back the colors to grayscale or black-and-white photos, restoring their original vibrancy.\n\n* User-friendly Interface: Simply import your photos and get enhanced images with just a few clicks.\n\n* Privacy Protection: We provide a local processing mode, ensuring that all your photos are processed locally without being uploaded to our servers, protecting your privacy.\n\n* No Ads, No VIP: We are committed to providing a clean and streamlined user experience, which means no annoying ads or additional charges.\n\nWhether you want to preserve precious memories, share beautiful moments, or enhance old photos to make them clearer, Photo Of Clarity is the perfect choice for you. Download now to make your photos clearer and more vibrant!",
+      "name": "Photo Of Clarity++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Photo Of Clarity – AI Enhancer",
+      "tintColor": "663399",
+      "version": "1.8.8",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "bundleIdentifier": "com.codevn.airglow",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia600508.us.archive.org/30/items/air-brush-5.7.0-le-ti/AirGlow%2B%2B_1.0.5_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/08/AirGlow.jpeg",
+      "localizedDescription": "AirGlow transforms your video in an unbelievable experience that you can share everywhere! Tell your stories with your own personal touch! All in real time!\n\nUse AirGlow to:\n\n– Create magical videos to share\n\n– Add any kind of filter for a perfect moment\n\n– Share perfect stories\n\nWhat you can find in AirGlow?\n\n– RETOUCH VIDEOS\n\n* Perfect smile with whiten feature\n\n* Expand or slim any facial feature\n\n* Plump up lips\n\n* Remove dark circles\n\n* Smooth and glowing skin\n\n* Contouring taken to the next level of perfection\n\n– SO MANY FILTERS!\n\nThe most incredible filters for all your amazing moments\n\n* Earthy filter\n\n* Modern filter\n\n* Blush filter and so much more\n\nYou can choose a filter a day and add that perfect missing part to the stories you want to tell! All real time!",
+      "name": "AirGlow++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Create magical videos to share",
+      "tintColor": "663399",
+      "version": "1.0.5",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "bundleIdentifier": "com.codevn.epik",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia600509.us.archive.org/33/items/epik-4.2.32-le-ti/EPIK%2B%2B_4.2.32_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/07/EPIK.jpeg",
+      "localizedDescription": "Professional photo edit with advanced editing tools.\n\n[ Main features ]\n\n● Professional editing features\n\nFor color : HSL, Curves, Split tone, Lux, Grain, Vignette\n\nFor perfection : Crop, Rotate, Mirror, Flip, Perspective\n\n● Perfect portraits\n\nRetouch to remove blemishes, natural Face, trendy Makeup\n\nTouch up, Body, Paint, Hair color, Relight, Mosaic, AI Skin, AI Hairstyle, Reflection\n\n● Artistic photo styling\n\nTrendy Effects, Stickers, Text, Brush, Time stamp, Draw shapes, Spot Color\n\n[ Creative tools ]\n\n● Templates updated weekly\n\nUse customizable templates for easy editing\n\n● Unique style made by you\n\nAdd photos, create stickers using Cutout, use Brushes in your own way, and Create my own filter that is unique\n\n● Background, Color frame, Border, AI filter, AI Expression\n\n[ For you ]\n\n● Find plenty of premium features for that perfect photo!\n\nCutout, Remove, Selective, Patch, Relight, Mosaic, Layout, Batch Edit, Collage, Enhance",
+      "name": "EPIK++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "EPIK Pro",
+      "tintColor": "663399",
+      "version": "4.2.32",
+      "versionDate": "2023-11-24",
+      "versionDescription": ""
+    },
+    {
+      "bundleIdentifier": "co.appnation.geniechat",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia601806.us.archive.org/3/items/genie-5.4.0-le-ti/Genie%2B%2B_5.4.0_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/07/Genie.jpeg",
+      "localizedDescription": "Genie is a revolutionary AI chatbot powered by ChatGPT & GPT-4, GPT-3.\n\nDiscover the new way of communication and productivity with ChatGPT, a cutting-edge AI-powered chatbot designed to revolutionize the way you interact, learn, and achieve your goals. Powered by OpenAI’s advanced technology, Genie is here to become your ultimate personal assistant, friend, and conversational partner, all in one easy-to-use app.",
+      "name": "Genie++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "",
+      "tintColor": "663399",
+      "version": "5.4.0",
+      "versionDate": "2023-12-25",
+      "versionDescription": ""
+    },
+    {
+      "bundleIdentifier": "com.codevn.prisma",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia802705.us.archive.org/5/items/prisma-4.7.9-le-ti/Prisma%2B%2B_4.7.9_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/07/Prisma.jpeg",
+      "localizedDescription": "You don’t need to be an experienced photo editor to turn photos into captivating digital art. Why? Because there’s Prisma for it! With the Prisma photo editor, it’s easy to unleash the artist within and go from average photo to mesmerizing edit in seconds!\n\nRecognized as the App of the Year in 2016 Prisma has a constantly growing community of over 120 million users all over the world. Prisma provides a lot of features both for general and selfie photo editing. Download Prisma and let AI technology convert your photos into an artistic piece!\n\nFEATURES\n\nEXTENSIVE LIBRARY OF STYLES\n\nMore than 500 various styles are waiting for you to be tried out in Prisma’s library. New styles are going live on a daily basis for you to spruce up your creativity. You can also try Portrait styles that are specially designed for making captivating selfies.\n\nTOP-NOTCH FUNCTIONALITY\n\n•Among the best selection of Prisma’s tools to customize your photo, it’s worth mentioning the Portrait Segmentation feature. The essential tool for selfies is set to not only add the style to the whole image but also be applied either to the person or the background separately.\n\n•Another way to enhance your photos without putting too much effort into the editing process is using vivid frames that will complement absolutely any of your photos.\n\n•And the icing on the cake — Prisma’s feature for background editing. With this tool, you can replace the background of any selfie you want! You can select the background from the colorful templates, or choose any other from your phone’s gallery.",
+      "name": "Prisma++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Turn photos into art",
+      "tintColor": "663399",
+      "version": "4.7.9",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "bundleIdentifier": "com.codevn.policescanner",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia902601.us.archive.org/1/items/police-scanner-1.5-le-ti/Police%20Scanner%2B%2B_1.5_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/06/Police-Scanner.jpeg",
+      "localizedDescription": "Police Scanner App lets you discover everything from live police radio, breaking news, fire alarms, terrorism to crimes that are happening nearby. It is the world’s largest source of online scanner streaming service. Stay up to date with your local news, public safety, traffic, as well as major live events in real time.\n\nJoin millions of people who use our services to keep informed of everything that is happening around nearby. Browse through thousands of live feeds from all over the world. Filter scanners by county, state or country with just a few taps.\n\n \n\nFEATURES:\n\n– Dedicated sections for local, top 100 and custom feeds.\n\n– Breaking news alerts to get real time updates.\n\n– GPS tracking to locate the nearest scanners around you.\n\n– Personalised field designed to store your favourite stations at one place.\n\n– Background audio streaming option to ease your multitasking experience.\n\n– Automatic reconnections during any disrupted broadcast.\n\n– Popularity meter to see the popularity for each feed.\n\n– See the real time listener number count.\n\n– Enjoy absolutely ad-free user experience.",
+      "name": "Police Scanner++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Police Scanner",
+      "tintColor": "663399",
+      "version": "1.5",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "bundleIdentifier": "com.codevn.mimo",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia600504.us.archive.org/19/items/mimo-6.23.0-le-ti/Mimo%2B%2B_6.23.0_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/05/Mimo.jpeg",
+      "localizedDescription": "To make the coding experience more accessible, intuitive, and user-friendly, we introduce new learning paths (JavaScript and HTML), path UI redesign, and rebranding!\n\n \n\nLearning to code has never been so easy!\n\n \n\nAdvance your career, build apps and websites, or even become a developer. Mimo makes learning to code and diving into computer science as intuitive and easy as possible so that everyone can learn to code – the skill of the century, step-by-step.\n\n \n\nYou will learn to code in Python, JavaScript, HTML through practice, with bite-size coding lessons, by writing code and running it in our mobile code editor that works like an IDE and lets you run your code, interact with Mimo’s coding community, create projects, learn multiple programming languages, and do much more at your own pace! With Mimo, you can fit coding into a busy daily schedule, whenever you have a few minutes to spare.\n\n \n\nUsed by millions of learners, Mimo is just about the most accessible and effective way to learn to code in Python, JavaScript, HTML, SQL, and more. Our programming courses and lessons are suitable for everyone, even with little or no prior coding experience.\n\n \n\nMimo helps you learn the most popular programming languages like HTML, JavaScript, CSS, Python, SQL, and reach your coding goals:\n\n• Start the PYTHON path and begin your coding journey with an in-demand and all-purpose language. Learn Python with 2,600+ bite-size exercises, 53+ Concepts, and 32+ Projects that will unlock as you keep expanding your skills.\n\n• By choosing the WEB DEVELOPMENT path, you’ll dive into building websites with HTML, CSS, and JavaScript. Start your Web Development journey with 13,000+ bite-size exercises, 87+ Concepts, and 62+ Projects.\n\n• With the SQL curriculum, you’ll dive into data science and learn to analyze data with SQL\n\n \n\nWith Mimo you can:\n\n• Solve bite-size programming exercises that fit into your daily routine\n\n• Run code and build a portfolio of projects in Python, JavaScript, HTML\n\n• Learn programming at your own pace\n\n• Practice with coding challenges\n\n• Get a certificate to showcase your coding skills\n\n• Join a community of millions of coders",
+      "name": "Mimo++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Mimo",
+      "tintColor": "663399",
+      "version": "6.23.0",
+      "versionDate": "2023-11-24",
+      "versionDescription": ""
+    },
+    {
+      "bundleIdentifier": "com.codevn.picmushroom",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia601200.us.archive.org/34/items/picture-mushroom-2.11.1-le-ti/Picture%20Mushroom%2B%2B_2.11.1_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/02/Picture-Mushroom-Fungi-finder.jpeg",
+      "localizedDescription": "Are you looking for a quick and accurate mushroom identifier? The Picture Mushroom app is right for you!\n\nSimply take or upload a picture of a mushroom, and the Picture Mushroom app will tell you what it is in seconds. The app will offer you several similar species to choose from, and you can find the most exact one by comparing the images. In the scanning result, you can learn lots of useful info including mushroom names, habitats, ways of identifying, and so on. This app will also warn you of some toxic mushrooms so that you can stay away from them to keep safe.\n\nMoreover, the app has many articles about mushrooms, like ways of identifying mushrooms,mushroom-related stories, and more. With the Picture Mushroom app, you can learn the most trending topics in the field.\n\nAdditionally, the app allows you to track your foraging sites for your next picking reference. It will recommend some seasonal mushrooms according to your location, and show the distribution map so that you can know what kind of mushrooms to pick and where to find them. You can also manage and share your identified mushroom with the in-app collection.\n\nWhether you like to collect, study, or teach mushrooms, or just want to learn more about the world of mushrooms, Picture Mushroom is the right tool for beginners and advanced mushroom users.\n\n \n\nKey Features:\n\n– Fast and accurate ID of numerous species of mushrooms, fungi, and the like\n\n– Full mushroom encyclopedia including all the info you need to know about mushrooms like name, habitat, identification method, toxicity, and more\n\n– High-quality articles for you to know the trending topics in the field of mushroom\n\n– Finely designed and user-friendly interface which allows you to easily identify, learn and share mushrooms\n\n– Keep track of your foraging site for your next picking reference\n\n– Recommend seasonal mushrooms of your place and show a mushroom distribution map\n\n– Easily keep track of the mushrooms you’ve identified in your collection, and share your findings with your friends",
+      "name": "Picture Mushroom++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Picture Mushroom recognise schrooms",
+      "tintColor": "663399",
+      "version": "2.11.1",
+      "versionDate": "2023-11-24",
+      "versionDescription": ""
+    },
+    {
+      "bundleIdentifier": "com.codevn.picbird",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia800506.us.archive.org/6/items/picture-bird-2.12.19-le-ti/Picture%20Bird%2B%2B_2.12.19_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/02/Picture-Bird-Birds-Identifier.jpeg",
+      "localizedDescription": "Picture Bird is a useful and smart bird identifier app that can recognize any bird species by photo or sound. Simply take/upload a picture of a bird or record a bird’s sound, and you can get everything you want to know about it.\n\nKey Features:\n\nAccurate Bird ID:\n\nWith machine deep learning technology in pictures and sound recognition, the Picture Bird app can identify up to 10,000+ bird species with incredible accuracy. Users can either upload a bird picture or record a bird song or call, and the app will compare it with training sets of millions of photos or sounds in the database and provide the most exact match.\n\nBirding Camera:\n\nAre you still using a heavy camera to photograph birds? A phone app can do this now! Focus your phone camera on a bird, zoom in on the bird to find the best position and the app will automatically sharpen the picture. The Picture Bird app lets you have the most pleasing bird sightseeing experience.\n\nBird Feeding:\n\nDo you want to attract birds to your backyard, or do you want to help birds in need on winter days? Picture Bird can help! Use the filters, and choose your food type and feeder, you will get to know what birds you can attract and how to feed them.\n\nDetailed Bird Info:\n\nFull encyclopedia of bird info. In your identified results, you can get detailed bird info including bird appearance, sound, habitat, distribution, feeding habits, etc. The Picture Insect app also provides high-quality articles on bird ID, attracting tips, birding hints, bird sightings, and more.\n\nUnique Collections:\n\nSave your observations with the in-app collection function and easily manage your findings. Share your happiness with friends with unique bird cards.\n\nWhether you are curious about the name of a bird you met, eager to learn bird-feeding tips, or want to educate your children, Picture Bird will help you in the easiest and most effective way.",
+      "name": "Picture Bird++",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Picture Bird recognise birds",
+      "tintColor": "663399",
+      "version": "2.12.19",
+      "versionDate": "2023-11-24",
+      "versionDescription": ""
+    },
+    {
+      "bundleIdentifier": "com.codevn.animatix",
+      "developerName": "CodeVN",
+      "downloadURL": "https://ia800508.us.archive.org/15/items/animatix-1.4.6-le-ti/Animatix_1.4.6_LeTi.ipa",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/01/Animatix.png",
+      "localizedDescription": "Animatix turns your photos into captivating animations and cartoons. It uses real-world animation techniques to breathe life into your still photos, adding motion that makes their edges and color come alive. Choose from 24 animation styles, then make your animations pop with any of Animatix’s many unique cartoon, comic, sketch and art effects. Fine-tune your results to get the perfect look and share your creations as GIFs, videos, or Live Photos.\n\n \n\n• Choose from 24 different animation styles\n\n• Make your animations pop with various cartoon, comic, sketch and art effects\n\n• Fine-tune your animations for the perfect look\n\n• Create GIFs, videos, and Live Photos from your animations\n\n• Turn off animation to save expressive still photos\n\n• Share directly to Facebook, Instagram, and more",
+      "name": "Animatix",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 150000000,
+      "subtitle": "Turn your photos into captivating animations and cartoons",
+      "tintColor": "663399",
+      "version": "1.4.6",
+      "versionDate": "2023-05-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "name": "Babbel++",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.babbel",
+      "developerName": "CodeVN",
+      "subtitle": "interactive lessons rethink old-school language education",
+      "localizedDescription": "Millions of people are learning languages with Babbel — the language app built by language experts. Why Babbel? Our short, interactive lessons rethink old-school language education to get you speaking a new language with confidence!\n\nBABBEL WORKS:\n\n• Efficacy backed by researchers at Yale University:\n\n100% of study participants improved their oral proficiency in 3 months*\n\n• After 10 hours with Babbel, Michigan State University researchers found:\n\n96% of learners saw better test scores on grammar and vocabulary\n\n73% of study participants became better speakers**\n\n====================\n\nOur language experts build every language course tailored to your native language. This way you learn Spanish and 13 more languages quickly and effectively.\n\nTRY BABBEL – DOWNLOAD THE APP AND TAKE A FREE LESSON\n\n====================\n\nLEARN 14 LANGUAGES:\n\nIt’s not just a Spanish learning app! Learn French, Italian, German, Portuguese, Russian, Polish, Turkish, Norwegian, Danish, Swedish, Dutch, Indonesian, and English.\n\n====================\n\nWhy are Americans learning languages with the Babbel language app?\n\nSHORT, EFFECTIVE LESSONS\n\nEasy to fit language lessons into your day\n\nLESSONS FOR EVERY SITUATION\n\nFor travel, work, and more\n\nLISTEN, SPEAK, WRITE\n\nWell-rounded language practice\n\nPERFECT YOUR PRONUNCIATION\n\nSophisticated speech-recognition technology\n\nRETAIN WHAT YOU LEARN\n\nReview feature that’s optimized to help you retain knowledge\n\nLEARN GRAMMAR IN CONTEXT\n\nUseful tips & tricks as you learn\n\nOVER 5,000 LANGUAGE COURSES\n\nLearn Spanish and 13 other languages with in-depth content, including more than 60,000 language lessons",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/01/Babbel.jpeg",
+      "downloadURL": "https://ia601602.us.archive.org/33/items/babbel-21.22.0-le-ti/Babbel%2B%2B_21.22.0_LeTi.ipa",
+      "size": 5950900,
+      "version": "21.22.0",
+      "versionDate": "2023-01-04",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
       ]
     },
     {
-      "name": "Yattee Alpha",
-      "bundleIdentifier": "stream.yattee.app.alpha",
-      "developerName": "Yattee",
-      "subtitle": "Alternative YouTube frontend",
-      "version": "1.4.alpha.6",
-      "versionDate": "2022-06-28",
-      "versionDescription": "See release notes here: https://github.com/yattee/yattee/releases/tag/v1.4-alpha.6",
-      "downloadURL": "https://github.com/yattee/yattee/releases/download/v1.4-alpha.6/Yattee-1.4-alpha.6-iOS.ipa",
-      "localizedDescription": "Alternative YouTube frontent for iOS, tvOS and macOS built with Invidious and Piped.\nFeatures:\n- Native user interface built with SwiftUI\n- Multiple instances and accounts, fast switching\n- SponsorBlock, configurable categories to skip\n- Player queue and history\n- Fullscreen playback, Picture in Picture and AirPlay support\n- Stream quality selection\n- Favorites: customizable section of channels, playlists, trending, searches and other views",
-      "iconURL": "https://r.yattee.stream/icons/yattee-300-rectangle.png",
-      "tintColor": "21335C",
-      "size": 12091956,
+      "name": "Meitu++",
+      "category": "AI",
+      "bundleIdentifier": "com.codevn.meitu",
+      "developerName": "CodeVN",
+      "subtitle": "All-in-one photo and video free + AI art gen",
+      "localizedDescription": "Meitu is the All-in-one photo and video free editor on mobile, which gives you everything you need to create awesome edits. Meitu AI Art generates creative anime style photos with one tap.\n\n \n\nMeitu Features:\n\n【Photo Editor】\n\nMake your photos stunning and sensational! Whatever your beauty preference, do it all with Meitu!\n\n• 200+ Filters: No more dull photos! Animate and liven them up with 200+ original and unique effects!\n\n• Unique Art Photo Effects: Cutting-edge tech that automatically turns your portraits into stunning illustrations!\n\n• Instant Beautification: Select the beautification level of your choice and get flawless skin, sparkly eyes, a straighter nose, whiter teeth, etc. in just one tap!\n\n• Edit Pictures\n\n– Effects: Add filters to your photos and create a different mood\n\n– Mosaic: Cover anything that you want to hide\n\n– Magic Brush: Doodle over your pics with different brush options\n\n– Add-ons: Customize your pictures by adding frames, text, stickers\n\n– Collage: Combine several photos into one collage using in-app templates, text, and layout options\n\n• Retouch Body Features\n\n– Skin: Smooth, firm, tone and adjust the hue of your skin exactly the way you like!\n\n– Blemishes: Get rid of any unwanted acne, scars, spots, etc.\n\n– Eyes: Brighten and enlarge your eyes, and completely erase dark circles\n\n– Body Shape: Be curvier, slimmer, more muscular, shorter, or taller.\n\n• Artificial Intelligence\n\nWith groundbreaking AI technology, Meitu auto detects your facial features and is able to add cute motion stickers or hand-drawn effects to your face while taking selfies.\n\n \n\n【Video Editor】\n\n• Edit Videos: Create and edit your video in easy ways. Make your Vlogs and Tiktok videos in a high-end level with filters, special fonts, stickers and music.\n\n• Portrait Retouch: Portrait can be adjusted by a variety of effects, like makeup, face, teeth adjustment.",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/12/Meitu.png",
+      "downloadURL": "https://ia802702.us.archive.org/9/items/meitu-9.9.30-le-ti/Meitu%2B%2B_9.9.30_LeTi.ipa",
+      "size": 5950900,
+      "version": "9.9.30",
+      "versionDate": "2023-01-01",
+      "versionDescription": "",
+      "tintColor": "663399",
       "screenshotURLs": [
-        "https://r.yattee.stream/screenshots/iOS/trending.png",
-        "https://r.yattee.stream/screenshots/iOS/player.png",
-        "https://r.yattee.stream/screenshots/iOS/search-suggestions.png"
+        ""
+      ]
+    },
+    {
+      "name": "Doppi",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.doppi",
+      "developerName": "CodeVN",
+      "subtitle": "Doppi",
+      "localizedDescription": "Music files aren’t dead. Whether you’ve built up your collection for decades or just got sent an album full of b-sides of your favorite artist, you need a place to carry your own music.\n\n \n\nLet Doppi be that place. Doppi (pronounced doh-pie) raises the bar in iOS app design in an essentially simple music player, built just for your local music files.\n\n \n\nEnjoy your music with:\n\n• A beautifully simple interface\n\n• Fluid gesture-based navigation\n\n• Always-reachable search and playback controls\n\nSupports MP3, M4A, FLAC, and more. Browse and play music:\n\n• Received via AirDrop\n\n• Copied from the Files app\n\n• Shared from other apps (selecting “Copy to Doppi”)\n\n• Added to the Doppi folder in Files or via iTunes File Sharing\n\n• Synced from iTunes\n\n• Downloaded from Cloud Music Library\n\n \n\n————\n\nImportant:\n\nDoppi does not support Apple Music offline downloads outside of Cloud Music Library.\n\n————\n\n \n\nWith Doppi:\n\nBig, Beautiful Artwork\n\nYour music’s artwork takes center stage on the Now Playing screen and throughout your library.\n\nMake It Your Own\n\nChoose from 6 highlight colors and 32 beautiful icons, switch between 4 light and dark themes, rearrange your library tabs, and more—all from Preferences.\n\nSearch From Anywhere\n\nPull down from anywhere in your library to invoke Search. Hit Return to instantly trigger the top result.\n\nPlay and Add Quickly\n\nPlay an album or artist right from the library using their embedded Play buttons, and add songs to Up Next using the Add (+) buttons.\n\nMark Your Likes\n\nTap the heart on the player (or choose Like from a menu) to Like tracks. Liked music appears in the Liked Songs playlist, Liked Albums on Search, and is more likely to play in Shuffle All.\n\nMake Playlists\n\nCreate all-new playlists, duplicate them, or copy them from Apple Music. Tap and hold on anything to add those songs to a list.\n\nAdd Lyrics\n\nSearch for lyrics on the web right from the app and add them to your songs. Enjoy them on Doppi’s beautiful player interface.\n\nManage Your Music\n\nEverything in your library has useful actions — just tap and hold to reveal a menu. For example, if you’re not feeling some of your music, you can exclude it from Shuffle All, hide it from your library, or delete it (if it’s from imported files).\n\nLess, But Better\n\nEvery screen in Doppi has been carefully designed with clean typography, pleasing contrast, and elegant motion. Enjoy your music without unnecessary distractions.\n\nEasily Readable\n\nDoppi fully supports Dynamic Type and includes high contrast themes, so your eyes won’t get in the way of your ears.\n\nContinue Album\n\nEver shuffled your music, found a song you loved, and wished you could keep playing the album without stopping the song? Doppi can make it happen — just navigate to the album and press Play.\n\nGive your music the lovely home it deserves.",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/12/Doppi.png",
+      "downloadURL": "https://ia804708.us.archive.org/21/items/aiart-generator-1.1.0-le-ti/Doppi_4.3.12_LeTi.ipa",
+      "size": 5950900,
+      "version": "4.3.12",
+      "versionDate": "2023-01-01",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "PlayerXtreme++",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.PlayerXtreme",
+      "developerName": "CodeVN",
+      "subtitle": "PlayerXtreme",
+      "localizedDescription": "PlayerXtreme Video & Media Player is a multi-functional, high-performance & cross-platform application which enables you to enjoy your content in HD quality. Watch movies, listen to music and stream your favorite content with just a click of a button. Download now and enjoy the perfect HD video player that we have to offer.\n\n—————————-\n\nFeatures:\n\nPlay files that are in your gallery with this media player. Our Media Player supports a vast number of formats e.g. MP4, MOV, MKV, WMV to name a few, and many others. Delivers an unrivaled 4K 1080p playback which makes it the best choice out there. Simple User Interface and even better User Experience. All in one media player. Play files that are on your device, on your Scan QR code of the URL that you want to play. Then sit back, relax and Enjoy!\n\n—————————-\n\nSupported Formats:\n\nVideo: m3u8, mp4, WebM, 3gpp, 3gp, 3g2, asf, avi, DV, DAT, Flv, gxf, m2p, m2ts, m2v, m4v, Mkv, Moov, mov, mpe, mpeg1, mpeg2, mpeg4, mpg, MPV, mt2s, mts, mxf, ogm, ogv, ps, qt, rm, Rmvb, ts, VOB, wm, WMV, DivX, iso, SWF, wtvMusic: mp3, m4a, ra, ac3, wav, FLAC, AIF, WMA, AIFF",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/11/PlayerXtreme.jpeg",
+      "downloadURL": "https://ia801408.us.archive.org/16/items/tempo-4.26.0-le-ti/PlayerXtreme%2B%2B_1.4.19_LeTi.ipa",
+      "size": 5950900,
+      "version": "1.4.19",
+      "versionDate": "2022-11-22",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "Memrise++",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.memrise",
+      "developerName": "CodeVN",
+      "subtitle": "Memrise",
+      "localizedDescription": "Learning a language isn’t hard. Short Lessons. Real-life phrases. Get everything you need to go from learning to speaking, fast, with Memrise.\n\nJoin over 60 million people and start learning a language with Memrise, the easiest way to learn a language\n\n‘It’s among the most popular language apps with its user-friendly interface and helpful video clips with the spoken dialects in action to help you master real-world scenarios.’ – All Tech Buzz\n\nWe get to the heart of learning a language: showing you how native speakers speak and teaching you how to do it yourself. Video clips of real people in local streets, coffee shops, karaoke bars and at work help you understand and speak languages the way they’re actually used in real-life situations.\n\n \n\n====================\n\nWHAT LANGUAGES CAN I LEARN?\n\nYou can learn Spanish (European Spanish and Mexican Spanish), French, German, Italian, Japanese (Romaji and Kanji), Korean, Chinese, Portuguese (European Portuguese and Brazilian Portuguese), Russian, Dutch, Swedish, Norwegian, Polish, Turkish, Danish, Icelandic, Mongolian, Slovenian, Yoruba and English (British English and American English).\n\n \n\n====================\n\nDOWNLOAD THE APP TO:\n\n1) Learn all the language essentials. Useful vocabulary and phrases for real-life situations: from ordering a coffee to making small chat with friends in new places.\n\n2) Get used to language as the locals speak it. With over 50,000 audio and video clips, you’ll get to grips with a variety of sounds, tone, rhythm, body language, gestures, and more.\n\n3) Ease into speaking another language confidently. A safe space to practice without feeling fearful or embarrassed of speaking in a new language out loud.\n\n \n\nLearn French for travel\n\nOur French courses have all the words and phrases you’ll need to get you feeling like a local.\n\nLearn Spanish for work\n\nWith native speaker video clips to help you understand and speak Spanish to your colleagues, faster.\n\nLearn Japanese for fun\n\nSo you can enjoy the Japanese culture and country without translation apps or subtitles.\n\nWhatever your language learning motivation is, Memrise gets you language ready for the real world – no matter if you’re a complete beginner or looking to refresh your language knowledge.\n\nA team of language specialists and native speakers working alongside expert engineers design and build your lessons to easily help you go from learning to speaking, fast. Feeling excited? You can learn Spanish, English, French, Italian, German, Portuguese, Russian, Japanese, Korean, Chinese (and more) and learn to speak as the locals do! Try any of our 20+ language courses.",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/11/Memrise.jpeg",
+      "downloadURL": "https://ia601502.us.archive.org/17/items/memrise-3.2.34-le-ti/Memrise%2B%2B_2021.5.24_LeTi.ipa",
+      "size": 5950900,
+      "version": "2021.5.24",
+      "versionDate": "2022-11-20",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "Facetune++",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.facetune",
+      "developerName": "CodeVN",
+      "subtitle": "Facetune",
+      "localizedDescription": "Introducing new AI features to create stunning visuals to add to your photos or selfies. Let your imagination run wild & express yourself like never before.\n\n \n\nEasily edit photos and videos with the world’s premier editor! Enhance your entire photo at once using one-tap editing or express your unique vision with precision using manual editing to get the look and feel you want. Put your poise and personality into every post – show the world what makes you one of a kind!\n\n \n\nCELEBRATE YOUR SELFIE\n\n-Cover blemishes and let the real you shine through\n\n-Apply makeup to step up the sass\n\n-Refresh tired eyes or explore new eye colors\n\n-Add highlights or darken hair\n\n \n\nAI ART\n\n-New AI image generator for stunning photo backgrounds\n\n-Type what you want to see & watch it appear with advanced AI tools\n\n-Overlay your AI creations onto your selfie background\n\n-Take your selfies to the next level with easy-to-use digital art\n\n-Bring your imagination to life – apply AI generated art to your background or to create a new clothing pattern!\n\n \n\nRETOUCH IN A SNAP\n\n-Thin or thicken eyebrows, lips, or hair with Reshape\n\n-Whiten teeth, clothing, and sneakers\n\n-Airbrush a tan or smooth out skin\n\n \n\nADD A DASH OF DAZZLE\n\n-Photo filters to match your personal aesthetic\n\n-Scroll stopping effects for every occasion\n\n \n\nGRAB THE SPOTLIGHT\n\n-Dial in lighting to keep the attention on you\n\n-Blur backgrounds or replace them with a new one\n\n-Ring light eyes for a studio look\n\n-Remove distractions in a swipe\n\n \n\nSELFIE VIDEOS ON POINT\n\n– Enhance videos with a hair and face retouch editor\n\n– Be bold with filters and effects\n\n– Denoise to tune out background sound\n\n \n\nHighlight your assets and unleash your creativity! Facetune is your all-in-one editor for unforgettable results. Easily whiten teeth, retouch blemishes and acne, contour faces, blur backgrounds, add effects, and so much more – download today and let your natural beauty and glamour glow in every photo, selfie, and video!",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/11/Facetune.jpeg",
+      "downloadURL": "https://ia800504.us.archive.org/15/items/facetune-3.36.2-le-ti/Facetune%2B%2B_3.36.2_LeTi.ipa",
+      "size": 5950900,
+      "version": "3.36.2",
+      "versionDate": "2023-10-04",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "Picsew++",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.picsew",
+      "developerName": "CodeVN",
+      "subtitle": "Picsew",
+      "localizedDescription": "Picsew can automatically merge multiple screenshots to a long screenshot, and we call this long screenshot “Scrollshot”.\n\n \n\n# Features\n\n \n\n– Create scrollshot directly through screen recording.\n\n– Advanced Screenshot-Merging-Algorithm among the same kind of products.\n\n– Stitch manually if you want to control more, both vertical and horizontal stitching are supported.\n\n– Select large number of photos, up to 300.\n\n– High resolution photo stitching and output.\n\n– Export as PDF.\n\n– Export as slices.\n\n– Cleaning status bar.\n\n– Annotation, adding watermark, redaction and mockup.\n\n– Minimal interface design, no advertising.\n\n– Universal application, compatible with iPhone and iPad.\n\n– Compatible with VoiceOver.\n\n \n\n# Extensions\n\n \n\n– Scrollshot Recording:\n\nCreate scrollshot without taking screenshots.\n\n– Web Snapshot:\n\nMake web site full page screenshot right in Safari app.\n\n– Recent Scrollshot:\n\nMake scrollshot without opening app.\n\n– Create Scrollshot:\n\nMake scrollshot right in Photos app.\n\n \n\nPicsew can be automatically stitched:\n\n \n\n– Conversation\n\n– To-Do list\n\n– Tweet list\n\n– Comment list\n\n– Long article\n\n– Long web page\n\n– Other contents that can be scrolled",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/11/Picsew.jpeg",
+      "downloadURL": "https://ia801506.us.archive.org/19/items/2.1-le-ti/Picsew%2B%2B_3.9.4_LeTi.ipa",
+      "size": 5950900,
+      "version": "3.9.4",
+      "versionDate": "2022-11-16",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "PrettyUp++",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.prettyup",
+      "developerName": "CodeVN",
+      "subtitle": "PrettyUp",
+      "localizedDescription": "PrettyUp is a fantastic face and body editor for videos and photos. We can help you retouch your sweet selfie video and selfie like face retouch, smooth skin and reshape body. Come and try this face beauty camera and video body editor to edit perfect selfie videos, make vlog and edit live photo video, supporting video and picture editing at the same time. Are you still annoyed by shooting videos or photos without showing your best or the problem of face and body get distorted by camera? Prettyup will work it out to restore your beauty and save your precious moments.\n\n \n\nVideo Body Editor\n\n-Reshape body: slim and skinny. Powerful retouch tools and body changer prepared for you.\n\n-Slim your waist and easy to get thin waist and perfect figure. Easy to edit body shape.\n\n-Body enhancer: workout longer and awesome legs. Make you tall and get model legs in videos.\n\n-Make your body slimmer and help you fix body in videos. Excellent body edit app and wonderful portrait video editor for you.\n\n \n\nFace Retouch\n\n-Face Video editor helps you get pretty face and brighten video selfie. Easy to edit portrait video.\n\n-Reshape face in videos naturally: easy to make face thinner and help you get strong jawline.\n\n-Face shrink: make your face slimmer. Get your video with our beauty video converter. Edit your face shape easily.\n\n-Perfect nose editor and eyebrow editor for portrait camera. Big eyes for facelift to make you beautiful.\n\n-Lips plumper designed for you. Multiple face filters are waiting for you to try in this magic selfie editor.\n\n \n\nBeauty Face Camera\n\n-Face fixer helps you fix all the facial problems: remove acnes and smooth face. The smoothing app is also a great face cleaner to get glowing and smooth skin in videos and photo.\n\n-Teeth whitener and remove blemishes bright your aesthetic video. Younger face is easy to get. Perfect smile editor for you to try.\n\n-Face enhancer: remove wrinkles, eyebag and nasolabial to get face smoother, bright your makeup and even your skin tone on foto and live photo video.\n\n \n\nVideo Filter Editor\n\n-Multiple face filters prepared for you. Popular beauty filter brighten your videos. 60+ styles of face filters: Selfie, Ins, Retro, Artistic… More selfie filters and effects are coming.\n\n-Useful adjust tools to enhance your videos. Enjoy advanced editing tools to make your videos cool.\n\n \n\nExperience the wonderful video enhancer and face app editor now. PrettyUp helps you retouch selfie videos and vlog.\n\nAlthough life is full of trivialities and troubles, don’t hesitate to create best memories with PrettyUp and embrace your ideal life. Remember, you were born to be beautiful. We do not need to live up to anyone’s ideal since beauty is something that cannot be standardized. All body shapes are perfect.",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/11/PrettyUp.jpeg",
+      "downloadURL": "https://ia800505.us.archive.org/15/items/pretty-up-6.8.1-le-ti/PrettyUp%2B%2B_6.8.1_LeTi.ipa",
+      "size": 5950900,
+      "version": "6.8.1",
+      "versionDate": "2022-11-17",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "Elevate++",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.Elevate",
+      "developerName": "CodeVN",
+      "subtitle": "Elevate",
+      "localizedDescription": "Elevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\n \n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequently use Elevate.\nFEATURES\n\n \n\n• 40+ Brain Training Games: Improve your critical cognitive skills like focus, memory, processing, math, precision, and comprehension with 40+ brain training games.\n\n• Performance Tracking: Measure your performance against yourself and others. Weekly reports highlight your key accomplishments and opportunities.\n\n• Personalized Workouts: Customize your daily training focus and choose between 3 and 5 games. Get personalized daily workouts that include the skills you need most.\n\n• Adaptive Progression: Train your brain with adaptive difficulty progression that ensures your experience is challenging.\n\n• Workout Calendar: Track your streaks and stay motivated with Elevate’s workout calendar.\n\n• Elevate Dash on Apple Watch: Play 4 additional mini-games and review your performance on your Apple Watch with Elevate Dash.\n\n• And more!\n\n \n\nWHY YOU NEED ELEVATE\n\n \n\n• Express yourself more effectively in writing. Write with clarity, persuasiveness, and concision.\n\n• Improve your spelling and punctuation. Avoid common writing pitfalls.\n\n• Become a better reader. Read everyday materials faster and with greater understanding.\n\n• Expand your vocabulary.\n\n• Quickly and easily solve everyday math problems. Get better at comparing prices, splitting bills, and calculating discounts and markups.\n\n• Speak more effectively. Become more articulate and better at communicating tone and meaning.",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/10/Elevate.jpeg",
+      "downloadURL": "https://ia601200.us.archive.org/24/items/elevate-5.125.0-le-ti/Elevate%2B%2B_5.125.0_LeTi.ipa",
+      "size": 5950900,
+      "version": "5.125.0",
+      "versionDate": "2023-12-25",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "Video Grabber",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.VideoGrabber",
+      "developerName": "Unknown",
+      "subtitle": "Video Grabber",
+      "localizedDescription": "Video Grabber application grabs direct links to videos played from any website. Simply use the web browser inside the app to open any video and you will get a direct link to it.\n\n \n\nYou can use Video Grabber on you iPhone together with Video Grabber app for Apple TV. Launch Video Grabber application on both iPhone and Apple TV and every video that you play from any website on your iPhone will also automatically play on your Apple TV. After starting the video on Apple TV you can close the iPhone application or even turn off your phone and still watch your video on Apple TV.",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/09/Video-Grabber.png",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/TWrBhfz8BGIvPA",
+      "size": 5950900,
+      "version": "1.0.8",
+      "versionDate": "2022-09-27",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "EnhanceFox++",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.EnhanceFox",
+      "developerName": "CodeVN",
+      "subtitle": "EnhanceFox++",
+      "localizedDescription": "EnhanceFox is the best real-time photo enhancement application to clear picture that is blurry and enhance to high resolution. We take full advantage of advanced AI generation technology to help you easily repair blurred photos to make them clear. In addition, EnhanceFox is also an AI-powered colorizer, which can colorize your black and white photos to make them look better. Last but not least, EnhanceFox is a video enhancer to better quality that can enhance and fix blurry video to HD.\n\nDownload and enjoy the convenience of cutting-edge AI technology!\n\n \n\nAmazing features:\n\n• Repair blurred photos to improve photo clarity and make portrait photos better.\n\n• Enhance video quality to better resolution.\n\n• Convert FPS: You can make your videos smoother.\n\n• Enhance photo that turns photos into cartoon effect.\n\n• AI photo smoother that improving the smoothness of photo.\n\n• Restore realistic colors for your black and white photo\n\n• Descratch photos, remove scratches from photos.\n\n• Animate photos, add eye and mouth movements to make photos talk or sing. Animate face with interesting action. Come and make your face animation.\n\n• The best face animator to animate faces, create amazing talking pictures!\n\n• AI photo editor for portraits and photo retouching to give you a flawless face\n\n• Retouch selfies in one tap to remove blemishes and smooth out skins\n\n• One-click to color photos, add filters and automatically correct photos\n\n• Enhance old photos in memory to HD\n\n• Enhance photos taken with your old camera or mobile phone to make them the same as taken by the latest camera or mobile phone\n\n• AI recognition to blur the background, highlight the high-definition image of the character\n\n• Rescue compressed, damaged or yellowed old photos\n\n• Animate old photos free with algorithms of AI (Artificial Intelligence).\n\n• Retouch photo by marking any unwanted content and have it removed from photos with one touch\n\n• Video restoration to remini video and make video clearer\n\n \n\nNew Features1：\n\nNot only make photos clearer, but we have also added a new function-video enhancer. You can select a blurry or low-resolution portrait or internet video, and we can enhance video resolution to better quality. EnhanceFox is not only an AI photo enhancer but also an AI video enhancer.\n\nNew features2：\n\n• Support photo scanning to convert your photos into digital photos for free.\n\n• Storing the scanned photos in the album. Then you can Enhance photos, Colorize B&W photos and Animate photos.\n\nNew features3：\n\nWant to get rsmb and time cut’s motion blur and slow motion effect? Come to try our new feature: Convert FPS! By using Optical flow method to convert velocity, you can also make your video smoother!",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/08/EnhanceFox.png",
+      "downloadURL": "https://ia800506.us.archive.org/9/items/enhance-fox-6.9.3-le-ti/EnhanceFox%2B%2B_6.9.3_LeTi.ipa",
+      "size": 5950900,
+      "version": "6.9.3",
+      "versionDate": "2023-10-04",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "GBox",
+      "category": "Stores",
+      "bundleIdentifier": "com.atylo.gbox",
+      "developerName": "GBOXdev",
+      "subtitle": "an apps' store and signer",
+      "localizedDescription": "If you jailbreak your iOS device, you won't have to worry about app revokes or signing IPA files. However, if you prefer a non-jailbroken environment, you can use GBox for iOS, which is a reliable on-device re-sign tool for iOS. This app allows you to install IPA files without needing a PC, making it a convenient option for users who want to sideload apps. The most recent GBox IPA update brings support for iOS 17. GBox (GBox Run) is a powerful on-device IPA signing tool that empowers iOS users to sideload jailbreak tools, apps, games, console emulators, and tweaked apps on their iPhone or iPad, without requiring a computer. With GBox Run for iOS, you can easily import your own signing certificates or purchase globally available ones to sign and install IPA files.\n\nThis tool works on both jailbroken and non-jailbroken devices. GBox iOS is an alternative to Cydia Impactor that works directly on your iPhone, supporting iOS versions 10 through the latest iOS 17 release. Once GBox IPA for iOS is installed, the app will be available from your Home Screen, allowing you to install almost all IPA files, including those over 500 MB in size.\n\nGBox iOS eliminates the need to use a computer, making the IPA installation process more convenient and streamlined. Moreover, GBox can import your own IPA files from any app, or access sources with links to popular jailbreak tools like XinaA15, unc0ver, Odyssey, and various console emulators such as Delta, RetroArch, Happy Chick, DolphiniOS, PPSSPP, and iNDS.\n\nTwo iPhone screens showing the GBox IPA installer app interface.\n\nThis feature provides an efficient way to manage and access your IPA files and jailbreak tools all in one location, eliminating the need to navigate through multiple sources or applications. The app also includes a list of popular iOS games, and all files are available for self-signing. However, it should be noted that without a purchased certificate, you won't be able to install IPA files.\n\nGBox iOS enables users to easily create their own sources, with download links to popular IPA files for quick and easy access. The app also includes a download manager that allows you to quickly download any IPA packages by providing a URL to the file and a web server useful to transfer IPA files between devices. GBox also works on iOS 15 XinaA15 and Palera1n jailbreaks.\n\nAdditionally, GBox supports Anti-Revoke tweaks, which allows you to install apps and games by disabling certificate revokes check on your jailbroken device, providing a secure experience.\n\nBy default, GBox iOS installs a globally available enterprise certificate to sign IPA files. However, as these certificates are commonly used by pirated third-party App Stores, they are often revoked by Apple, making them impossible to use. Typically, these free certificates only work for a few days. Purchased certificates can last for a couple of weeks or months.\n\nTwo iPhone screens showing Gbox IPA installation options and app Settings pane.\n\nGBox uses a p12 certificate and mobileprovision file to install IPA files on your iPhone. To ensure that the certificate is valid, GBox includes a certification management system, which is available through the Settings pane. To access this feature, you must install the UDID profile.\n\nFrom the Cert Management page, you can view all installed certificates, check their current status, delete and export certificates, purchase working private certificates, and import and use your own certificates to sign and install IPAs. This feature allows you to manage and maintain your certificates, ensuring that you can install and use IPA files with minimal interruption.\n\nRecently, GBox has been integrated with Appdb.to, the largest and oldest IPA database. From now on, you can install apps with GBox certificates easily. Simply visit the website configuration page and select “Import from GBox”. GBox TS is now available, offering the ability to install IPA files permanently without revokes on iOS 14 through iOS 15.4.1. This version of GBox can be easily installed on your iPhone directly from Safari's mobile browser. With this feature, you can enjoy your favorite apps and tweaks without worrying about them getting revoked.",
+      "iconURL": "https://gbox.run/Public/resources/icon256.png",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/Up2EGqXIqNa-Pg",
+      "size": 5950900,
+      "version": "4.5.2",
+      "versionDate": "2023-09-19",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "Misaka",
+      "category": "Stores",
+      "bundleIdentifier": "com.misaka.misaka",
+      "developerName": "Rin",
+      "subtitle": "Semi-Jailbroken tweaks store",
+      "localizedDescription": "The purpose of  Misaka is to give iPhone users the ability to customise their phones without a jailbreak. It is based on the MacDirtyCow, KFD (including recent puaf_landa) vulnerabilites and is compatible with iOS versions 15.0–15.7.1, 15.7.2 - 15.8.1, 16.0 - 16.1.2, and 16.2 - 16.6.1 and all devices that use A9 to A16 chips. Once installed, you can browse through a catalog of MacDirtyCow or kfd-compatible add-ons much like you can search for jailbreak tweaks on jailbroken handset running Cydia, Sileo, Zebra, or some other package manager app. Trollstore can be installed with it as well.",
+      "iconURL": "https://i.imgur.com/3aGJJ6M.png",
+      "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/8.2.4/misaka-v8.2.4.ipa",
+      "size": 5950900,
+      "version": "8.2.4",
+      "versionDate": "2024-01-19",
+      "versionDescription": "Supported iOS 15.7.2 - 15.8.1",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "AppInstaller",
+      "category": "Stores",
+      "bundleIdentifier": "com.app.installer",
+      "developerName": "AppInstalleriOS",
+      "subtitle": "AppInstaller Store",
+      "localizedDescription": "AppInstaller Store",
+      "iconURL": "https://appinstalleriosgh.github.io/Img/AppInstalleriOSIcon.png",
+      "downloadURL": "https://appinstalleriosgh.github.io/Sign/AppInstalleriOS.ipa",
+      "size": 5950900,
+      "version": "1.0",
+      "versionDate": "2023-09-01",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "Blacklist",
+      "category": "Tweaks",
+      "bundleIdentifier": "com.app.blacklist",
+      "developerName": "AppInstalleriOS",
+      "subtitle": "Blacklist",
+      "localizedDescription": "Blacklist",
+      "iconURL": "https://appinstalleriosgh.github.io/Icons/Blacklist.png",
+      "downloadURL": "https://appinstalleriosgh.github.io/Sign/Blacklist.ipa",
+      "size": 5950900,
+      "version": "1.0",
+      "versionDate": "2023-09-23",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+	{
+      "name": "Nufa",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.nufa.app",
+      "developerName": "DPixel",
+      "subtitle": "Laggy AI art genetator, DPixel modified free version",
+      "localizedDescription": "Laggy AI art genetator, DPixel modified free version",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/nufa-body-photo-editor-300x300.png",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/Rz4TNzrwwyZCxw",
+      "size": 5950900,
+      "version": "3.6.0",
+      "versionDate": "2023-10-04",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "iVatar",
+      "category": "AI",
+      "bundleIdentifier": "com.mrauxsiuh.doodle",
+      "developerName": "Parwiz",
+      "subtitle": "Cracked by Parwiz. Formerly known as iToon, Wonder App, iVatar, iFace",
+      "localizedDescription": "Cracked by Parwiz. Formerly known as iToon, Wonder App, iVatar, iFace",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.mrauxsiuh.doodle.png",
+      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-01-2024/iVatar_2.0.2_%40thisismanpreets_apptesters.org.ipa",
+      "size": 5950900,
+      "version": "2.0.2",
+      "versionDate": "2024-01-14",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "Airt - AI Art Generator",
+      "category": "AI",
+      "bundleIdentifier": "com.me.airt",
+      "developerName": "someone",
+      "subtitle": "Airt - AI Art Generator",
+      "localizedDescription": "Turn your words into art using AI Art Generator!\n\nUnleash your creativity and transform words into captivating art with Airt, the ultimate AI-powered art generator. With over 10 mesmerizing styles to choose from, including realistic, painting, anime, black and white, and many more, Airt empowers you to create stunning and unique artwork like never before.\n\nAirt offers the flexibility to choose from different AI models, including DALL-E, Stable Diffusion, and Midjourney. Dive into the fascinating world of each model's unique artistic interpretations and explore the depths of creativity that they unlock. Let Airt be your gateway to a myriad of AI-powered art possibilities!",
+      "iconURL": "https://i.imgur.com/MjIgxX6.png",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/ZhZjVWFrXcd2Jw",
+      "size": 5950900,
+      "version": "2.1.1",
+      "versionDate": "2023-10-04",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "AI Art Generator",
+      "category": "AI",
+      "bundleIdentifier": "com.tapuniverse.aiartgenerator",
+      "developerName": "CodeVN",
+      "subtitle": "tapuniverse AI Art Generator",
+      "localizedDescription": "tapuniverse AI Art Generator, may not work now",
+      "iconURL": "https://i.imgur.com/zMScnqX.png",
+      "downloadURL": "https://ia601609.us.archive.org/29/items/aiart-generator-2.0-2.0.2-le-ti/AIArtGenerator2.0_2.0.2_LeTi.ipa",
+      "size": 5950900,
+      "version": "2.0.2",
+      "versionDate": "2023-10-04",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "Avatan++",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.avatan",
+      "developerName": "CodeVN",
+      "subtitle": "",
+      "localizedDescription": "Avatan is a social photo editor.\n\nIt enables people to edit photos interacting with each other, while using their own processing elements.\n\nAll the elements are created and added by users to the social network integrated with the photo editor.\n\n \n\nEFFECTS\n\nYou have the opportunity to create and save your own, customized effects.\n\nTo create effects, you can use various tools and resources.\n\n \n\nRESOURCES\n\nYou can add and use 4 various resources when editing images:\n\n* Stickers\n\n* Textures\n\n* Frames\n\n* Backgrounds\n\n \n\nRETOUCHING\n\nMoreover, the photo editor features embedded functions for all the necessary types of face retouching and body shape adjustment. This makes it possible to always easily eliminate any imperfections with high quality.\n\n \n\nYou can save your favorite effects and resources to apply them later while editing your new photos. Due to these multiple options, your edited photos will always be of high quality and special style. Every second an enormous number of users add new effects and resources for editing images on a variety of themes, replenishing their collections. Thus, the range of opportunities offered by the photo editor is constantly growing. The intuitive and convenient interface makes it possible to implement complex processing in simple steps. The entire process is a pure joy.",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/10/Avatan-Premium.jpeg",
+      "downloadURL": "https://ia800506.us.archive.org/2/items/avatan-5.22-le-ti/Avatan%2B%2B_5.22_LeTi.ipa",
+      "size": 5950900,
+      "version": "5.22",
+      "versionDate": "2023-10-04",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "BodyFilter++",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.codevn.bodyfilter",
+      "developerName": "CodeVN",
+      "subtitle": "lose weight",
+      "localizedDescription": "BodyFilter is the perfect body editor that allows you to lose weight, increase volume, improve curves, all in one app!\n\n \n\nWith its powerful body editing and retouching features, ideal look is realized within a few clicks.\n\n \n\nBODYFILTERS\n\n·Choose from over 20 top filters\n\n·Each filter is unique\n\n·We are constantly working to improve them.\n\n \n\nRESHAPE\n\n·Reshape your body and facial structure\n\n·Refine a specific area of the selfie, for example, arms or facial features\n\n·Bloat your breast, enlarge muscles and facial features",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/12/BodyFilter.jpeg",
+      "downloadURL": "https://ia800509.us.archive.org/2/items/body-filter-1.0.4-le-ti_202310/BodyFilter%2B%2B_1.0.4_LeTi.ipa",
+      "size": 5950900,
+      "version": "1.0.4",
+      "versionDate": "2023-10-04",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+  "name": "AI Art Generator Wonder Dream",
+  "category": "AI",
+  "bundleIdentifier": "com.vuxuan.aiart",
+  "developerName": "AppTesters",
+  "subtitle": "",
+  "localizedDescription": "Create unique artwork with artificial intelligence, by entering text unleash your creativity with AI Art Generator Wonder Dream, bring your dreams back to life in seconds.\n\nFirst, type whatever is on your mind right now. - Dream, Skyline, Fire & Water, Wonderland or Robot or whatever else you are imagining and hit create!\n\nWithin minutes! Enjoy how AI Art Generator Wonder Dream uses the power of Artificial intelligence to transform your ideas into a wonderful painting.\n\nShare your art with your family, and friends save your painting so that you can view it later.",
+  "iconURL": "https://static.appdb.to/images/cydia-1900001171-icon-1681482431.png",
+  "downloadURL": "https://download.starfiles.co/UWzvUA7hfihl",
+  "size": 5950900,
+  "version": "1.3.2",
+  "versionDate": "2022-10-16",
+  "versionDescription": "",
+  "tintColor": "663399",
+  "screenshotURLs": [
+    ""
+     ]
+   },
+   {
+      "name": "AI Dreamer++",
+      "category": "AI",
+      "bundleIdentifier": "gs.dreamer.aidreamer",
+      "developerName": "spin",
+      "subtitle": "",
+      "localizedDescription": "AI Dreamer lets you create mesmerizing art with words!\n\n1. Type in what you would like to generate, optionally add style and artist inspiration\n2. Wait less than 3 seconds while AI Dreamer is drawing your visualization\n3. Enjoy your creation and share it with your friends!\n\nAI Dreamer's potential is limitless and can help you visualize literally EVERYTHING. \n\nYou can create your own wallpaper, artwork for your side-project, funny portrait of your pet or even add a style to your selfie!\n\nFun Fact: App icon was generated with the following prompt: '3D pastel art'",
+      "iconURL": "https://static.appdb.to/images/cydia-1900001059-icon-1672698882.png",
+      "downloadURL": "https://download.starfiles.co/NN5ol8MHIqse",
+      "size": 5950900,
+      "version": "6.1",
+      "versionDate": "2022-10-14",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "RetroArch",
+      "category": "Emulators",
+      "bundleIdentifier": "libretro.retroarch",
+      "developerName": "Libretro",
+      "subtitle": "RetroArch",
+      "localizedDescription": "RetroArch",
+      "iconURL": "https://tweak-box.com/wp-content/uploads/2019/04/retro-arch-logo-200px.png",
+      "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
+      "size": 5950900,
+      "version": "1.16.0",
+      "versionDate": "2023-10-10",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "ChatGenius++",
+      "category": "AI",
+      "bundleIdentifier": "com.codevn.chatgenius",
+      "developerName": "CodeVN",
+      "subtitle": "",
+      "localizedDescription": "Introducing ChatGenius, the ultimate AI-powered companion for your iOS device, powered by OpenAI. This app offers a multitude of features, all designed to make your daily life easier. ChatGenius is the pinnacle of AI innovation, bringing you the highest quality of artificial intelligence through the powerful GPT-4 model.\n\nChatGenius is powered by the ChatGPT API, providing you with the ability to chat with the most advanced bots, DaVinci in the unlimited version, and Curie in the basic version. Whether you need advice, information, or just a friendly conversation, these bots, fueled by GPT-4, are always there for you.\n\nUnleash your creativity with the built-in poetry generation feature, whether you’re a passionate writer or just looking for some inspiration. Overcoming writer’s block has never been easier; with a single tap, the app can generate post ideas for your social media platforms such as Instagram, Twitter, and more.\n\nWith a dedicated interface for research, ChatGenius makes it easy to find the information you need. It even explains complex concepts in an understandable manner, all thanks to the technology powered by OpenAI.\n\nFor developers, the app includes a feature to generate code in any language, making it the perfect companion for coding tasks. The smart editing tool, powered by the ChatGPT API, lets you easily modify your text and code based on your instructions.\n\nChatGenius comes equipped with a speech-to-text feature built on top of Apple’s Speech framework, making it easy for you to input text using your voice. With full VoiceOver support and a text-to-speech feature, the app is accessible to everyone. It also supports both dark and light modes for your convenience.\n\nIn essence, ChatGenius, powered by GPT-4, is a must-have for anyone seeking an AI-powered companion. With its array of features, this app will make your life more productive and enjoyable.\n\nDownload ChatGenius today and experience the power of ChatGPT api on your device.\n\nP.S. This app description was generated with one tap in our app, showcasing the capabilities of the ChatGPT API in action!",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/11/ChatGenius.jpeg",
+      "downloadURL": "https://ia601204.us.archive.org/34/items/chat-genius-2.252-le-ti/ChatGenius%2B%2B_2.252_LeTi.ipa",
+      "size": 5950900,
+      "version": "2.252",
+      "versionDate": "2023-12-25",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "AI ARTA: Art & Photo Generator",
+      "category": "AI",
+      "bundleIdentifier": "com.aiby.aiart",
+      "developerName": "AppTesters",
+      "subtitle": "",
+      "localizedDescription": "Old AI art generator. May not work now",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/ai-arta-art-ampamp-photo-generator-poster.png",
+      "downloadURL": "https://omtk.xyz/IPA/AI-Arta.ipa",
+      "size": 5950900,
+      "version": "2.8",
+      "versionDate": "2023-12-25",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "Chai",
+      "category": "AI",
+      "bundleID": "com.beauchamp.Messenger.external",
+      "bundleIdentifier": "com.beauchamp.Messenger.external",
+      "version": "20240108.0.0",
+      "versionDate": "2024-01-14",
+      "versionDescription": "",
+      "subtitle": "",
+      "size": 45295085,
+      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/Chai_2.07_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "Parwiz",
+      "localizedDescription": "Injected with UnlimitedChats",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.beauchamp.Messenger.external.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.beauchamp.Messenger.external.png",
+      "tintColor": "663399",
+	  "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "VueTube",
+      "category": "Tweaked Apps",
+      "bundleIdentifier": "com.Frontesque.vuetube",
+      "developerName": "Frontesque",
+      "subtitle": "",
+      "localizedDescription": "AN alternative to Youtube, still unstable",
+      "iconURL": "https://avatars.githubusercontent.com/u/105111547?s=48&v=4",
+      "downloadURL": "https://github.com/VueTubeApp/VueTube/releases/download/0.3/VueTube-Unstable-iOS-Canary-Equivalent-June-22-2022.ipa",
+      "size": 5950900,
+      "version": "0.3",
+      "versionDate": "2022-06-22",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
+      ]
+    },
+    {
+      "name": "AI Chat Bot++",
+      "category": "AI",
+      "bundleIdentifier": "com.enjoy.aichat.chatbot.openchat",
+      "developerName": "CodeVN",
+      "subtitle": "",
+      "localizedDescription": "Welcome to AI Chat Bot powered by ChatGPT & GPT-3 & GPT-4, the ultimate language AI assistant that can assist you in almost any area of your life. Whether you’re a student, a professional, or just someone who wants to chat, Just ask AI Chat! AI Chat backed by ChatGPT and GPT technology is here to help you.\n\nAI Chat is a top-ranked intelligent friend client powered by VIDEOSHOW AI Chat Generator capabilities, using OpenAI Service & ChatGPT latest chatbot technology in a more friendly and expert manner. It pioneered the application that allows for quick switching between free and expert modes.\n\nUtilizing ChatGPT and GPT-3, with its cutting-edge natural language processing technology, AI Chat is capable of understanding and responding to human language in a way that feels natural and intuitive. Here are some of the key features that make AI Chat stand out:\n\nPersonalized Conversation\n\nAI Chat can learn from your interactions with it, powered by ChatGPT and GPT-3，providing you with personalized responses and suggestions that match your interests and needs. As you continue to use AI Chat, it will adapt to your preferences and become even more helpful over time.\n\nVersatile Language Skills\n\nAI Chat can communicate with you in multiple languages, backed by ChatGPT and GPT-3，making it an essential tool for communication and translation. Whether you need to write a message in a foreign language, have a conversation with someone who speaks a different language, or translate a document, AI Chat can handle it all.\n\nCreative Writing Assistance\n\nAI Chat can help you with creative writing tasks, whether it’s writing an email, a story, a poem, or even a research paper. With its vast knowledge and language skills, based on the power of ChatGPT and GPT-3, AI Chat can provide you with suggestions, ideas, and even write portions of your text for you.\n\nExpert Advice\n\nAI Chat, which utilizes ChatGPT and GPT-3，can connect you with experts in various fields, such as astrologer, career coaches, personal trainers, travel guides, and more. These experts can provide you with personalized advice and support to help you achieve your goals.\n\nKnowledge Base\n\nAI Chat has access to a vast knowledge base that includes information on almost any topic you can think of. Whether you need to look up a fact, learn about a new subject, or get help with a problem, AI Chat can provide you with the information you need.\n\nEntertainment\n\nAI Chat can also be a source of entertainment, with its ability to tell jokes, play games, and engage in fun conversations. It can also recommend books, movies, and music based on your interests and preferences.\n\nAccessibility\n\nAI Chat is available 24/7, so you can use it whenever you need it. It’s also accessible on multiple devices, including smartphones, tablets, and computers, making it easy to use no matter where you are.",
+      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/06/AI-ChatBot.jpeg",
+      "downloadURL": "https://ia802705.us.archive.org/22/items/aichat-1.0.3-le-ti/AIChat%2B%2B_1.0.3_LeTi.ipa",
+      "size": 5950900,
+      "version": "1.0.3",
+      "versionDate": "2023-06-06",
+      "versionDescription": "",
+      "tintColor": "663399",
+      "screenshotURLs": [
+        ""
       ]
     }
   ]
