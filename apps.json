@@ -1,7 +1,7 @@
 {
   "name": "Atylo's Yattee",
   "identifier": "stream.yattee",
-  "sourceURL": "https://atylo.github.io/apps2.json",
+  "sourceURL": "https://atylo.github.io/apps.json",
   "apps": [
     {
       "name": "Loopsie++",
