@@ -1,12 +1,13 @@
 {
   "name": "Atylo's Yattee",
-  "identifier": "atylo.yattee",
-  "sourceURL": "https://atylo.github.io/apps.json",
+  "identifier": "stream.yattee",
+  "sourceURL": "https://atylo.github.io/apps2.json",
   "apps": [
     {
       "name": "Loopsie++",
       "bundleIdentifier": "com.codevn.loopsie",
       "developerName": "CodeVN",
+      "subtitle": "",
       "version": "7.17.1",
       "versionDate": "2023-12-25",
       "versionDescription": "7.17.1",
@@ -16,20 +17,28 @@
       "tintColor": "663399",
       "size": 123000000,
       "screenshotURLs": [
-        ""
-      ],
-      "subtitle": "Loopsie++",
-      "absoluteVersion": "7.17.1",
-      "appID": "com.codevn.loopsie",
-      "versions": [
-        {
-          "version": "7.17.1",
-          "date": "2023-12-25",
-          "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
-          "localizedDescription": "7.17.1",
-          "size": 12300000,
-          "absoluteVersion": "7.17.1"
-        }
+        "https://r.yattee.stream/screenshots/iOS/trending.png",
+        "https://r.yattee.stream/screenshots/iOS/player.png",
+        "https://r.yattee.stream/screenshots/iOS/search-suggestions.png"
+      ]
+    },
+    {
+      "name": "Yattee Alpha",
+      "bundleIdentifier": "stream.yattee.app.alpha",
+      "developerName": "Yattee",
+      "subtitle": "Alternative YouTube frontend",
+      "version": "1.4.alpha.6",
+      "versionDate": "2022-06-28",
+      "versionDescription": "See release notes here: https://github.com/yattee/yattee/releases/tag/v1.4-alpha.6",
+      "downloadURL": "https://github.com/yattee/yattee/releases/download/v1.4-alpha.6/Yattee-1.4-alpha.6-iOS.ipa",
+      "localizedDescription": "Alternative YouTube frontent for iOS, tvOS and macOS built with Invidious and Piped.\nFeatures:\n- Native user interface built with SwiftUI\n- Multiple instances and accounts, fast switching\n- SponsorBlock, configurable categories to skip\n- Player queue and history\n- Fullscreen playback, Picture in Picture and AirPlay support\n- Stream quality selection\n- Favorites: customizable section of channels, playlists, trending, searches and other views",
+      "iconURL": "https://r.yattee.stream/icons/yattee-300-rectangle.png",
+      "tintColor": "21335C",
+      "size": 12091956,
+      "screenshotURLs": [
+        "https://r.yattee.stream/screenshots/iOS/trending.png",
+        "https://r.yattee.stream/screenshots/iOS/player.png",
+        "https://r.yattee.stream/screenshots/iOS/search-suggestions.png"
       ]
     }
   ]
