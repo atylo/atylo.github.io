@@ -10,9 +10,9 @@
       "version": "7.17.1",
       "versionDate": "2023-12-25",
       "versionDescription": "",
-      "downloadURL": "https://ia801204.us.archive.org/9/items/loopsie-7.17.1-le-ti/Loopsie%2B%2B_7.17.1_LeTi.ipa",
+      "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
       "localizedDescription": "",
-      "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/08/Loopsie-Deforum-AI-Art.jpeg",
+      "iconURL": "https://i.imgur.com/JP0Fncv.png",
       "tintColor": "663399",
       "size": 123000000,
       "screenshotURLs": [
@@ -26,7 +26,7 @@
         {
           "version": "7.17.1",
           "date": "2023-12-25",
-          "downloadURL": "https://ia801204.us.archive.org/9/items/loopsie-7.17.1-le-ti/Loopsie%2B%2B_7.17.1_LeTi.ipa",
+          "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
           "localizedDescription": "7.17.1",
           "size": 123000000,
           "absoluteVersion": "7.17.1"
