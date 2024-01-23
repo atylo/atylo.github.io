@@ -1,8 +1,8 @@
 {
-  "name": "Atylo's Repo",
+  "name": "Atylo Repo",
   "identifier": "com.atylorepo.source",
   "sourceURL": "https://atylo.github.io/repo.json",
-  "sourceIconURL": "https://i.imgur.com/8mhNRDS.png",
+  "sourceIconURL": "https://raw.githubusercontent.com/atylo/atylo.github.io/main/8mhNRDS.png",
   "userInfo": {},
   "apps": [
     {
