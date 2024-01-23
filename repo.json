@@ -1325,5 +1325,8 @@
         }
       ]
     }
-  ]
+  ],
+  "news": [],
+  "version": 2,
+  "apiVersion": "v2"
 }
