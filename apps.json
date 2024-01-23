@@ -7,7 +7,6 @@
       "name": "Loopsie++",
       "bundleIdentifier": "com.codevn.loopsie",
       "developerName": "CodeVN",
-      "subtitle": "",
       "version": "7.17.1",
       "versionDate": "2023-12-25",
       "versionDescription": "7.17.1",
@@ -20,6 +19,20 @@
         "https://r.yattee.stream/screenshots/iOS/trending.png",
         "https://r.yattee.stream/screenshots/iOS/player.png",
         "https://r.yattee.stream/screenshots/iOS/search-suggestions.png"
+      ]
+      "subtitle": "Loopsie++",
+      "absoluteVersion": "7.17.1",
+      "appID": "com.codevn.loopsie",
+      "category": "AI",
+      "versions": [
+        {
+          "version": "7.17.1",
+          "date": "2023-12-25",
+          "downloadURL": "https://ia801204.us.archive.org/9/items/loopsie-7.17.1-le-ti/Loopsie%2B%2B_7.17.1_LeTi.ipa",
+          "localizedDescription": "7.17.1",
+          "size": 123000000,
+          "absoluteVersion": "7.17.1"
+        }
       ]
     },
     {
