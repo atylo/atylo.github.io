@@ -9,9 +9,9 @@
       "developerName": "CodeVN",
       "version": "7.17.1",
       "versionDate": "2023-12-25",
-      "versionDescription": "",
+      "versionDescription": "7.17.1",
       "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
-      "localizedDescription": "",
+      "localizedDescription": "7.17.1",
       "iconURL": "https://i.imgur.com/JP0Fncv.png",
       "tintColor": "663399",
       "size": 123000000,
@@ -21,14 +21,13 @@
       "subtitle": "Loopsie++",
       "absoluteVersion": "7.17.1",
       "appID": "com.codevn.loopsie",
-      "category": "AI",
       "versions": [
         {
           "version": "7.17.1",
           "date": "2023-12-25",
           "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
           "localizedDescription": "7.17.1",
-          "size": 123000000,
+          "size": 12300000,
           "absoluteVersion": "7.17.1"
         }
       ]
