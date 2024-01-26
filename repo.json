@@ -10,7 +10,7 @@
   "apps": [
     {
       "name": "Loopsie++",
-      "bundleIdentifier": "com.codevn.loopsie",
+      "bundleIdentifier": "com.gamelounge.loopsie.ios",
       "developerName": "CodeVN",
       "version": "7.17.1",
       "versionDate": "2023-12-25",
@@ -25,7 +25,7 @@
       ],
       "subtitle": "Loopsie++",
       "absoluteVersion": "7.17.1",
-      "appID": "com.codevn.loopsie",
+      "appID": "",
       "category": "AI",
       "versions": [
         {
@@ -40,7 +40,7 @@
     },
     {
       "name": "Chat AI++",
-      "bundleIdentifier": "com.codevn.chatai",
+      "bundleIdentifier": "com.eleven.chatgpt",
       "developerName": "CodeVN",
       "version": "1.9",
       "versionDate": "2023-05-24",
@@ -55,7 +55,7 @@
       ],
       "subtitle": "Chat AI Ask Anything app",
       "absoluteVersion": "1.9",
-      "appID": "com.codevn.chatai",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -70,12 +70,12 @@
     },
     {
       "name": "Dreamerland++",
-      "bundleIdentifier": "com.codevn.Dreamerland",
+      "bundleIdentifier": "art.dreamerai.ios",
       "developerName": "CodeVN",
-      "version": "1.14.2",
-      "versionDate": "2023-12-25",
+      "version": "1.16.3",
+      "versionDate": "2024-01-25",
       "versionDescription": "",
-      "downloadURL": "https://ia800501.us.archive.org/26/items/dreamerland-1.14.2-le-ti/Dreamerland%2B%2B_1.14.2_LeTi.ipa",
+      "downloadURL": "https://ia801308.us.archive.org/24/items/dreamerland-1.16.3-le-ti/Dreamerland%2B%2B_1.16.3_LeTi.ipa",
       "localizedDescription": "Unleash your creativity with Dreamerland! Create stunning AI generated art in any style you can imagine. Download now and inspire others with your unique creations!\n\nThe All-in-one AI art generation tool! Let your imagination run wild as you create beautiful, unique and captivating pieces of art with the help of our advanced AI algorithms.\n\nWhether you\u2019re an artist, designer, or simply looking for a new creative outlet, Dreamerland is the perfect tool for you. With its intuitive interface and powerful AI engine, you\u2019ll be able to create stunning pieces of art with just a few taps.\n\nFrom anime to realistic, Dreamerland has got you covered. Choose from a vast library of styles and themes, or create your own custom style with ease. The possibilities are endless, and the results are truly breathtaking.\n\nSo why wait? Download Dreamerland today and unleash your inner artist!\n\n\u2013 No skill needed\n\nDreamerland is designed to be easy and accessible for everyone, regardless of your artistic skills or experience. Whether you\u2019re a professional artist or have never created art before, you can use Dreamerland to generate beautiful, one-of-a-kind pieces. With no skill required, you can unleash your imagination and create stunning art with ease!\n\n\u2013 Explore more than 100+ styles\n\nWith Dreamerland, you\u2019ll have access to a vast library of styles and themes, allowing you to generate art in a wide range of styles. Whether you prefer anime, abstract, realistic, or something in-between, there\u2019s a style for everyone! With over 100 styles to choose from, the possibilities for your art are endless.\n\n\u2013 Unleash your creativity\n\nLet your imagination run wild and create art that\u2019s truly unique and personal. With Dreamerland, you\u2019ll have the power to generate art in any style you can imagine. Whether you\u2019re looking to create a piece for your work or just for fun, Dreamerland is the perfect generator for you!\n\n\u2013 Share your creations with the world\n\nShow off your art to the world and share it with your friends and community. Dreamerland makes it easy to share your creations on social media, or save them to your device for later. Impress your friends and inspire others with your unique and personal art, created by Dreamerland!\n\n\u2013 How does it Work?\n\n1. Input the dream you think of\n\n2. Choose a style or theme you want\n\n3. Let AI create the art\n\n4. Save and share it to the world.",
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/06/Dreamerland.jpeg",
       "tintColor": "663399",
@@ -84,23 +84,23 @@
         "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
       ],
       "subtitle": " Create stunning AI generated art",
-      "absoluteVersion": "1.14.2",
-      "appID": "com.codevn.Dreamerland",
+      "absoluteVersion": "1.16.3",
+      "appID": "",
       "category": "AI",
       "versions": [
         {
-          "version": "1.14.2",
-          "date": "2023-12-25",
-          "downloadURL": "https://ia800501.us.archive.org/26/items/dreamerland-1.14.2-le-ti/Dreamerland%2B%2B_1.14.2_LeTi.ipa",
-          "localizedDescription": "1.14.2",
+          "version": "1.16.3",
+          "date": "2024-01-25",
+          "downloadURL": "https://ia801308.us.archive.org/24/items/dreamerland-1.16.3-le-ti/Dreamerland%2B%2B_1.16.3_LeTi.ipa",
+          "localizedDescription": "1.16.3",
           "size": 150000000,
-          "absoluteVersion": "1.14.2"
+          "absoluteVersion": "1.16.3"
         }
       ]
     },
     {
       "name": "YouEnhanced",
-      "bundleIdentifier": "com.miro.uyouplusextra",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "MiRO",
       "version": "19.02.1",
       "versionDate": "2024-01-18",
@@ -115,7 +115,7 @@
       ],
       "subtitle": "YouEnhanced",
       "absoluteVersion": "19.02.1",
-      "appID": "com.miro.uyouplusextra",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -130,7 +130,7 @@
     },
     {
       "name": "UniDream++",
-      "bundleIdentifier": "com.codevn.unidream",
+      "bundleIdentifier": "com.thirteenleafclover.art.generator",
       "developerName": "CodeVN",
       "version": "4.9.3",
       "versionDate": "2024-01-18",
@@ -145,7 +145,7 @@
       ],
       "subtitle": "create your own AI art generated avatars",
       "absoluteVersion": "4.9.3",
-      "appID": "com.codevn.unidream",
+      "appID": "",
       "category": "AI",
       "versions": [
         {
@@ -160,7 +160,7 @@
     },
     {
       "name": "Photo Of Clarity++",
-      "bundleIdentifier": "com.codevn.clarityai",
+      "bundleIdentifier": "com.bubuyanyu.EnhancerKit",
       "developerName": "CodeVN",
       "version": "1.8.8",
       "versionDate": "2023-05-24",
@@ -175,7 +175,7 @@
       ],
       "subtitle": "Photo Of Clarity \u2013 AI Enhancer",
       "absoluteVersion": "1.8.8",
-      "appID": "com.codevn.clarityai",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -190,7 +190,7 @@
     },
     {
       "name": "AirGlow++",
-      "bundleIdentifier": "com.codevn.airglow",
+      "bundleIdentifier": "com.magicv.airglow",
       "developerName": "CodeVN",
       "version": "1.0.5",
       "versionDate": "2023-05-24",
@@ -205,7 +205,7 @@
       ],
       "subtitle": "Create magical videos to share",
       "absoluteVersion": "1.0.5",
-      "appID": "com.codevn.airglow",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -220,7 +220,7 @@
     },
     {
       "name": "EPIK++",
-      "bundleIdentifier": "com.codevn.epik",
+      "bundleIdentifier": "com.snowcorp.epik",
       "developerName": "CodeVN",
       "version": "4.2.32",
       "versionDate": "2023-11-24",
@@ -235,7 +235,7 @@
       ],
       "subtitle": "EPIK Pro",
       "absoluteVersion": "4.2.32",
-      "appID": "com.codevn.epik",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -265,7 +265,7 @@
       ],
       "subtitle": "",
       "absoluteVersion": "5.4.0",
-      "appID": "co.appnation.geniechat",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -280,7 +280,7 @@
     },
     {
       "name": "Prisma++",
-      "bundleIdentifier": "com.codevn.prisma",
+      "bundleIdentifier": "com.prisma-ai.app",
       "developerName": "CodeVN",
       "version": "4.7.9",
       "versionDate": "2023-05-24",
@@ -295,7 +295,7 @@
       ],
       "subtitle": "Turn photos into art",
       "absoluteVersion": "4.7.9",
-      "appID": "com.codevn.prisma",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -310,7 +310,7 @@
     },
     {
       "name": "Police Scanner++",
-      "bundleIdentifier": "com.codevn.policescanner",
+      "bundleIdentifier": "com.policescanner.app",
       "developerName": "CodeVN",
       "version": "1.5",
       "versionDate": "2023-05-24",
@@ -325,7 +325,7 @@
       ],
       "subtitle": "Police Scanner",
       "absoluteVersion": "1.5",
-      "appID": "com.codevn.policescanner",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -340,7 +340,7 @@
     },
     {
       "name": "Mimo++",
-      "bundleIdentifier": "com.codevn.mimo",
+      "bundleIdentifier": "com.getmimo.mimo",
       "developerName": "CodeVN",
       "version": "6.23.0",
       "versionDate": "2023-11-24",
@@ -355,7 +355,7 @@
       ],
       "subtitle": "Mimo",
       "absoluteVersion": "6.23.0",
-      "appID": "com.codevn.mimo",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -370,7 +370,7 @@
     },
     {
       "name": "Picture Mushroom++",
-      "bundleIdentifier": "com.codevn.picmushroom",
+      "bundleIdentifier": "cn.danatech.pictureMushroom",
       "developerName": "CodeVN",
       "version": "2.11.1",
       "versionDate": "2023-11-24",
@@ -385,7 +385,7 @@
       ],
       "subtitle": "Picture Mushroom recognise schrooms",
       "absoluteVersion": "2.11.1",
-      "appID": "com.codevn.picmushroom",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -400,7 +400,7 @@
     },
     {
       "name": "Picture Bird++",
-      "bundleIdentifier": "com.codevn.picbird",
+      "bundleIdentifier": "cn.danatech.pictureBird",
       "developerName": "CodeVN",
       "version": "2.12.19",
       "versionDate": "2023-11-24",
@@ -415,7 +415,7 @@
       ],
       "subtitle": "Picture Bird recognise birds",
       "absoluteVersion": "2.12.19",
-      "appID": "com.codevn.picbird",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -430,7 +430,7 @@
     },
     {
       "name": "Animatix",
-      "bundleIdentifier": "com.codevn.animatix",
+      "bundleIdentifier": "com.codeorgana.animatix",
       "developerName": "CodeVN",
       "version": "1.4.6",
       "versionDate": "2023-05-24",
@@ -445,7 +445,7 @@
       ],
       "subtitle": "Turn your photos into captivating animations and cartoons",
       "absoluteVersion": "1.4.6",
-      "appID": "com.codevn.animatix",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -460,7 +460,7 @@
     },
     {
       "name": "Babbel++",
-      "bundleIdentifier": "com.codevn.babbel",
+      "bundleIdentifier": "com.babbel.babbelMulti",
       "developerName": "CodeVN",
       "version": "21.22.0",
       "versionDate": "2023-01-04",
@@ -475,7 +475,7 @@
       ],
       "subtitle": "interactive lessons rethink old-school language education",
       "absoluteVersion": "21.22.0",
-      "appID": "com.codevn.babbel",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -490,7 +490,7 @@
     },
     {
       "name": "Meitu++",
-      "bundleIdentifier": "com.codevn.meitu",
+      "bundleIdentifier": "com.meitu.mtxx",
       "developerName": "CodeVN",
       "version": "9.9.30",
       "versionDate": "2023-01-01",
@@ -505,7 +505,7 @@
       ],
       "subtitle": "All-in-one photo and video free + AI art gen",
       "absoluteVersion": "9.9.30",
-      "appID": "com.codevn.meitu",
+      "appID": "",
       "category": "AI",
       "versions": [
         {
@@ -520,7 +520,7 @@
     },
     {
       "name": "Doppi",
-      "bundleIdentifier": "com.codevn.doppi",
+      "bundleIdentifier": "com.ondalabs.doppi",
       "developerName": "CodeVN",
       "version": "4.3.12",
       "versionDate": "2023-01-01",
@@ -535,7 +535,7 @@
       ],
       "subtitle": "Doppi",
       "absoluteVersion": "4.3.12",
-      "appID": "com.codevn.doppi",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -550,7 +550,7 @@
     },
     {
       "name": "PlayerXtreme++",
-      "bundleIdentifier": "com.codevn.PlayerXtreme",
+      "bundleIdentifier": "mca.mcplayer",
       "developerName": "CodeVN",
       "version": "1.4.19",
       "versionDate": "2022-11-22",
@@ -565,7 +565,7 @@
       ],
       "subtitle": "PlayerXtreme",
       "absoluteVersion": "1.4.19",
-      "appID": "com.codevn.PlayerXtreme",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -580,7 +580,7 @@
     },
     {
       "name": "Memrise++",
-      "bundleIdentifier": "com.codevn.memrise",
+      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
       "developerName": "CodeVN",
       "version": "2021.5.24",
       "versionDate": "2022-11-20",
@@ -595,7 +595,7 @@
       ],
       "subtitle": "Memrise",
       "absoluteVersion": "2021.5.24",
-      "appID": "com.codevn.memrise",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -610,7 +610,7 @@
     },
     {
       "name": "Facetune++",
-      "bundleIdentifier": "com.codevn.facetune",
+      "bundleIdentifier": "com.lightricks.Facetune2",
       "developerName": "CodeVN",
       "version": "3.36.2",
       "versionDate": "2023-10-04",
@@ -625,7 +625,7 @@
       ],
       "subtitle": "Facetune",
       "absoluteVersion": "3.36.2",
-      "appID": "com.codevn.facetune",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -640,7 +640,7 @@
     },
     {
       "name": "Picsew++",
-      "bundleIdentifier": "com.codevn.picsew",
+      "bundleIdentifier": "com.sugarmo.ScrollClip",
       "developerName": "CodeVN",
       "version": "3.9.4",
       "versionDate": "2022-11-16",
@@ -655,7 +655,7 @@
       ],
       "subtitle": "Picsew",
       "absoluteVersion": "3.9.4",
-      "appID": "com.codevn.picsew",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -670,7 +670,7 @@
     },
     {
       "name": "PrettyUp++",
-      "bundleIdentifier": "com.codevn.prettyup",
+      "bundleIdentifier": "com.floatcamellia.prettyup",
       "developerName": "CodeVN",
       "version": "6.8.1",
       "versionDate": "2022-11-17",
@@ -685,7 +685,7 @@
       ],
       "subtitle": "PrettyUp",
       "absoluteVersion": "6.8.1",
-      "appID": "com.codevn.prettyup",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -700,7 +700,7 @@
     },
     {
       "name": "Elevate++",
-      "bundleIdentifier": "com.codevn.Elevate",
+      "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "CodeVN",
       "version": "5.125.0",
       "versionDate": "2023-12-25",
@@ -715,7 +715,7 @@
       ],
       "subtitle": "Elevate",
       "absoluteVersion": "5.125.0",
-      "appID": "com.codevn.Elevate",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -730,7 +730,7 @@
     },
     {
       "name": "Video Grabber",
-      "bundleIdentifier": "com.codevn.VideoGrabber",
+      "bundleIdentifier": "com.ls.VideoGrabber",
       "developerName": "Unknown",
       "version": "1.0.8",
       "versionDate": "2022-09-27",
@@ -745,7 +745,7 @@
       ],
       "subtitle": "Video Grabber",
       "absoluteVersion": "1.0.8",
-      "appID": "com.codevn.VideoGrabber",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -760,7 +760,7 @@
     },
     {
       "name": "EnhanceFox++",
-      "bundleIdentifier": "com.codevn.EnhanceFox",
+      "bundleIdentifier": "com.risingcabbage.enhancefox",
       "developerName": "CodeVN",
       "version": "6.9.3",
       "versionDate": "2023-10-04",
@@ -775,7 +775,7 @@
       ],
       "subtitle": "EnhanceFox++",
       "absoluteVersion": "6.9.3",
-      "appID": "com.codevn.EnhanceFox",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -790,7 +790,7 @@
     },
     {
       "name": "GBox",
-      "bundleIdentifier": "com.atylo.gbox",
+      "bundleIdentifier": "com.ncs.gbox",
       "developerName": "GBOXdev",
       "version": "4.5.2",
       "versionDate": "2023-09-19",
@@ -805,7 +805,7 @@
       ],
       "subtitle": "an apps' store and signer",
       "absoluteVersion": "4.5.2",
-      "appID": "com.atylo.gbox",
+      "appID": "",
       "category": "Stores",
       "versions": [
         {
@@ -820,7 +820,7 @@
     },
     {
       "name": "Misaka",
-      "bundleIdentifier": "com.misaka.misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
       "developerName": "Rin",
       "version": "8.2.4",
       "versionDate": "2024-01-19",
@@ -835,7 +835,7 @@
       ],
       "subtitle": "Semi-Jailbroken tweaks store",
       "absoluteVersion": "8.2.4",
-      "appID": "com.misaka.misaka",
+      "appID": "",
       "category": "Stores",
       "versions": [
         {
@@ -850,7 +850,7 @@
     },
     {
       "name": "AppInstaller",
-      "bundleIdentifier": "com.app.installer",
+      "bundleIdentifier": "com.AppInstalleriOS.AppInstaller-iOS",
       "developerName": "AppInstalleriOS",
       "version": "1.0",
       "versionDate": "2023-09-01",
@@ -865,7 +865,7 @@
       ],
       "subtitle": "AppInstaller Store",
       "absoluteVersion": "1.0",
-      "appID": "com.app.installer",
+      "appID": "",
       "category": "Stores",
       "versions": [
         {
@@ -880,7 +880,7 @@
     },
     {
       "name": "Blacklist",
-      "bundleIdentifier": "com.app.blacklist",
+      "bundleIdentifier": "com.AppInstalleriOS.Blacklist",
       "developerName": "AppInstalleriOS",
       "version": "1.0",
       "versionDate": "2023-09-23",
@@ -895,7 +895,7 @@
       ],
       "subtitle": "Blacklist",
       "absoluteVersion": "1.0",
-      "appID": "com.app.blacklist",
+      "appID": "",
       "category": "Tweaks",
       "versions": [
         {
@@ -925,7 +925,7 @@
       ],
       "subtitle": "Laggy AI art genetator, DPixel modified free version",
       "absoluteVersion": "3.6.0",
-      "appID": "com.nufa.app",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -955,7 +955,7 @@
       ],
       "subtitle": "Cracked by Parwiz. Formerly known as iToon, Wonder App, iVatar, iFace",
       "absoluteVersion": "2.0.2",
-      "appID": "com.mrauxsiuh.doodle",
+      "appID": "",
       "category": "AI",
       "versions": [
         {
@@ -970,7 +970,7 @@
     },
     {
       "name": "Airt - AI Art Generator",
-      "bundleIdentifier": "com.me.airt",
+      "bundleIdentifier": "co.appnation.artgenerator",
       "developerName": "someone",
       "version": "2.1.1",
       "versionDate": "2023-10-04",
@@ -985,7 +985,7 @@
       ],
       "subtitle": "Airt - AI Art Generator",
       "absoluteVersion": "2.1.1",
-      "appID": "com.me.airt",
+      "appID": "",
       "category": "AI",
       "versions": [
         {
@@ -1015,7 +1015,7 @@
       ],
       "subtitle": "tapuniverse AI Art Generator",
       "absoluteVersion": "2.0.2",
-      "appID": "com.tapuniverse.aiartgenerator",
+      "appID": "",
       "category": "AI",
       "versions": [
         {
@@ -1030,7 +1030,7 @@
     },
     {
       "name": "Avatan++",
-      "bundleIdentifier": "com.codevn.avatan",
+      "bundleIdentifier": "ru.avatan",
       "developerName": "CodeVN",
       "version": "5.22",
       "versionDate": "2023-10-04",
@@ -1045,7 +1045,7 @@
       ],
       "subtitle": "",
       "absoluteVersion": "5.22",
-      "appID": "com.codevn.avatan",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -1060,7 +1060,7 @@
     },
     {
       "name": "BodyFilter++",
-      "bundleIdentifier": "com.codevn.bodyfilter",
+      "bundleIdentifier": "com.tickettothemoon.bodyfilter",
       "developerName": "CodeVN",
       "version": "1.0.4",
       "versionDate": "2023-10-04",
@@ -1075,7 +1075,7 @@
       ],
       "subtitle": "lose weight",
       "absoluteVersion": "1.0.4",
-      "appID": "com.codevn.bodyfilter",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -1105,7 +1105,7 @@
       ],
       "subtitle": "",
       "absoluteVersion": "1.3.2",
-      "appID": "com.vuxuan.aiart",
+      "appID": "",
       "category": "AI",
       "versions": [
         {
@@ -1135,7 +1135,7 @@
       ],
       "subtitle": "",
       "absoluteVersion": "6.1",
-      "appID": "gs.dreamer.aidreamer",
+      "appID": "",
       "category": "AI",
       "versions": [
         {
@@ -1150,7 +1150,7 @@
     },
     {
       "name": "RetroArch",
-      "bundleIdentifier": "libretro.retroarch",
+      "bundleIdentifier": "com.libretro.RetroArchiOS11",
       "developerName": "Libretro",
       "version": "1.16.0",
       "versionDate": "2023-10-10",
@@ -1165,7 +1165,7 @@
       ],
       "subtitle": "RetroArch",
       "absoluteVersion": "1.16.0",
-      "appID": "libretro.retroarch",
+      "appID": "",
       "category": "Emulators",
       "versions": [
         {
@@ -1180,7 +1180,7 @@
     },
     {
       "name": "ChatGenius++",
-      "bundleIdentifier": "com.codevn.chatgenius",
+      "bundleIdentifier": "com.chatgtp.gpt-3.Chat-GPT",
       "developerName": "CodeVN",
       "version": "2.252",
       "versionDate": "2023-12-25",
@@ -1195,7 +1195,7 @@
       ],
       "subtitle": "",
       "absoluteVersion": "2.252",
-      "appID": "com.codevn.chatgenius",
+      "appID": "",
       "category": "AI",
       "versions": [
         {
@@ -1211,11 +1211,11 @@
     {
       "name": "AI ARTA: Art & Photo Generator",
       "bundleIdentifier": "com.aiby.aiart",
-      "developerName": "AppTesters",
+      "developerName": "Someone",
       "version": "2.8",
       "versionDate": "2023-12-25",
       "versionDescription": "",
-      "downloadURL": "https://omtk.xyz/IPA/AI-Arta.ipa",
+      "downloadURL": "https://file.ipaomtk.com/ipa/AI-Arta.ipa",
       "localizedDescription": "Old AI art generator. May not work now",
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/ai-arta-art-ampamp-photo-generator-poster.png",
       "tintColor": "663399",
@@ -1225,7 +1225,7 @@
       ],
       "subtitle": "",
       "absoluteVersion": "2.8",
-      "appID": "com.aiby.aiart",
+      "appID": "",
       "category": "AI",
       "versions": [
         {
@@ -1255,7 +1255,7 @@
       ],
       "subtitle": "",
       "absoluteVersion": "20240108.0.0",
-      "appID": "com.beauchamp.Messenger.external",
+      "appID": "",
       "category": "AI",
       "versions": [
         {
@@ -1285,7 +1285,7 @@
       ],
       "subtitle": "",
       "absoluteVersion": "0.3",
-      "appID": "com.Frontesque.vuetube",
+      "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
@@ -1315,7 +1315,7 @@
       ],
       "subtitle": "",
       "absoluteVersion": "1.0.3",
-      "appID": "com.enjoy.aichat.chatbot.openchat",
+      "appID": "",
       "category": "AI",
       "versions": [
         {
