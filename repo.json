@@ -102,11 +102,11 @@
       "name": "YouEnhanced",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "MiRO",
-      "version": "19.04.3",
-      "versionDate": "2024-02-13",
+      "version": "19.07.5",
+      "versionDate": "2024-02-27",
       "versionDescription": "",
-      "downloadURL": "https://github.com/arichornlover/uYouEnhanced/releases/download/v19.04.3-3.0.1/uYouEnhanced_19.04.3_3.0.1.ipa",
-      "localizedDescription": "Updated version of uYou, with uYouPlus and Extra to work in 2023. Current YouTube IPA: v19.04.3\nCurrent uYou Version: v3.0.1\n",
+      "downloadURL": "https://github.com/arichornlover/uYouEnhanced/releases/download/v19.07.5-3.0.3/uYouEnhanced_19.07.5-3.0.3.ipa",
+      "localizedDescription": "Updated version of uYou, with uYouPlus and Extra to work in 2024. Current YouTube IPA: v19.07.5\nCurrent uYou Version: v3.0.3\n",
       "iconURL": "https://user-images.githubusercontent.com/78001398/271790092-006e81cc-715a-4fbc-aff6-15832e2da8c4.png",
       "tintColor": "663399",
       "size": 150000000,
@@ -114,17 +114,17 @@
         "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
       ],
       "subtitle": "YouEnhanced",
-      "absoluteVersion": "19.04.3",
+      "absoluteVersion": "19.07.5",
       "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
-          "version": "19.04.3",
-          "date": "2024-02-13",
-          "downloadURL": "https://github.com/arichornlover/uYouEnhanced/releases/download/v19.04.3-3.0.1/uYouEnhanced_19.04.3_3.0.1.ipa",
-          "localizedDescription": "19.04.3",
+          "version": "19.07.5",
+          "date": "2024-02-27",
+          "downloadURL": "https://github.com/arichornlover/uYouEnhanced/releases/download/v19.07.5-3.0.3/uYouEnhanced_19.07.5-3.0.3.ipa",
+          "localizedDescription": "19.07.5",
           "size": 150000000,
-          "absoluteVersion": "19.04.3"
+          "absoluteVersion": "19.07.5"
         }
       ]
     },
