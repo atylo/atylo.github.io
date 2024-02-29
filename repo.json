@@ -1367,11 +1367,11 @@
       "versionDescription": "",
       "downloadURL": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.1/org.resonance.store_TrollApps_2.1.ipa",
       "localizedDescription": "TrollApps is an alternative to the iOS App Store for TrollStore users. TrollApps allows users to download apps from repositories and install them directly in TrollStore. TrollApps works on iOS 14.0 and up; make sure to be on the latest version of TrollStore.",
-      "iconURL": "https://github.com/TheResonanceTeam/TrollApps/blob/main/assets/ResonanceStoreIcon.png",
+      "iconURL": "https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/assets/ResonanceStoreIcon.png",
       "tintColor": "db95f8",
       "size": 5950900,
       "screenshotURLs": [
-        "https://github.com/TheResonanceTeam/TrollApps/raw/main/assets/Screenshot-1.png"
+        "https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/assets/Screenshot-1.png"
       ],
       "subtitle": "An App Store alternative for TrollStore.",
       "absoluteVersion": "2.1",
