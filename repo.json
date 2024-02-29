@@ -1327,6 +1327,96 @@
           "absoluteVersion": "1.0.3"
         }
       ]
+    },
+    {
+      "name": "Geranium",
+      "bundleIdentifier": "live.cclerc.geranium",
+      "developerName": "c22dev",
+      "version": "1.1.2",
+      "versionDate": "2024-02-22",
+      "versionDescription": "",
+      "downloadURL": "https://github.com/c22dev/Geranium/releases/download/1.1.2/Geranium.tipa",
+      "localizedDescription": "LocSim, Daemon Manager, Cleaner and Superviser for TrollStore",
+      "iconURL": "https://i.imgur.com/NgGPPKe.png",
+      "tintColor": "fd4354",
+      "size": 5950900,
+      "screenshotURLs": [
+        "https://github.com/c22dev/Geranium/assets/102235607/ea95158f-1101-496b-b868-c3901db97543"
+      ],
+      "subtitle": "1.1.2",
+      "absoluteVersion": "1.1.2",
+      "appID": "live.cclerc.geranium",
+      "category": "TrollStore apps",
+      "versions": [
+        {
+          "version": "1.1.2",
+          "date": "2024-02-22",
+          "downloadURL": "https://github.com/c22dev/Geranium/releases/download/1.1.2/Geranium.tipa",
+          "localizedDescription": "1.1.2",
+          "size": 5950900,
+          "absoluteVersion": "1.1.2"
+        }
+      ]
+    },
+    {
+      "name": "TrollApps",
+      "bundleIdentifier": "org.resonance.store",
+      "developerName": "TheResonanceTeam",
+      "version": "2.1",
+      "versionDate": "2023-12-09",
+      "versionDescription": "",
+      "downloadURL": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.1/org.resonance.store_TrollApps_2.1.ipa",
+      "localizedDescription": "TrollApps is an alternative to the iOS App Store for TrollStore users. TrollApps allows users to download apps from repositories and install them directly in TrollStore. TrollApps works on iOS 14.0 and up; make sure to be on the latest version of TrollStore.",
+      "iconURL": "https://github.com/TheResonanceTeam/TrollApps/blob/main/assets/ResonanceStoreIcon.png",
+      "tintColor": "db95f8",
+      "size": 5950900,
+      "screenshotURLs": [
+        "https://github.com/TheResonanceTeam/TrollApps/raw/main/assets/Screenshot-1.png"
+      ],
+      "subtitle": "An App Store alternative for TrollStore.",
+      "absoluteVersion": "2.1",
+      "appID": "org.resonance.store",
+      "category": "TrollStore apps",
+      "versions": [
+        {
+          "version": "2.1",
+          "date": "2023-12-09",
+          "downloadURL": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.1/org.resonance.store_TrollApps_2.1.ipa",
+          "localizedDescription": "2.1",
+          "size": 5950900,
+          "absoluteVersion": "2.1"
+        }
+      ]
+    },
+    {
+      "name": "Yattee",
+      "bundleIdentifier": "stream.yattee.app",
+      "developerName": "yattee",
+      "version": "1.5.1",
+      "versionDate": "2024-01-28",
+      "versionDescription": "",
+      "downloadURL": "https://github.com/yattee/yattee/releases/download/v1.5.1/Yattee-1.5.1-iOS.ipa",
+      "localizedDescription": "Privacy oriented video player for iOS, tvOS and macOS, Youtube alternative",
+      "iconURL": "https://r.yattee.stream/icons/yattee-150.png",
+      "tintColor": "",
+      "size": 5950900,
+      "screenshotURLs": [
+        "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
+      ],
+      "subtitle": "Youtube alternative",
+      "absoluteVersion": "1.5.1",
+      "appID": "stream.yattee.app",
+      "category": "Tweaked Apps",
+      "versions": [
+        {
+          "version": "1.5.1",
+          "date": "2024-01-28",
+          "downloadURL": "https://github.com/yattee/yattee/releases/download/v1.5.1/Yattee-1.5.1-iOS.ipa",
+          "localizedDescription": "1.5.1",
+          "size": 5950900,
+          "absoluteVersion": "1.5.1"
+        }
+      ]
     }
   ]
 }
