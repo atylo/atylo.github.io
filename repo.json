@@ -83,7 +83,7 @@
       "screenshotURLs": [
         "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
       ],
-      "subtitle": " Create stunning AI generated art",
+      "subtitle": "Create stunning AI generated art",
       "absoluteVersion": "1.16.3",
       "appID": "",
       "category": "AI",
@@ -1415,6 +1415,186 @@
           "localizedDescription": "1.5.1",
           "size": 5950900,
           "absoluteVersion": "1.5.1"
+        }
+      ]
+    },
+    {
+      "name": "ShowMania",
+      "bundleIdentifier": "com.muzice.offline.player",
+      "developerName": "someone",
+      "version": "2.0",
+      "versionDate": "2022-01-01",
+      "versionDescription": "",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/sLzoPeK_VPxbdw",
+      "localizedDescription": "Show Mania Box App has been upgraded to its latest version 2.0, successfully removing its ads. The application is designed for watching Netflix, Apple TV movies, and many others.",
+      "iconURL": "https://senumy.com/wp-content/uploads/2023/11/show-mania-box.png",
+      "tintColor": "",
+      "size": 5950900,
+      "screenshotURLs": [
+        "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
+      ],
+      "subtitle": "watching Netflix, Apple TV movies, and many others",
+      "absoluteVersion": "2.0",
+      "appID": "com.muzice.offline.player",
+      "category": "Shows",
+      "versions": [
+        {
+          "version": "2.0",
+          "date": "2022-01-01",
+          "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/sLzoPeK_VPxbdw",
+          "localizedDescription": "2.0",
+          "size": 5950900,
+          "absoluteVersion": "2.0"
+        }
+      ]
+    },
+    {
+      "name": "Cinema Mate",
+      "bundleIdentifier": "com.cinemtt.apt",
+      "developerName": "someone",
+      "version": "1.0.3",
+      "versionDate": "2022-01-01",
+      "versionDescription": "",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/7-FzloQKxW99CQ",
+      "localizedDescription": "Cine Mate is a mobile application that enables you to watch HD movies and TV shows on iOS devices.",
+      "iconURL": "https://senumy.com/ipa-library/wp-content/uploads/2023/03/Cine-Mate.jpg",
+      "tintColor": "",
+      "size": 5950900,
+      "screenshotURLs": [
+        "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
+      ],
+      "subtitle": "watch HD movies and TV shows on iOS devices",
+      "absoluteVersion": "1.0.3",
+      "appID": "com.cinemtt.apt",
+      "category": "Shows",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2022-01-01",
+          "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/7-FzloQKxW99CQ",
+          "localizedDescription": "",
+          "size": 5950900,
+          "absoluteVersion": "1.0.3"
+        }
+      ]
+    },
+    {
+      "name": "HDO Play",
+      "bundleIdentifier": "com.hdoplay.apt",
+      "developerName": "someone",
+      "version": "1.0.2",
+      "versionDate": "2022-01-01",
+      "versionDescription": "",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/59WHY5a3viGGBA",
+      "localizedDescription": "HDO Play Shows tracker grants access to over 1 million movies and TV shows, making it effortless to explore ratings, clips, trailers, cast info, recommendations, and more.",
+      "iconURL": "https://senumy.com/ipa-library/wp-content/uploads/2023/03/HdoPlay.png",
+      "tintColor": "",
+      "size": 5950900,
+      "screenshotURLs": [
+        "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
+      ],
+      "subtitle": "HDO Play",
+      "absoluteVersion": "1.0.2",
+      "appID": "com.hdoplay.apt",
+      "category": "Shows",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2022-01-01",
+          "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/59WHY5a3viGGBA",
+          "localizedDescription": "",
+          "size": 5950900,
+          "absoluteVersion": "1.0.2"
+        }
+      ]
+    },
+    {
+      "name": "MediaBox HD",
+      "bundleIdentifier": "media.box.hd",
+      "developerName": "someone",
+      "version": "2.5",
+      "versionDate": "2022-01-01",
+      "versionDescription": "",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/NWn19ofqOjWXBw",
+      "localizedDescription": "MovieBox PRO is a new video streaming application.",
+      "iconURL": "https://senumy.com/ipa-library/wp-content/uploads/2023/02/media-box.png",
+      "tintColor": "",
+      "size": 5950900,
+      "screenshotURLs": [
+        "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
+      ],
+      "subtitle": "MovieBox PRO",
+      "absoluteVersion": "2.5",
+      "appID": "media.box.hd",
+      "category": "Shows",
+      "versions": [
+        {
+          "version": "2.5",
+          "date": "2022-01-01",
+          "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/NWn19ofqOjWXBw",
+          "localizedDescription": "",
+          "size": 5950900,
+          "absoluteVersion": "2.5"
+        }
+      ]
+    },
+    {
+      "name": "Netflix VIP",
+      "bundleIdentifier": "com.hd.oplayer33",
+      "developerName": "someone",
+      "version": "1.0.5",
+      "versionDate": "2022-01-01",
+      "versionDescription": "",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/3CDXpNdY_QwKwg",
+      "localizedDescription": "Access your favorite shows and movies with a simple tap, whether you’re on a train, plane, or at home.",
+      "iconURL": "https://senumy.com/wp-content/uploads/2023/09/Netflix-VIP.jpg",
+      "tintColor": "",
+      "size": 5950900,
+      "screenshotURLs": [
+        "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
+      ],
+      "subtitle": "",
+      "absoluteVersion": "1.0.5",
+      "appID": "com.hd.oplayer33",
+      "category": "Shows",
+      "versions": [
+        {
+          "version": "1.0.5",
+          "date": "2022-01-01",
+          "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/3CDXpNdY_QwKwg",
+          "localizedDescription": "",
+          "size": 5950900,
+          "absoluteVersion": "1.0.5"
+        }
+      ]
+    },
+    {
+      "name": "MovieBoxPro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "developerName": "someone",
+      "version": "13.3",
+      "versionDate": "2022-01-01",
+      "versionDescription": "",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/pDDve36NfHM7Hg",
+      "localizedDescription": "",
+      "iconURL": "https://senumy.com/ipa-library/wp-content/uploads/2023/02/MovieBoxPro.png",
+      "tintColor": "",
+      "size": 5950900,
+      "screenshotURLs": [
+        "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
+      ],
+      "subtitle": "",
+      "absoluteVersion": "13.3",
+      "appID": "com.xd.mbp31",
+      "category": "Shows",
+      "versions": [
+        {
+          "version": "13.3",
+          "date": "2022-01-01",
+          "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/pDDve36NfHM7Hg",
+          "localizedDescription": "",
+          "size": 5950900,
+          "absoluteVersion": "13.3"
         }
       ]
     }
