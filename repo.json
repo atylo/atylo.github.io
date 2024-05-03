@@ -1212,10 +1212,10 @@
       "name": "ChatGenius++",
       "bundleIdentifier": "com.chatgtp.gpt-3.Chat-GPT",
       "developerName": "CodeVN",
-      "version": "2.252",
-      "versionDate": "2023-12-25",
+      "version": "2.255",
+      "versionDate": "2024-03-25",
       "versionDescription": "",
-      "downloadURL": "https://ia601204.us.archive.org/34/items/chat-genius-2.252-le-ti/ChatGenius%2B%2B_2.252_LeTi.ipa",
+      "downloadURL": "https://ia800205.us.archive.org/35/items/chat-genius-2.255-le-ti/ChatGenius%2B%2B_2.255_LeTi.ipa",
       "localizedDescription": "Introducing ChatGenius, the ultimate AI-powered companion for your iOS device, powered by OpenAI. This app offers a multitude of features, all designed to make your daily life easier. ChatGenius is the pinnacle of AI innovation, bringing you the highest quality of artificial intelligence through the powerful GPT-4 model.\n\nChatGenius is powered by the ChatGPT API, providing you with the ability to chat with the most advanced bots, DaVinci in the unlimited version, and Curie in the basic version. Whether you need advice, information, or just a friendly conversation, these bots, fueled by GPT-4, are always there for you.\n\nUnleash your creativity with the built-in poetry generation feature, whether you\u2019re a passionate writer or just looking for some inspiration. Overcoming writer\u2019s block has never been easier; with a single tap, the app can generate post ideas for your social media platforms such as Instagram, Twitter, and more.\n\nWith a dedicated interface for research, ChatGenius makes it easy to find the information you need. It even explains complex concepts in an understandable manner, all thanks to the technology powered by OpenAI.\n\nFor developers, the app includes a feature to generate code in any language, making it the perfect companion for coding tasks. The smart editing tool, powered by the ChatGPT API, lets you easily modify your text and code based on your instructions.\n\nChatGenius comes equipped with a speech-to-text feature built on top of Apple\u2019s Speech framework, making it easy for you to input text using your voice. With full VoiceOver support and a text-to-speech feature, the app is accessible to everyone. It also supports both dark and light modes for your convenience.\n\nIn essence, ChatGenius, powered by GPT-4, is a must-have for anyone seeking an AI-powered companion. With its array of features, this app will make your life more productive and enjoyable.\n\nDownload ChatGenius today and experience the power of ChatGPT api on your device.\n\nP.S. This app description was generated with one tap in our app, showcasing the capabilities of the ChatGPT API in action!",
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/11/ChatGenius.jpeg",
       "tintColor": "663399",
@@ -1224,17 +1224,17 @@
         "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
       ],
       "subtitle": "",
-      "absoluteVersion": "2.252",
+      "absoluteVersion": "2.255",
       "appID": "",
       "category": "AI",
       "versions": [
         {
-          "version": "2.252",
-          "date": "2023-12-25",
-          "downloadURL": "https://ia601204.us.archive.org/34/items/chat-genius-2.252-le-ti/ChatGenius%2B%2B_2.252_LeTi.ipa",
-          "localizedDescription": "2.252",
+          "version": "2.255",
+          "date": "2024-03-25",
+          "downloadURL": "https://ia800205.us.archive.org/35/items/chat-genius-2.255-le-ti/ChatGenius%2B%2B_2.255_LeTi.ipa",
+          "localizedDescription": "2.255",
           "size": 5950900,
-          "absoluteVersion": "2.252"
+          "absoluteVersion": "2.255"
         }
       ]
     },
