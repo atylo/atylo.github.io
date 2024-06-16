@@ -732,10 +732,10 @@
       "name": "Elevate++",
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "CodeVN",
-      "version": "5.136.0",
-      "versionDate": "2024-04-20",
+      "version": "5.139.0",
+      "versionDate": "2024-06-14",
       "versionDescription": "",
-      "downloadURL": "https://ia800203.us.archive.org/14/items/elevate-5.136.0-le-ti/Elevate%2B%2B_5.136.0_LeTi.ipa",
+      "downloadURL": "https://ia600308.us.archive.org/21/items/elevate-5.139.0-le-ti/Elevate%2B%2B_5.139.0_LeTi.ipa",
       "localizedDescription": "Elevate is a brain training program designed to improve your mind\u2019s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\n \n\nThe more you train with Elevate, the more you\u2019ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequently use Elevate.\nFEATURES\n\n \n\n\u2022 40+ Brain Training Games: Improve your critical cognitive skills like focus, memory, processing, math, precision, and comprehension with 40+ brain training games.\n\n\u2022 Performance Tracking: Measure your performance against yourself and others. Weekly reports highlight your key accomplishments and opportunities.\n\n\u2022 Personalized Workouts: Customize your daily training focus and choose between 3 and 5 games. Get personalized daily workouts that include the skills you need most.\n\n\u2022 Adaptive Progression: Train your brain with adaptive difficulty progression that ensures your experience is challenging.\n\n\u2022 Workout Calendar: Track your streaks and stay motivated with Elevate\u2019s workout calendar.\n\n\u2022 Elevate Dash on Apple Watch: Play 4 additional mini-games and review your performance on your Apple Watch with Elevate Dash.\n\n\u2022 And more!\n\n \n\nWHY YOU NEED ELEVATE\n\n \n\n\u2022 Express yourself more effectively in writing. Write with clarity, persuasiveness, and concision.\n\n\u2022 Improve your spelling and punctuation. Avoid common writing pitfalls.\n\n\u2022 Become a better reader. Read everyday materials faster and with greater understanding.\n\n\u2022 Expand your vocabulary.\n\n\u2022 Quickly and easily solve everyday math problems. Get better at comparing prices, splitting bills, and calculating discounts and markups.\n\n\u2022 Speak more effectively. Become more articulate and better at communicating tone and meaning.",
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2022/10/Elevate.jpeg",
       "tintColor": "663399",
@@ -744,17 +744,17 @@
         "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
       ],
       "subtitle": "Elevate",
-      "absoluteVersion": "5.136.0",
+      "absoluteVersion": "5.139.0",
       "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
-          "version": "5.136.0",
-          "date": "2024-04-20",
-          "downloadURL": "https://ia800203.us.archive.org/14/items/elevate-5.136.0-le-ti/Elevate%2B%2B_5.136.0_LeTi.ipa",
-          "localizedDescription": "5.136.0",
+          "version": "5.139.0",
+          "date": "2024-06-14",
+          "downloadURL": "https://ia600308.us.archive.org/21/items/elevate-5.139.0-le-ti/Elevate%2B%2B_5.139.0_LeTi.ipa",
+          "localizedDescription": "5.139.0",
           "size": 5950900,
-          "absoluteVersion": "5.136.0"
+          "absoluteVersion": "5.139.0"
         }
       ]
     },
@@ -1409,6 +1409,14 @@
       "category": "TrollStore apps",
       "versions": [
         {
+          "version": "2.3b Hotfix 3",
+          "date": "2023-12-28",
+          "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/bx2Y8S4Qgg9QNA",
+          "localizedDescription": "2.3b Hotfix 3",
+          "size": 5533915,
+          "absoluteVersion": "2.3b Hotfix 3"
+        },
+        {
           "version": "2.1",
           "date": "2023-12-09",
           "downloadURL": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.1/org.resonance.store_TrollApps_2.1.ipa",
@@ -1439,6 +1447,14 @@
       "category": "Tweaked Apps",
       "versions": [
         {
+          "version": "1.5.2-186",
+          "date": "2024-06-13",
+          "downloadURL": "https://github.com/yattee/yattee/releases/download/1.5.2-186/Yattee-1.5.2-iOS.ipa",
+          "localizedDescription": "1.5.2-186",
+          "size": 5950900,
+          "absoluteVersion": "1.5.2-186"
+        },
+        {
           "version": "1.5.1",
           "date": "2024-01-28",
           "downloadURL": "https://github.com/yattee/yattee/releases/download/v1.5.1/Yattee-1.5.1-iOS.ipa",
@@ -1452,10 +1468,10 @@
       "name": "Mangayomi",
       "bundleIdentifier": "com.kodjodevf.mangayomi",
       "developerName": "kodjodevf",
-      "version": "0.2.2",
-      "versionDate": "2024-04-20",
+      "version": "0.2.55",
+      "versionDate": "2024-06-01",
       "versionDescription": "",
-      "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.2.2/Mangayomi-v0.2.2-ios.ipa",
+      "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.2.55/Mangayomi-v0.2.55-ios.ipa",
       "localizedDescription": "Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources. Features include:\n\n    Supports external sources, utilizing the capabilities of the dart_eval package & flutter_qjs package A small Javascript engine supports ES2020\n    Online reading from a variety of sources\n    Watching anime from a variety of sources\n    Local reading of downloaded content\n    A configurable reader with multiple viewers, reading directions and other settings..\n    Tracker support for anime and manga: MyAnimeList, AniList and Kitsu support\n    Categories to organize your library\n    Light and dark themes\n    Create backups locally to read offline or to your desired cloud service\n",
       "iconURL": "https://raw.githubusercontent.com/kodjodevf/mangayomi/main/assets/app_icons/icon-red.png",
       "tintColor": "",
@@ -1464,19 +1480,49 @@
         "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
       ],
       "subtitle": "Watch anime",
-      "absoluteVersion": "0.2.2",
+      "absoluteVersion": "0.2.55",
       "appID": "com.kodjodevf.mangayomi",
       "category": "Tweaked Apps",
       "versions": [
         {
-          "version": "0.2.2",
-          "date": "2024-04-20",
-          "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.2.2/Mangayomi-v0.2.2-ios.ipa",
-          "localizedDescription": "0.2.2",
+          "version": "0.2.55",
+          "date": "2024-06-01",
+          "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.2.55/Mangayomi-v0.2.55-ios.ipa",
+          "localizedDescription": "0.2.55",
           "size": 5950900,
-          "absoluteVersion": "0.2.2"
+          "absoluteVersion": "0.2.55"
         }
       ]
-    }
+    },
+    {
+      "name": "Busuu++",
+      "bundleIdentifier": "com.busuu.english.app",
+      "developerName": "Busuu",
+      "version": "27.53.0",
+      "versionDate": "2024-06-01",
+      "versionDescription": "",
+      "downloadURL": "https://ia903205.us.archive.org/21/items/busuu-27.53.0-le-ti/Busuu%2B%2B_27.53.0_LeTi.ipa",
+      "localizedDescription": "Busuu",
+      "iconURL": "https://ipacrack.com/wp-content/uploads/2024/05/Busuu.png",
+      "tintColor": "",
+      "size": 152860665,
+      "screenshotURLs": [
+        "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
+      ],
+      "subtitle": "Busuu",
+      "absoluteVersion": "27.53.0",
+      "appID": "com.busuu.english.app",
+      "category": "Tweaked Apps",
+      "versions": [
+        {
+          "version": "27.53.0",
+          "date": "2024-06-01",
+          "downloadURL": "https://ia903205.us.archive.org/21/items/busuu-27.53.0-le-ti/Busuu%2B%2B_27.53.0_LeTi.ipa",
+          "localizedDescription": "27.53.0",
+          "size": 152860665,
+          "absoluteVersion": "27.53.0"
+        }
+      ]
+    },
   ]
 }
