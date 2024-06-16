@@ -1414,15 +1414,7 @@
           "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/bx2Y8S4Qgg9QNA",
           "localizedDescription": "2.3b Hotfix 3",
           "size": 5533915,
-          "absoluteVersion": "2.3b Hotfix 3"
-        },
-        {
-          "version": "2.1",
-          "date": "2023-12-09",
-          "downloadURL": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.1/org.resonance.store_TrollApps_2.1.ipa",
-          "localizedDescription": "2.1",
-          "size": 5950900,
-          "absoluteVersion": "2.1"
+          "absoluteVersion": "2.3b"
         }
       ]
     },
