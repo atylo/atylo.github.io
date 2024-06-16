@@ -1516,5 +1516,35 @@
         }
       ]
     },
+    {
+      "name": "Reface++",
+      "bundleIdentifier": "com.neocortext.doublicatapp",
+      "developerName": "NEOCORTEXT",
+      "version": "4.1.1",
+      "versionDate": "2024-04-01",
+      "versionDescription": "",
+      "downloadURL": "https://archive.org/download/reface-4.1.1-le-ti/Reface%2B%2B_4.1.1_LeTi.ipa",
+      "localizedDescription": "Reface++",
+      "iconURL": "https://ipacrack.com/wp-content/uploads/2022/06/Reface-1.png",
+      "tintColor": "",
+      "size": 54258721,
+      "screenshotURLs": [
+        "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
+      ],
+      "subtitle": "Reface++",
+      "absoluteVersion": "4.1.1",
+      "appID": "com.neocortext.doublicatapp",
+      "category": "Tweaked Apps",
+      "versions": [
+        {
+          "version": "4.1.1",
+          "date": "2024-04-01",
+          "downloadURL": "https://archive.org/download/reface-4.1.1-le-ti/Reface%2B%2B_4.1.1_LeTi.ipa",
+          "localizedDescription": "4.1.1",
+          "size": 152860665,
+          "absoluteVersion": "4.1.1"
+        }
+      ]
+    }
   ]
 }
