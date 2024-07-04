@@ -102,10 +102,10 @@
       "name": "uYouEnhanced",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "MiRO",
-      "version": "19.21.2",
-      "versionDate": "2024-06-29",
+      "version": "19.24.3",
+      "versionDate": "2024-06-18",
       "versionDescription": "works",
-      "downloadURL": "https://archive.org/download/YouTubeRebornPlus_19.10.5-4.2.6/yt-uYE-19212-304.ipa",
+      "downloadURL": "https://files.drifty.win/uYouEnhanced/uYouEnhanced_19.24.3-3.0.4.ipa",
       "localizedDescription": "This doesn't crash, but bugs with playback present, video buffers and you may see ads occasionally. Updated version of uYou, with uYouPlus and Extra to work in 2024. Current YouTube IPA: v19.14.2\nCurrent uYou Version: v3.0.3\n",
       "iconURL": "https://user-images.githubusercontent.com/78001398/271790092-006e81cc-715a-4fbc-aff6-15832e2da8c4.png",
       "tintColor": "663399",
@@ -114,15 +114,23 @@
         "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
       ],
       "subtitle": "uYouEnhanced",
-      "absoluteVersion": "19.21.2",
+      "absoluteVersion": "19.24.3",
       "appID": "",
       "category": "Tweaked Apps",
       "versions": [
         {
+          "version": "19.24.3",
+          "date": "2024-06-18",
+          "downloadURL": "https://files.drifty.win/uYouEnhanced/uYouEnhanced_19.24.3-3.0.4.ipa",
+          "localizedDescription": "Newest by 19.24.3 by drifty? Might be shady and laggy.",
+          "size": 150000000,
+          "absoluteVersion": "19.24.3"
+        },
+        {
           "version": "19.21.2",
-          "date": "2024-06-29",
+          "date": "2024-06-05",
           "downloadURL": "https://archive.org/download/YouTubeRebornPlus_19.10.5-4.2.6/yt-uYE-19212-304.ipa",
-          "localizedDescription": "19.21.2 This version doesn't crash anymore.",
+          "localizedDescription": "Latest by arichornlover. 19.21.2. This version doesn't crash anymore.",
           "size": 150000000,
           "absoluteVersion": "19.21.2"
         }
