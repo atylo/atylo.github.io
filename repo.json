@@ -12,10 +12,10 @@
       "name": "Loopsie++",
       "bundleIdentifier": "com.gamelounge.loopsie.ios",
       "developerName": "CodeVN",
-      "version": "7.17.1",
-      "versionDate": "2023-12-25",
+      "version": "8.14.0",
+      "versionDate": "2024-10-16",
       "versionDescription": "",
-      "downloadURL": "https://ia801204.us.archive.org/9/items/loopsie-7.17.1-le-ti/Loopsie%2B%2B_7.17.1_LeTi.ipa",
+      "downloadURL": "https://mixcell-my.sharepoint.com/personal/admin_namlee_net/_layouts/15/download.aspx?share=Ed-aWv-vW0NCpEtsPQ0qeVkBap_dPxC6HA2wc11ND7kUyw",
       "localizedDescription": "Turn every pic into an incredible 3D photo! Choose from dozens of unique 3D stickers: butterflies, bubbles, sparkles, snow, and many more.\n\nWe update new effects or presets every week!\n\nLoopsie lets you create stunning photo edits with stickers, special effects, filters and theme presets! Our animation allows you to create 3D Photos, D3D Camera like videos and much more. All-in-one app without any professional equipment. Just a bit of creativity and your photos will come to life with a stunning cinematic effect!\n\nOur motion photo effects make your short videos unique and let your content stand out from other photos and videos. Forget those old photo filters and photo editor, welcome our new breathtaking video loops.\n\n\u2014 Anime Effect \u2014\n\nMake your photo viral by turning yourself into an anime character with our advanced AI technology. It only requires one tap and a few seconds of processing, you will be able to export a 100% cartoon-like portrait!\n\n\u2014 Popular Presets & Special Effects \u2014\n\nAnime, Legends, Vertigo, Motion blur\n\nButterfly, Neon, Sparkle, Cloud, Vaporware, vhs, Indie\n\n\u2014 3D Photo \u2014\n\nAdd a new dimension to your photos.\n\nYou can use our integrated 3D camera or create a 3D photo starting from a normal photo.\n\nYou can choose between a vintage effect like a D3D camera, or a standard high quality 3D picture. Loopsie mimics many movement, from the classic 360 wiggle, to a vertical fast movement.\n\n\u2014 Advanced Technologies \u2014\n\nMachine Learning Based Depth Prediction:\n\nWe built a Neural Network that accurately predicts the depth of every photo.\n\nAugmented Reality Stickers:\n\nLoopsie enriches the picture with 3D augmented reality stickers.\n\nAdvanced 3D Scene Reconstruction:\n\nWe developed a unique algorithm to fill the missing part of the 3D scene\n\n3D Segmentation:\n\nThe neural network we developed will segment the subjects from the scene for a more dimensional view.",
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/08/Loopsie-Deforum-AI-Art.jpeg",
       "tintColor": "663399",
@@ -24,17 +24,17 @@
         "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
       ],
       "subtitle": "Loopsie++",
-      "absoluteVersion": "7.17.1",
+      "absoluteVersion": "8.14.0",
       "appID": "",
       "category": "AI",
       "versions": [
         {
-          "version": "7.17.1",
-          "date": "2023-12-25",
-          "downloadURL": "https://ia801204.us.archive.org/9/items/loopsie-7.17.1-le-ti/Loopsie%2B%2B_7.17.1_LeTi.ipa",
-          "localizedDescription": "7.17.1",
+          "version": "8.14.0",
+          "date": "2024-10-16",
+          "downloadURL": "https://mixcell-my.sharepoint.com/personal/admin_namlee_net/_layouts/15/download.aspx?share=Ed-aWv-vW0NCpEtsPQ0qeVkBap_dPxC6HA2wc11ND7kUyw",
+          "localizedDescription": "8.14.0",
           "size": 123000000,
-          "absoluteVersion": "7.17.1"
+          "absoluteVersion": "8.14.0"
         }
       ]
     },
@@ -1446,12 +1446,12 @@
       "versionDate": "2024-01-28",
       "versionDescription": "",
       "downloadURL": "https://github.com/yattee/yattee/releases/download/v1.5.1/Yattee-1.5.1-iOS.ipa",
-      "localizedDescription": "Privacy oriented video player for iOS, tvOS and macOS, Youtube alternative",
+      "localizedDescription": "Stable version. for the latest beta check the versions. Privacy oriented video player for iOS, tvOS and macOS, Youtube alternative",
       "iconURL": "https://r.yattee.stream/icons/yattee-150.png",
       "tintColor": "",
       "size": 5950900,
       "screenshotURLs": [
-        "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
+        "https://r.yattee.stream/screenshots/all-platforms.png"
       ],
       "subtitle": "Youtube alternative",
       "absoluteVersion": "1.5.1",
@@ -1459,12 +1459,12 @@
       "category": "Tweaked Apps",
       "versions": [
         {
-          "version": "1.5.2-186",
-          "date": "2024-06-13",
-          "downloadURL": "https://github.com/yattee/yattee/releases/download/1.5.2-186/Yattee-1.5.2-iOS.ipa",
-          "localizedDescription": "1.5.2-186",
+          "version": "1.5.2-196",
+          "date": "2024-09-11",
+          "downloadURL": "https://github.com/yattee/yattee/releases/download/1.5.2-196/Yattee-1.5.2-iOS.ipa",
+          "localizedDescription": "Latest beta 1.5.2-196",
           "size": 5950900,
-          "absoluteVersion": "1.5.2-186"
+          "absoluteVersion": "1.5.2-196"
         },
         {
           "version": "1.5.1",
