@@ -72,10 +72,10 @@
       "name": "Dreamerland++",
       "bundleIdentifier": "art.dreamerai.ios",
       "developerName": "CodeVN",
-      "version": "1.18.3",
-      "versionDate": "2024-04-20",
+      "version": "1.23.3",
+      "versionDate": "2024-10-16",
       "versionDescription": "",
-      "downloadURL": "https://ia800204.us.archive.org/3/items/dreamerland-1.18.3-le-ti/Dreamerland%2B%2B_1.18.3_LeTi.ipa",
+      "downloadURL": "https://mixcell-my.sharepoint.com/personal/admin_namlee_net/_layouts/15/download.aspx?share=EYgjasmSZpxItplORNMjsjAB47Inaf3YhzgL7FrqVtKuTQ",
       "localizedDescription": "Unleash your creativity with Dreamerland! Create stunning AI generated art in any style you can imagine. Download now and inspire others with your unique creations!\n\nThe All-in-one AI art generation tool! Let your imagination run wild as you create beautiful, unique and captivating pieces of art with the help of our advanced AI algorithms.\n\nWhether you\u2019re an artist, designer, or simply looking for a new creative outlet, Dreamerland is the perfect tool for you. With its intuitive interface and powerful AI engine, you\u2019ll be able to create stunning pieces of art with just a few taps.\n\nFrom anime to realistic, Dreamerland has got you covered. Choose from a vast library of styles and themes, or create your own custom style with ease. The possibilities are endless, and the results are truly breathtaking.\n\nSo why wait? Download Dreamerland today and unleash your inner artist!\n\n\u2013 No skill needed\n\nDreamerland is designed to be easy and accessible for everyone, regardless of your artistic skills or experience. Whether you\u2019re a professional artist or have never created art before, you can use Dreamerland to generate beautiful, one-of-a-kind pieces. With no skill required, you can unleash your imagination and create stunning art with ease!\n\n\u2013 Explore more than 100+ styles\n\nWith Dreamerland, you\u2019ll have access to a vast library of styles and themes, allowing you to generate art in a wide range of styles. Whether you prefer anime, abstract, realistic, or something in-between, there\u2019s a style for everyone! With over 100 styles to choose from, the possibilities for your art are endless.\n\n\u2013 Unleash your creativity\n\nLet your imagination run wild and create art that\u2019s truly unique and personal. With Dreamerland, you\u2019ll have the power to generate art in any style you can imagine. Whether you\u2019re looking to create a piece for your work or just for fun, Dreamerland is the perfect generator for you!\n\n\u2013 Share your creations with the world\n\nShow off your art to the world and share it with your friends and community. Dreamerland makes it easy to share your creations on social media, or save them to your device for later. Impress your friends and inspire others with your unique and personal art, created by Dreamerland!\n\n\u2013 How does it Work?\n\n1. Input the dream you think of\n\n2. Choose a style or theme you want\n\n3. Let AI create the art\n\n4. Save and share it to the world.",
       "iconURL": "https://i0.wp.com/ipacrack.com/wp-content/uploads/2023/06/Dreamerland.jpeg",
       "tintColor": "663399",
@@ -84,7 +84,7 @@
         "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
       ],
       "subtitle": "Create stunning AI generated art",
-      "absoluteVersion": "1.18.3",
+      "absoluteVersion": "1.23.3",
       "appID": "",
       "category": "AI",
       "versions": [
@@ -1198,29 +1198,33 @@
       "name": "RetroArch",
       "bundleIdentifier": "com.libretro.RetroArchiOS11",
       "developerName": "Libretro",
-      "version": "1.16.0",
-      "versionDate": "2023-10-10",
+      "version": "1.19.1",
+      "versionDate": "2024-10-17",
       "versionDescription": "",
       "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
       "localizedDescription": "RetroArch",
-      "iconURL": "https://tweak-box.com/wp-content/uploads/2019/04/retro-arch-logo-200px.png",
+      "iconURL": "https://raw.githubusercontent.com/libretro/RetroArch/master/pkg/apple/iOS/Resources/Media.xcassets/AppIcon.appiconset/Icon-83.5-3.png",
       "tintColor": "663399",
-      "size": 5950900,
+      "size": 355186124,
       "screenshotURLs": [
-        "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
+        "https://raw.githubusercontent.com/libretro/docs/master/docs/image/retroarch/altstore/screenshot1.png",
+        "https://raw.githubusercontent.com/libretro/docs/master/docs/image/retroarch/altstore/screenshot2.png",
+        "https://raw.githubusercontent.com/libretro/docs/master/docs/image/retroarch/altstore/screenshot3.png",
+        "https://raw.githubusercontent.com/libretro/docs/master/docs/image/retroarch/altstore/screenshot4.png",
+        "https://raw.githubusercontent.com/libretro/docs/master/docs/image/retroarch/altstore/screenshot5.png"
       ],
       "subtitle": "RetroArch",
-      "absoluteVersion": "1.16.0",
+      "absoluteVersion": "1.19.1",
       "appID": "",
       "category": "Emulators",
       "versions": [
         {
-          "version": "1.16.0",
-          "date": "2023-10-10",
+          "version": "1.19.1",
+          "date": "2024-10-17",
           "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
-          "localizedDescription": "1.16.0",
+          "localizedDescription": "1.19.1",
           "size": 5950900,
-          "absoluteVersion": "1.16.0"
+          "absoluteVersion": "1.19.1"
         }
       ]
     },
@@ -1322,7 +1326,7 @@
       "versionDate": "2022-06-22",
       "versionDescription": "",
       "downloadURL": "https://github.com/VueTubeApp/VueTube/releases/download/0.3/VueTube-Unstable-iOS-Canary-Equivalent-June-22-2022.ipa",
-      "localizedDescription": "AN alternative to Youtube, still unstable",
+      "localizedDescription": "An alternative to Youtube, abandoned apparently",
       "iconURL": "https://avatars.githubusercontent.com/u/105111547?s=48&v=4",
       "tintColor": "663399",
       "size": 5950900,
@@ -1378,10 +1382,10 @@
       "name": "Geranium",
       "bundleIdentifier": "live.cclerc.geranium",
       "developerName": "c22dev",
-      "version": "1.1.2",
-      "versionDate": "2024-02-22",
+      "version": "1.1.3",
+      "versionDate": "2024-10-15",
       "versionDescription": "",
-      "downloadURL": "https://github.com/c22dev/Geranium/releases/download/1.1.2/Geranium.tipa",
+      "downloadURL": "https://github.com/c22dev/Geranium/releases/download/1.1.3/Geranium.tipa",
       "localizedDescription": "LocSim, Daemon Manager, Cleaner and Superviser for TrollStore",
       "iconURL": "https://i.imgur.com/NgGPPKe.png",
       "tintColor": "fd4354",
@@ -1389,18 +1393,18 @@
       "screenshotURLs": [
         "https://github.com/c22dev/Geranium/assets/102235607/ea95158f-1101-496b-b868-c3901db97543"
       ],
-      "subtitle": "1.1.2",
-      "absoluteVersion": "1.1.2",
+      "subtitle": "1.1.3",
+      "absoluteVersion": "1.1.3",
       "appID": "live.cclerc.geranium",
       "category": "TrollStore apps",
       "versions": [
         {
-          "version": "1.1.2",
-          "date": "2024-02-22",
-          "downloadURL": "https://github.com/c22dev/Geranium/releases/download/1.1.2/Geranium.tipa",
-          "localizedDescription": "1.1.2",
+          "version": "1.1.3",
+          "date": "2024-09-15",
+          "downloadURL": "hhttps://github.com/c22dev/Geranium/releases/download/1.1.3/Geranium.tipa",
+          "localizedDescription": "1.1.3",
           "size": 5950900,
-          "absoluteVersion": "1.1.2"
+          "absoluteVersion": "1.1.3"
         }
       ]
     },
@@ -1408,29 +1412,29 @@
       "name": "TrollApps",
       "bundleIdentifier": "org.resonance.store",
       "developerName": "TheResonanceTeam",
-      "version": "2.1",
-      "versionDate": "2023-12-09",
+      "version": "2.3",
+      "versionDate": "2024-09-27",
       "versionDescription": "",
-      "downloadURL": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.1/org.resonance.store_TrollApps_2.1.ipa",
-      "localizedDescription": "TrollApps is an alternative to the iOS App Store for TrollStore users. TrollApps allows users to download apps from repositories and install them directly in TrollStore. TrollApps works on iOS 14.0 and up; make sure to be on the latest version of TrollStore.",
+      "downloadURL": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.3/org.resonance.store_2.3_082724.ipa",
+      "localizedDescription": "2.3 version, out of beta, newest release. TrollApps is an alternative to the iOS App Store for TrollStore users. TrollApps allows users to download apps from repositories and install them directly in TrollStore. TrollApps works on iOS 14.0 and up; make sure to be on the latest version of TrollStore.",
       "iconURL": "https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/assets/ResonanceStoreIcon.png",
       "tintColor": "db95f8",
       "size": 5950900,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/assets/Screenshot-1.png"
       ],
-      "subtitle": "An App Store alternative for TrollStore.",
-      "absoluteVersion": "2.1",
+      "subtitle": "An App Store alternative for TrollStore",
+      "absoluteVersion": "2.3",
       "appID": "org.resonance.store",
       "category": "TrollStore apps",
       "versions": [
         {
-          "version": "2.3b Hotfix 3",
-          "date": "2023-12-28",
-          "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/bx2Y8S4Qgg9QNA",
-          "localizedDescription": "2.3b Hotfix 3",
+          "version": "2.3",
+          "date": "2024-09-27",
+          "downloadURL": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.3/org.resonance.store_2.3_082724.ipa",
+          "localizedDescription": "2.3 version, out of beta, newest release",
           "size": 5533915,
-          "absoluteVersion": "2.3b"
+          "absoluteVersion": "2.3"
         }
       ]
     },
@@ -1559,6 +1563,36 @@
           "localizedDescription": "4.1.1",
           "size": 152860665,
           "absoluteVersion": "4.1.1"
+        }
+      ]
+    },
+    {
+      "name": "Imagine++",
+      "bundleIdentifier": "com.vyro.Imagine",
+      "developerName": "CodeVN",
+      "version": "1.6.5",
+      "versionDate": "2024-10-16",
+      "versionDescription": "",
+      "downloadURL": "https://mixcell-my.sharepoint.com/personal/admin_namlee_net/_layouts/15/download.aspx?share=ESdhRjznqs9Frjba9jHUb-wBVA826eI4Mn-sjr_RFAi4NQ",
+      "localizedDescription": "Imagine++",
+      "iconURL": "https://ipacrack.com/wp-content/uploads/2023/11/Imagine.jpeg",
+      "tintColor": "",
+      "size": 54258721,
+      "screenshotURLs": [
+        "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
+      ],
+      "subtitle": "Imagine++",
+      "absoluteVersion": "1.6.5",
+      "appID": "com.vyro.Imagine",
+      "category": "AI",
+      "versions": [
+        {
+          "version": "1.6.5",
+          "date": "2024-10-16",
+          "downloadURL": "https://mixcell-my.sharepoint.com/personal/admin_namlee_net/_layouts/15/download.aspx?share=ESdhRjznqs9Frjba9jHUb-wBVA826eI4Mn-sjr_RFAi4NQ",
+          "localizedDescription": "1.6.5",
+          "size": 152860665,
+          "absoluteVersion": "1.6.5"
         }
       ]
     }
