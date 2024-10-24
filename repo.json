@@ -1291,11 +1291,11 @@
     {
       "name": "Chai",
       "bundleIdentifier": "com.beauchamp.Messenger.external",
-      "developerName": "Parwiz",
-      "version": "20240108.0.0",
-      "versionDate": "2024-01-14",
+      "developerName": "binnichtaktiv",
+      "version": "2.57",
+      "versionDate": "2024-10-16",
       "versionDescription": "",
-      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/Chai_2.07_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/2Tg2FKWZD-_yag",
       "localizedDescription": "Injected with UnlimitedChats",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.beauchamp.Messenger.external.png",
       "tintColor": "663399",
@@ -1304,17 +1304,17 @@
         "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
       ],
       "subtitle": "",
-      "absoluteVersion": "20240108.0.0",
-      "appID": "",
+      "absoluteVersion": "2.57",
+      "appID": "com.beauchamp.Messenger.external",
       "category": "AI",
       "versions": [
         {
-          "version": "20240108.0.0",
-          "date": "2024-01-14",
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/Chai_2.07_%40thisismanpreets_apptesters.org.ipa",
-          "localizedDescription": "20240108.0.0",
+          "version": "2.57",
+          "date": "2024-10-14",
+          "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/2Tg2FKWZD-_yag",
+          "localizedDescription": "2.57",
           "size": 45295085,
-          "absoluteVersion": "20240108.0.0"
+          "absoluteVersion": "2.57"
         }
       ]
     },
@@ -1509,12 +1509,12 @@
     {
       "name": "Busuu++",
       "bundleIdentifier": "com.busuu.english.app",
-      "developerName": "Busuu",
-      "version": "27.53.0",
-      "versionDate": "2024-06-01",
+      "developerName": "binnichtaktivsipas",
+      "version": "27.58.0",
+      "versionDate": "2024-10-16",
       "versionDescription": "",
-      "downloadURL": "https://ia903205.us.archive.org/21/items/busuu-27.53.0-le-ti/Busuu%2B%2B_27.53.0_LeTi.ipa",
-      "localizedDescription": "Busuu",
+      "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/MsjA9-JfQFWr8g",
+      "localizedDescription": "from @binnichtaktivsipas | Busuu Premium 27.58.0.ipa\n–––––––––––––––––––––––––\nBusuu: Language Learning\n\nPremium features unlocked\n\nTweak made by Peng Yuyan\n\nMinimum OS version 15.0",
       "iconURL": "https://ipacrack.com/wp-content/uploads/2024/05/Busuu.png",
       "tintColor": "",
       "size": 152860665,
@@ -1522,17 +1522,17 @@
         "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
       ],
       "subtitle": "Busuu",
-      "absoluteVersion": "27.53.0",
+      "absoluteVersion": "27.58.0",
       "appID": "com.busuu.english.app",
       "category": "Tweaked Apps",
       "versions": [
         {
-          "version": "27.53.0",
-          "date": "2024-06-01",
-          "downloadURL": "https://ia903205.us.archive.org/21/items/busuu-27.53.0-le-ti/Busuu%2B%2B_27.53.0_LeTi.ipa",
-          "localizedDescription": "27.53.0",
+          "version": "27.58.0",
+          "date": "2024-10-16",
+          "downloadURL": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/MsjA9-JfQFWr8g",
+          "localizedDescription": "27.58.0",
           "size": 152860665,
-          "absoluteVersion": "27.53.0"
+          "absoluteVersion": "27.58.0"
         }
       ]
     },
