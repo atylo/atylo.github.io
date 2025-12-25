@@ -155,7 +155,7 @@
   </unit>
   <unit id="phoenix" v="0.6">
     <n>Balefire Phoenix</n>
-    <info>A phoenix, mutated from radiation and adapted to live in the Wasteland. Despite the attractive appearance, it can be quite dangerous because of his ability to breathe radioactive flames.
+    <info>A phoenix, mutated from radiation and adapted to live in the Wasteland. Despite the attractive appearance, it can be quite dangerous because of its ability to breathe radioactive flames.
 A balefire phoenix is not aggressive to those, whose souls still maintain some good and mercy in them. It can be tamed, then it becomes your friend and companion</info>
   </unit>
   <unit id="owl" v="0.7">
@@ -165,22 +165,22 @@ A balefire phoenix is not aggressive to those, whose souls still maintain some g
   <unit id="pony" v="0.6">
     <n>Ponies, zebras and griffins</n>
     <info>Pony - a dominant species of sentient beings inhabiting Equestria. They`re divided into three races: unicorns, pegasi, and earth ponies. Each race has its advantages and disadvantages. Unicorns have a gift of telekinesis, and with special training can master various magical spells, pegasi can fly, and earth ponies are the most strong, endurant and tenacious of all. Currently, you can meet many unicorns and earth ponies in the Wasteland. Pegasi on the other hoof are rarely encountered, as most of them live in their cloud cities and don`t descend to the ground.
-Zebras - residents of a distant country, the main enemies of the ponies in the Great War. At present, their descendants quite often can be found in Equestria, and, despite the centuries past, the old enmity has not yet been forgotten. Zebras do not have magical powers like unicorns but can use witchcraft, curses, potions, and amulets, and some still remember the ancient art of necromancy.
-Griffins are not so numerous in Equestria, and most of them serve as mercenaries. Physically they are stronger than ponies, and have the ability to fly, but do not own any magical powers</info>
+Zebras - residents of a distant country, the main enemies of the ponies in the Great War. At present, their descendants can quite often be found in Equestria, and, despite the centuries that have passed, the old enmity has not yet been forgotten. Zebras do not have magical powers like unicorns but can use witchcraft, curses, potions, and amulets, and some still remember the ancient art of necromancy.
+Griffins are not so numerous in Equestria, and most of them serve as mercenaries. Physically they are stronger than ponies, and have the ability to fly, but don`t possess any magical powers</info>
   </unit>
   <unit id="raider" v="0.6">
     <n>Raiders</n>
     <info>Raiders are bandits, earth ponies, and unicorns, living on robbery, plunder and brute force.
-This is a real scourge of the Wasteland, who gathered the worst traits and vices. Raiders, as a rule, are extremely aggressive, cruel, greedy, mean, and often simply insane. They always look dirty, ragged and scarred.
+This is a real scourge of the Wasteland, who have gathered the worst traits and vices. Raiders, as a rule, are extremely aggressive, cruel, greedy, mean, and often simply insane. They always look dirty, ragged and scarred.
 Raiders often get into packs or even large gangs, ruled by the leaders. They arrange dens in abandoned buildings, convenient for raiding settlements or robbing commercial caravans and occasional travelers. Anyone invading their territory will be immediately attacked. They are usually poorly armed with melee weapons or old and weathered firearms, and their armor is made from various garbage</info>
   </unit>
   <unit id="raider1">
     <n>Raider-sadist</n>
-    <info>Psychos and maniacs, enjoying more than anything to mock and torture their victims. In battle rely on cold steel or on their own hooves and thick forehead. Because of the dumb habit of "decorating" their dwellings with fragments of decaying corpses, they are constantly sick with various diseases</info>
+    <info>These are psychos and maniacs, enjoying more than anything to mock and torture their victims. In battle, they rely on cold steel or on their own hooves and thick forehead. Because of the dumb habit of "decorating" their dwellings with fragments of decaying corpses, they are constantly sick with various diseases</info>
   </unit>
   <unit id="raider2">
     <n>Raider-rogue</n>
-    <info>Considered as trash even by the raiders` standards. They are always dressed in rags, armed with some pieces of garbage, and their health is undermined by the abundant use of alcohol and drugs</info>
+    <info>Considered trash even by the raiders` standards. They are always dressed in rags, armed with some pieces of garbage, and their health is undermined by the abundant use of alcohol and drugs</info>
   </unit>
   <unit id="raider3">
     <n>Metalhead raider</n>
@@ -312,7 +312,7 @@ Raiders often get into packs or even large gangs, ruled by the leaders. They arr
   </unit>
   <unit id="encl" v="0.8">
     <n>Grand Pegasus Enclave</n>
-    <info>The pegasi military organization that emerged from the remnants of the former Equestrian air forces, once giving air support to other ponies during the War. Shortly before the War`s end pegasi leaders refused to battle with zebras any longer and shut the sky with cloud barrier, separating themselves from the rest of ponykind. Commanding officers of Enclave regard the Wasteland inhabitants as a threat to pegasi society and their own position as rulers. Currently the Enclave possesses the most advanced technologies in all of Equestria including battle airships, the latest generation of magical energy weapons and power armor specially designed for pegasi</info>
+    <info>The pegasi military organization that emerged from the remnants of the former Equestrian air forces, once giving air support to other ponies during the War. Shortly before the War`s end pegasi leaders refused to battle with zebras any longer and shut the sky with cloud barrier, separating themselves from the rest of ponykind. Commanding officers of the Enclave regard the Wasteland inhabitants as a threat to pegasi society and their own position as rulers. Currently the Enclave possesses the most advanced technologies in all of Equestria including battle airships, the latest generation of magical energy weapons and power armor specially designed for pegasi</info>
   </unit>
   <unit id="encl1" v="0.8">
     <n>Enclave officer</n>
@@ -407,7 +407,7 @@ Raiders often get into packs or even large gangs, ruled by the leaders. They arr
   </unit>
   <unit id="hellhound" v="0.8">
     <n>Hellhounds</n>
-    <info>Mutated descendants of diamond dogs, intelligent, but aggressive towards ponies and extremely dangerous. They have natural weapons - teeth and huge, sharp and strong claws on the front legs which can easily cut through metal and stone. They also have a good scent and can easily smell a hidden or even invisible enemy from close enough distance</info>
+    <info>Mutated descendants of diamond dogs, intelligent, but aggressive towards ponies and extremely dangerous. They have natural weapons - teeth and huge, sharp, and strong claws on the front legs which can easily cut through metal and stone. They also have a good scent and can easily smell a hidden or even invisible enemy from close enough distance</info>
   </unit>
   <unit id="hellhound1" v="0.8">
     <n>Enclave Hellhound</n>
@@ -490,7 +490,7 @@ Raiders often get into packs or even large gangs, ruled by the leaders. They arr
   </unit>
   <unit id="scorp1">
     <n>Radscorpion</n>
-    <info>Mutant scorpion of impressive size with a strong chitinous shell and a deadly sting. It is extremely not recommended approaching it</info>
+    <info>Mutant scorpion of impressive size with a strong chitinous shell and a deadly sting. It is extremely recommended not to approach it</info>
   </unit>
   <unit id="scorp2">
     <n>Bloody radscorpion</n>
@@ -8480,7 +8480,7 @@ Ask the Zambezi about this, she has already been to the city several times. Some
       <r p='lp1'>Thank you. But can you tell me more about this settlement?</r>
       <r p='vel'>Of course.
 Covertsign is the refuge of those zebras that rejected the call of the Legion. The zebras of the Legion hate ponies with all their hearts and believe that they must destroy us all. They require each zebra to stand under its banner in this holy war. If some zebras refuse, they become the same enemy of the Legion as ponies</r>
-      <r p='vel'>Covertsign is their hideout, here Legion won`t find them. But it is very difficult to survive in this wilderness. Many get sick, the whole camp is forced to starve from time to time. They get the necessary resources either by long trips to abandoned cities, or extremely dangerous raids into Canterlot. But few dare to take the second option, and those who do are considered as heroes</r>
+      <r p='vel'>Covertsign is their hideout, here Legion won`t find them. But it is very difficult to survive in this wilderness. Many get sick, the whole camp is forced to starve from time to time. They get the necessary resources either by long trips to abandoned cities, or extremely dangerous raids into Canterlot. But few dare to take the second option, and those who do are considered heroes</r>
       <r p='vel'>I came here when I met a group of local zebras that explored the ruins of Manehattan. They needed medical attention, which they had nowhere to get from. I helped them to reach their home, and now here I am treating all those in need. They need help much more than some other ponies</r>
       <r p='lp1'>Thank you, Velvet. Perhaps I will also be able to help them with something</r>
       <r p='vel'>That would be great</r>
@@ -13326,7 +13326,7 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>Come out and identify yourselves!</r>
       <r>Are you playing games with me, sucker?!</r>
       <r>We will find and question you Pinkie Pie style!</r>
-      <r>You think, you can hide from Me?</r>
+      <r>You think you can hide from Me?</r>
       <r>No use hiding from Equestrian army!</r>
       <r>Typical cowardly zebra maneuver</r>
       <r>Come over here, zebra scum!</r>
@@ -13446,7 +13446,7 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>All civilians, keep safe distance</r>
       <r>Alert. Hostiles detected</r>
       <r>Alert. Enemy detected</r>
-      <r>Initialing enemy termination procedure</r>
+      <r>Initiating enemy termination procedure</r>
       <r>Target locked. Opening fire</r>
       <r>Shoot to kill protocol initiated</r>
       <r>Civilians safety is not guaranteed</r>
