@@ -244,7 +244,7 @@ Raiders often get into packs or even large gangs, ruled by the leaders. They arr
   </unit>
   <unit id="merc" v="0.6">
     <n>Mercenaries</n>
-    <info>Mercenaries, also known as "Talons", is a semi-military organization, which mostly consists of griffins. It includes many independent fractions, each with its own leader. Although some mercenaries have their own code of honor, most of them are common scoundrels who are only interested in money and not limited by any morality. They undertake any work whether it`s contract killing, kidnapping or slave trade, and show no pity for their victims. Mercenaries have, as a rule, much better weapons than other Wasteland inhabitants</info>
+    <info>Mercenaries, also known as "Talons", is a semi-military organization, which mostly consists of griffins. It includes many independent factions, each with its own leader. Although some mercenaries have their own code of honor, most of them are common scoundrels who are only interested in money and not limited by any morality. They undertake any work whether it`s contract killing, kidnapping or slave trade, and show no pity for their victims. Mercenaries have, as a rule, much better weapons than other Wasteland inhabitants</info>
   </unit>
   <unit id="merc1" v="0.6">
     <n>Griffin-scout</n>
@@ -7201,7 +7201,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <info>Storage bunker of Steel Rangers. Protected better than any other object in the region. Trying to get in here is a real madness</info>
   </map>
   <map id="sttech" v="0.7">
-    <n>Stable-Tech office, service entrance</n>
+    <n>Stable-Tec office, service entrance</n>
   </map>
   <map id="talisman" v="0.7">
     <n>Alicorns` lair</n>
@@ -7524,7 +7524,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
       <r>[Megaspells] - ordinary spells strengthened by many orders of magnitude, which were used in the Great War as weapons of mass destruction</r>
       <r>[Balefire-bomb] - zebra megaspell base on the dragon fire, concealed in a special device. When activated, it explodes with a monstrous force that can destroy entire cities with a shock wave and poison the area with magical radiation</r>
       <r>[Pink cloud] - A terrible megaspell that destroyed the capital of Equestria, Canterlot. This is a deadly cloud of an extremely toxic gas of pink color, capable of killing all lifeforms. There is no protection from it</r>
-      <r>[Stable-Tech] - a corporation that existed before the Great War. Known for building a variety of shelters-stables in which ponies were supposed to survive in the event of weapons of mass destruction going off</r>
+      <r>[Stable-Tec] - a corporation that existed before the Great War. Known for building a variety of shelters-stables in which ponies were supposed to survive in the event of weapons of mass destruction going off</r>
       <r>[PipBuck] - a portable computer designed by Stable-tech, which ponies can wear on a front leg. It has many functions - tracking the health of the user, sorting inventory, mapping and navigation, viewing any files and keeping records</r>
       <r>[S.A.T.S.] - Stable-Tec Arcane Targeting Spell. A special spell built into PipBuck, which allows you to stop the subjective flow of time and help to aim from any weapon</r>
       <r>[Stable] - a fully autonomous underground shelter for ponies, designed for long-term use. During the War, more than a hundred stables were built, but most of them, for various reasons, are now abandoned, and all of their inhabitants died</r>
@@ -11849,7 +11849,7 @@ Major-General of RAS
 Silent Cloud
 REPORT
 I hereby inform you that I have got results from a preliminary analysis of the current state of the surface and the near-surface soil layer within the study area. The full text of the research work will be transmitted to you within three days from the date of sending this message, but I have to inform you that its results are far from being encouraging. According to the estimates of our research missions, the present level of pollution does not meet the requirements set by the project. Living conditions are unfavorable for life, a comfortable existence will require high expenditure for filtration equipment and isolation systems. Moreover, almost all flora and fauna adapted to life in such extreme conditions, including the once intelligent species of earth ponies and unicorns, who switched to a predatory lifestyle and pose a constant threat to future colonists. According to our calculations, costs of ensuring their safety go beyond reasonable, and reducing the level of environmental pollution seems to be completely impossible even if there was a possibility of using all the resources we have</r>
-      <r mod="1">However, a positive result is provided by the exploration of resources of mannulogenous origin, namely refined metals, equipment, non-perishable food and other products of industrial manufacturing and processing. In view of the almost complete destruction of consumers for these products resulting from the megaspell attacks, a significant share of such reserves is still untouched and remains in satisfactory condition. Of particular interest are military facilities and Stable-Tech shelters, Stables, created before the Last Day. A detailed report on the information collected on these objects will be attached to the text of the research paper.
+      <r mod="1">However, a positive result is provided by the exploration of resources of mannulogenous origin, namely refined metals, equipment, non-perishable food and other products of industrial manufacturing and processing. In view of the almost complete destruction of consumers for these products resulting from the megaspell attacks, a significant share of such reserves is still untouched and remains in satisfactory condition. Of particular interest are military facilities and Stable-Tec shelters, Stables, created before the Last Day. A detailed report on the information collected on these objects will be attached to the text of the research paper.
 We look forward to your further instructions.
 06.14.187
 Colonel Windflow*</r>
